@@ -23,8 +23,8 @@
 */
 
 body {
-  color: rgba(255,255,255,.75);
-  background-color: $sidebar-bg-color;
+  color: $gray-5;
+  background-color: #ddd;
 
   display: flex;
   flex-direction: column;
@@ -41,19 +41,22 @@ body {
 }
 
 #sidebar {
-display: flex;
-
-flex-direction: column;
+  display: flex;
+  flex-direction: column;
   flex: 0 0 auto;
   padding: $section-spacing;
-
-// background-color: #ddd;
 
   header ~ *, header ~ nav, p.lead {
     display: none;
   }
 
-  .category-link, .page-link { color: #fff; }
+  .category-link, .page-link {
+    color: $gray-5;
+
+    &:hover, &:focus {
+      color: $gray-4;
+    }
+  }
 
   @media (min-width: $large-breakpoint) {
     width: $sidebar-width;
@@ -81,16 +84,12 @@ flex-direction: column;
   margin-top: 0;
   margin-bottom: $heading-spacing;
 
-  a {
-    color: inherit;
-    &:hover { color: white; }
-  }
+  a { color: inherit; }
 
   .back-arrow { margin-right: 0.5rem; }
 
   @media (min-width: $large-breakpoint) {
     font-size: 3em;
-    font-weight: bold;
 
     .back-arrow { display: none; }
   }
@@ -126,14 +125,12 @@ flex-direction: column;
 // Make header elements blend into sidebar / background
 .container > header {
   background: transparent;
-  color: white;
+  // color: white;
   margin: ($heading-spacing - $section-spacing)
           $section-spacing
           $section-spacing;
 
   h1, h2 {
-    color: white;
-
     &:last-child {
       margin-bottom: 0;
     }
@@ -234,11 +231,11 @@ flex-direction: column;
 
 #sidebar a {
   svg {
-    fill: rgba(255, 255, 255, 0.85);
+    fill: $gray-5;
   }
 
   &:hover, &:focus, &.active {
-    svg { fill: #fff; }
+    svg { fill: $gray-4; }
   }
 
   &:hover, &:focus {
