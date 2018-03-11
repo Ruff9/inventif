@@ -2,8 +2,7 @@
 layout: post
 title:  'En résidence'
 date:   2017-04-11 20:20:20 +0200
-categories: 3D
-tags: tonfa
+categories: tonfa
 ---
 
 <img src="/assets/images/residence/fablab.jpg"/>

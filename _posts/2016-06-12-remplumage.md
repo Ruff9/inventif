@@ -1,8 +1,9 @@
-{{{
-  "title": "Enfin remplumé",
-  "tags": ["Texte"],
-  "date": "6-12-2016"
-}}}
+---
+layout: post
+title:  'Enfin remplumé'
+date:   2016-06-12 20:20:20 +0200
+categories: texte
+---
 
 Je reviens d'un weekend chez un très vieil ami, on ne s'était pas vus depuis longtemps et on a donc bien pris le temps de se raconter nos vies. Un mot est revenu sans arrêt: le remplumage. Pour lui c'est maintenant, pour moi c'est terminé. Deux très bonnes nouvelles.
 

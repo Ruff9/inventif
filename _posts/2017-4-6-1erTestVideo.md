@@ -1,11 +1,12 @@
-{{{
-  "title": "Tout premier essai vidéo",
-  "tags": ["Danse"],
-  "category": "Tonfa",
-  "date": "6-4-2017"
-}}}
+---
+layout: post
+title:  'Premier test vidéo'
+date:   2017-04-06 20:20:20 +0200
+categories: tonfa
+tags: Danse
+---
 
-<img src="/static/images/premier_test_video.jpg"/>
+<img src="/assets/images/premier_test_video.jpg"/>
 
 Nous sommes dans l'agora du Carrefour Numérique, avec McCall et son reflex. Aucune préparation, c'est un pur essai vidéo.
 

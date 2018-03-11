@@ -1,11 +1,12 @@
-{{{
-  "title": "Philarmonie et stabilisateur",
-  "tags": ["Danse"],
-  "category": "Tonfa",
-  "date": "6-19-2017"
-}}}
+---
+layout: post
+title:  'Philarmonie et stabilisateur'
+date:   2017-06-19 20:20:20 +0200
+categories: tonfa
+tags: video
+---
 
-<img src="/static/images/philarmonie.png"/>
+<img src="/assets/images/philarmonie.png"/>
 
 Nous sommes au pied de la Philarmonie de Paris, et Lilian veut essayer son nouveau stabilisateur. Je n'ai toujours pas travaillé de mouvements, je bouge toujours au hasard. C'est donc lui qui fait de la magie.
 
