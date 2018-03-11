@@ -25,36 +25,79 @@
 body {
   color: rgba(255,255,255,.75);
   background-color: $sidebar-bg-color;
-  background-image: linear-gradient(
-    to bottom,
-    lighten($sidebar-bg-color, 7%),
-    darken($sidebar-bg-color, 7%));
+
   display: flex;
   flex-direction: column;
   min-width: 100vw;
   min-height: 100vh;
+
+  @media (min-width: $large-breakpoint) {
+    flex-direction: row;
+    height: 100vh;
+    overflow: auto;
+    > * { max-height: 100vh; overflow: auto; }
+  }
+
 }
 
 #sidebar {
+display: flex;
+
+flex-direction: column;
   flex: 0 0 auto;
   padding: $section-spacing;
 
-  .site-title {
-    font-family: "Abril Fatface", serif;
-    font-weight: normal;
-    font-size: $large-font-size;
-    color: $orange-title;
-    // color: rgba(255,255,255,.75);
-    margin-top: 0;
-    margin-bottom: $heading-spacing;
+// background-color: #ddd;
 
-    a {
-      color: inherit;
-      &:hover { color: white; }
+  header ~ *, header ~ nav, p.lead {
+    display: none;
+  }
+
+  .category-link, .page-link { color: #fff; }
+
+  @media (min-width: $large-breakpoint) {
+    width: $sidebar-width;
+    text-align: left;
+
+    > *:last-child {
+      margin-bottom: 0;
     }
 
-    .back-arrow { margin-right: 0.5rem; }
+    p.lead, header ~ * {
+      display: block;
+    }
+
+    header ~ nav {
+      display: flex;
+    }
   }
+}
+
+.site-title {
+  font-family: "Merriweather", serif;
+  font-weight: normal;
+  font-size: $large-font-size;
+  color: $orange-title;
+  margin-top: 0;
+  margin-bottom: $heading-spacing;
+
+  a {
+    color: inherit;
+    &:hover { color: white; }
+  }
+
+  .back-arrow { margin-right: 0.5rem; }
+
+  @media (min-width: $large-breakpoint) {
+    font-size: 3em;
+    font-weight: bold;
+
+    .back-arrow { display: none; }
+  }
+}
+
+.sidebar-footer {
+  margin-top: auto;
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -79,13 +122,6 @@ body {
   Mobile view
 ----------------------------------------------------------- */
 
-// Hide secondary nav content in sidebar
-// Hide lead paragraph in sidebar
-#sidebar {
-  header ~ *, header ~ nav, p.lead {
-    display: none;
-  }
-}
 
 // Make header elements blend into sidebar / background
 .container > header {
@@ -102,6 +138,15 @@ body {
       margin-bottom: 0;
     }
   }
+
+  .post-title {
+    text-align: right;
+
+    @media (min-width: $large-breakpoint) {
+      text-align: left;
+    }
+  }
+
 }
 
 
@@ -116,7 +161,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 3.25rem;
+    font-size: 3rem;
     color: $orange-title;
   }
 
@@ -136,6 +181,15 @@ body {
   > *:last-child {
     margin-bottom: 0.5rem;
   }
+
+  @media (min-width: $large-breakpoint) {
+    width: $sidebar-width;
+    text-align: left;
+
+    > *:last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 
@@ -144,40 +198,6 @@ body {
 ----------------------------------------------------------- */
 
 @media (min-width: $large-breakpoint) {
-  body {
-    flex-direction: row;
-    height: 100vh;
-    overflow: auto;
-    > * { max-height: 100vh; overflow: auto; }
-  }
-
-  /* Undo mobile CSS */
-
-  #sidebar, .home #sidebar {
-    width: $sidebar-width;
-    text-align: left;
-
-    > *:last-child {
-      margin-bottom: 0;
-    }
-  }
-
-  #sidebar {
-    .site-title {
-      font-size: 3.25rem;
-
-      a { color: $orange-title;; }
-      .back-arrow { display: none; }
-    }
-
-    p.lead, header ~ * {
-      display: block;
-    }
-
-    header ~ nav {
-      display: flex;
-    }
-  }
 
   .index #sidebar { margin-bottom: 0; }
 
@@ -213,8 +233,6 @@ body {
 ----------------------------------------------------------- */
 
 #sidebar a {
-  color: #fff;
-
   svg {
     fill: rgba(255, 255, 255, 0.85);
   }
@@ -265,23 +283,6 @@ body {
   display: inline-block;
   margin: 0 0.25em;
 }
-
-
-/* -----------------------------------------------------------
-  Sticky sidebar
-
-  Set $sidebar-stick variable to affix sidebar contents to the
-  bottom of the sidebar in tablets and up.
------------------------------------------------------------ */
-
-@if $sidebar-sticky {
-  @media (min-width: $large-breakpoint) {
-    body {
-      align-items: flex-end;
-    }
-  }
-}
-
 
 /* -----------------------------------------------------------
   Reverse layout

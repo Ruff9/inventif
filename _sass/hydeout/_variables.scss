@@ -1,6 +1,10 @@
 // Custom
 $orange-title: OrangeRed;
 
+// Hyde theming
+$sidebar-bg-color: #515151 !default;
+$sidebar-sticky: true !default;
+$layout-reverse: false !default;
 
 $gray-1: #f9f9f9 !default;
 $gray-2: #e5e5e5 !default;
@@ -47,8 +51,3 @@ $default-box-shadow: $box-shadow-size
 
 $code-font-family: Menlo, Monaco, "Courier New", monospace !default;
 $code-color: #bf616a !default;
-
-// Hyde theming
-$sidebar-bg-color: #202020 !default;
-$sidebar-sticky: true !default;
-$layout-reverse: false !default;
