@@ -5,7 +5,7 @@ date:   2015-06-23 20:20:20 +0200
 categories: texte
 ---
 
-<img src="/assets/images/nonSmartphone.jpg"/>
+<img src="{{ site.url }}/assets/images/nonSmartphone.jpg"/>
 
 Je me suis demandé à quel point j'étais acro à mon smartphone. En 2012, je me suis posé la même question avec la cigarette, et j'ai arrêté de fumer d'un coup, pour voir. J'ai tenu cinq jours. En 2015, j'ai décidé de me passer de mon smartphone, pour voir. Cette fois, ça a duré trois mois, et c'était suffisamment intéressant pour me donner envie d'écrire ce texte.
 <!--more-->

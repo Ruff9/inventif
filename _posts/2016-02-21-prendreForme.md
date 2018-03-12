@@ -6,4 +6,4 @@ categories: tonfa
 tags: fablab
 ---
 
-<img src="/assets/images/v1enCours.jpg"/>
+<img src="{{ site.url }}/assets/images/v1enCours.jpg"/>

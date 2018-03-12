@@ -6,7 +6,7 @@ categories: tonfa
 tags: retro fablab lightpainting danse
 ---
 
-<img src="/assets/images/retro_tonfa/resultat.JPG"/>
+<img src="{{ site.url }}/assets/images/retro_tonfa/resultat.JPG"/>
 
 J'ai toujours du mal à expliquer ce projet. Pour ça il faut une première phrase, et j'ai mis du temps à la trouver. Cette première description a même changé en cours de route. Mes motivations ont changées, j'ai changé, et le projet a évolué pour rester intéressant. C'est surtout une histoire de fablabs, mais l'inspiration est venue d'ailleurs.
 
@@ -16,7 +16,7 @@ En février 2011, j'ai assisté à une réunion de jongleurs de feu, sur le parv
 
 En regardant cet homme et ses nunchakus clignotants, je me dis que cela fonctionnerait bien mieux avec des tonfas. J'avais pratiqué le Viet Vo Dao, je savais ce que c'était et vaguement comment ça se manipule.
 
-<img src="/assets/images/retro_tonfa/tonfa_bois.JPG"/>
+<img src="{{ site.url }}/assets/images/retro_tonfa/tonfa_bois.JPG"/>
 
 C'est mécanique : avec un objet rigide, on peut ralentir et même être immobile. On pourrait contrôler la lumière avec un bouton placé dans la poignée, ce qui permettrait plusieurs choses impossibles lorsqu'on jongle avec une boule de feu au bout d'une chaîne:
 
@@ -26,7 +26,7 @@ C'est mécanique : avec un objet rigide, on peut ralentir et même être immobil
 
 Ces idées sont restées là quelques temps. Un an plus tard, j'ai acheté un tonfa en bois et un outil de signalisation d'aéroport. Au cours d'une soirée, dans le jardin d'un ami, j'ai scotché le deuxième au premier et j'ai fait des mouvements au hasard.
 
-<img src="/assets/images/postLT1erProto/schema1.jpg"/>
+<img src="{{ site.url }}/assets/images/postLT1erProto/schema1.jpg"/>
 
 Ce soir là une amie m'a dit que je devrais m'intéresser aux mouvements de mon corps. Que je m'éclairais, que déplacer un bâton lumineux autour de moi me mettait dans la lumière. A ce moment là je pense plutôt aux trainées lumineuses des armes dans Soulcalibur 2, et aux bras/tonfas de Gally dans Gunnm.
 
@@ -34,20 +34,20 @@ J'ai cherché comment fabriquer un premier protoype. La solution la plus simple:
 
 J'ai trouvé le [Artlab](https://www.digitalarti.com/fr/artlab/)<sup>1</sup>. Un lieu de prototypage pour oeuvre d'arts numériques. Je me suis présenté avec mon idée de tonfa lumineux et ils m'ont laissé travailler chez eux. Quelques après-midis de bricolage plus tard, j'avais un protoype dans les mains.
 
-<img src="/assets/images/postLT1erProto/LTpremierProto1.jpg"/>
+<img src="{{ site.url }}/assets/images/postLT1erProto/LTpremierProto1.jpg"/>
 <span class='photo-legend'>[Post de blog](http://www.inventif.fr/posts/light-tonfa-premier-prototype)</span>
 
 C'est très grossier, et pas vraiment fiable. Un outil de signalisation d'aéroport, trois morceaux de tuyau de plomberie, quelques fils et un bouton au bout de la poignée. Avec des vis, des soudures et du scotch.
 
 Dans cette période, quand on me demande sur quoi je travaille, j'explique que je construis un outil pour le light painting. La photo est une utilisation naturelle pour des tubes lumineux. Le dégradé de lumière dans créé des effets de volumes, ce qui donne une impression de sculpture lumineuse, avec une certaine rondeur. Un pieds, un temps de pose entre 1 et 2 secondes, quelques tests, et c'est vite spectaculaire. On peut créer des rendus tellement nets qu'ils semblent générés numériquement.
 
-<img src="/assets/images/retro_tonfa/cata.JPG"/>
+<img src="{{ site.url }}/assets/images/retro_tonfa/cata.JPG"/>
 
 On peut envisager le tonfa comme une troisième partie du bras, avec les mains qui servent d'articulation pour un membre beaucoup plus grand. On ajoute environ 40cm à la longueur du bras, ce qui permet de couvrir un volume respectable. Mais ça limite les possibilités pour trouver un lieu adapté. 4 mètres sous plafond et dans une relative obscurité, ce n'est pas courant à Paris. Beaucoup plus ailleurs.
 
 Ce qui a marqué la fin de cette période, c'est la photo suivante, prise à l'été 2013 dans une petite crique sur la presqu'île de Quiberon.
 
-<img src="/assets/images/LTquiberon/quibLast.JPG"/>
+<img src="{{ site.url }}/assets/images/LTquiberon/quibLast.JPG"/>
 <span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/quiberon-14-juin-2013)</span>
 
 Je l'ai regardée pendant des heures. Les volumes de cette abstraction lumineuse m'ont captivés, cette photo m'a donné envie de continuer.
@@ -56,21 +56,21 @@ En 2014, ce projet est resté épisodique, avec quelque séances photos freinée
 
 J'ai décidé de reconstruire un tonfa avec des tuyaux de plomberie et des pièces imprimées en 3D.
 
-<img src="/assets/images/residence/fablab.jpg"/>
+<img src="{{ site.url }}/assets/images/residence/fablab.jpg"/>
 
 Le lieu où c'est arrivé, c'est le [Carrefour Numérique<sup>2</sup>](http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/). Fin juin 2015, j'y ai réalisé ma [première impression en 3D](http://www.inventif.fr/posts/premire-impression-en-3d). J'ai mis du temps à trouver cet endroit, mais je m'y suis rapidement senti très à l'aise. Tout ce dont j'avais besoin dans une seule pièce: du matériel, une communauté, une cafetière.
 
 J'ai pu tout apprendre sur place. Dans ce genre d'endroit il y a toujours quelqu'un qui sait comment faire. Avec le temps, ça a été mon tour et j'ai fini par expliquer l'impression 3D à de nouveaux arrivants. L'esprit du lieu est comme ça.
 
-<img src="/assets/images/v1enCours.jpg"/>
+<img src="{{ site.url }}/assets/images/v1enCours.jpg"/>
 
 Pour la conception 3D, j'avais quelques vagues souvenirs de cours de CAO, des connaissances inutilisées depuis plus de 10 ans. Le logiciel que j'ai choisi, OpenScad, a été une bonne surprise. Il est libre, gratuit, adapté à mes besoins et facile à prendre en main pour un développeur.
 
 Ce code juste ci-dessus, c'est bout de fonction utilisée plusieurs fois dans la pièce modélisée au dessus. Tous les fichiers 3D sont disponibles sous licence [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/fr/). C'est un projet libre: les fichiers de conception et les rendus 3D sont disponibles sur la [page Github](https://github.com/Ruff9/Light) du projet.
 
-<img src="/assets/images/retro_tonfa/openscad_retro.png"/>
+<img src="{{ site.url }}/assets/images/retro_tonfa/openscad_retro.png"/>
 
-<img src="/assets/images/retro_tonfa/openscad_code.png"/>
+<img src="{{ site.url }}/assets/images/retro_tonfa/openscad_code.png"/>
 
 Une fois à l'aise avec le processus, on passe facilement d'un dessin sur une feuille à une modélisation 3D qui s'imprime facilement. L'idée de coder de la matière est vraiment fascinante. Certaines personnes sont certainement habituées, mais je reste excité comme un gosse en voyant mes dessins devenir des objets.
 
@@ -78,7 +78,7 @@ La conception a été plus compliquée que la technique. Je n'aurais pas cru: Il
 
 En septembre 2016, un animateur du fablab évalue le temps restant à 10h de travail. J'ai fini dix mois plus tard.
 
-<img src="/assets/images/6moisDeFablab/6m_couv.jpg"/>
+<img src="{{ site.url }}/assets/images/6moisDeFablab/6m_couv.jpg"/>
 
 Du cahier des charges de départ, certains principes sont restés. Pour être transportable l'objet doit être démontable.La lumière doit être assez puissante pour suffire à m'éclairer dans l'obscurité. Ces tonfas doivent pouvoir être la seule source lumineuse.
 
@@ -86,21 +86,21 @@ J'ai fait des compromis sur quasiment tout le reste. L'appareil fonctionne à pi
 
 J'ai essayé d'être agile. Comme dans mon travail, j'ai constamment redéfini les objectifs en fonction de la complexité pour arriver quelque part. J'ai beaucoup râlé à chaque renoncement, mais ça a finit par se faire. Je n'ai jamais réalisé que ça allait me prendre autant de temps. Au final, entre des samedi après-midi et deux résidences, cela m'aura pris deux ans.
 
-<img src="/assets/images/residence/produit_final.jpg"/>
+<img src="{{ site.url }}/assets/images/residence/produit_final.jpg"/>
 
 En mars 2017, j'ai été en résidence trois semaines au fablab, et il fallait que ça se termine. J'ai pu régler les derniers problèmes de conception, et sortir un nouveau prototype complêtement fonctionnel. On a pu recommencer à prendre des photos.
 
-<img src="/assets/images/residence/agora1.jpg"/><span class='photo-legend'>[Compte-rendu résidence](http://www.inventif.fr/posts/en-rsidence)</span>
+<img src="{{ site.url }}/assets/images/residence/agora1.jpg"/><span class='photo-legend'>[Compte-rendu résidence](http://www.inventif.fr/posts/en-rsidence)</span>
 
 Le light painting m'intéressait de moins en moins. Mais ces images permettent de reproduire l'effet de la persistence rétinienne. Quand on regarde ces tonfas en mouvement, les trainées de lumières créent des rubans lumineux, c'est assez scotchant. Dans la pratique cela entraîne une concentration sur le trait au détriment du corps. Sur beaucoup des premières photos, on voit que mes pieds ne bougent pas.
 
-<img src="/assets/images/McCall_zone_piquenique/DSC_0216.jpg"/><span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/zone-pique-nique-3-juin-2017)</span>
+<img src="{{ site.url }}/assets/images/McCall_zone_piquenique/DSC_0216.jpg"/><span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/zone-pique-nique-3-juin-2017)</span>
 
 Ce qui est ressorti de cette séance, c'est l'image du corps fantômatique. En modifiant sa vitesse de déplacement et en réfléchissant à sa position par rapport à la lumière, on peut utiliser le corps dans une composition de light-painting.
 
 Et le corps, dans cette période, c'est devenu un sujet. Je parlais de ce projet à une amie, de mon intérêt pour le mouvement entre les deux lumières, et elle m'a parlé de son école de danse et a dit la phrase: "Viens, il y a un cours d'essai."
 
-<img src="/assets/images/tonfa_nilanthi/DSC00175.JPG"/><span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/studio-nilanthi-4-avril-2017)</span>
+<img src="{{ site.url }}/assets/images/tonfa_nilanthi/DSC00175.JPG"/><span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/studio-nilanthi-4-avril-2017)</span>
 
 Depuis le premier cours que j'ai pris en septembre 2014, la danse contemporaine a dévoré mon emploi du temps. J'ai accroché très vite, et je danse toutes les semaines dans deux merveilleuses associations: [Mouvement contemporain](http://mouvementcontemporain.com/) et [l'Air Ivre](http://air-ivre.fr/).
 
@@ -108,7 +108,7 @@ Cette pratique a confirmé ce que je sentais depuis longtemps et j'ai changé la
 
 Si ça m'intéresse, c'est d'abord pour le poids. Chaque tonfa pèse 650 grammes, et c'est suffisant pour disposer d'une inertie différente. En étant plus lourd, on peux prendre plus d'élan, et imaginer des mouvements qu'on ne pourrait pas faire sans cette inertie. Modifier le poids, c'est modifier le corps qui danse, ce qui ouvre beaucoup de possibilités. Avec plus d'élan, on peut sauter plus haut.
 
-<img src="/assets/images/tonfa_jardin_alice/DSC00575.jpeg"/><span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/jardin-dalice-6-fvrier-2018)</span>
+<img src="{{ site.url }}/assets/images/tonfa_jardin_alice/DSC00575.jpeg"/><span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/jardin-dalice-6-fvrier-2018)</span>
 
 Il y a aussi la mise en scène. Choisir les moments qu'on éclaire, montrer ses parties de mouvement préférées. Découper le mouvement peut fonctionner naturellement avec le popping, mais on peut aller plus loin, par exemple en apportant des décalages de vitesse entre les moments éclairés et les autres. On peut créer des surprises et des suspensions. Il devrait être possible de manipuler la perception du temps du public. Un ami qui me filmait m'a dit qu'il avait l'impression de voir du montage dans mon impro.
 
@@ -132,13 +132,13 @@ Ce vidéos me sont très utiles pour la communication autour de ce projet, et po
 
 J'aimerais donc que d'autres personnes s'intéressent à ces tonfas. Ils peuvent être utilisés comme des bolas enflammés, avec quelques avantages. Plus de possibilités, pas de produits toxiques. Une puissance lumineuse correcte et des photos très facilement spectaculaires.
 
-<img src="/assets/images/retro_tonfa/resultat1.JPG"/>
+<img src="{{ site.url }}/assets/images/retro_tonfa/resultat1.JPG"/>
 
 Je me dit que ça pourrait intéresser des danseur.se.s, des jongleur.se.s, des praticien.ne.s d'arts martiaux. Toute personne qui a déjà joué avec un ruban de gymnastique comprend très bien l'intérêt. L'idée est arrivée dans une réunion de jongleurs, et c'est dans ce genre d'évènement que j'aimerais que le résultat retourne.
 
 Je rêve de partager des vidéos réalisées par des inconnu.e.s qui auraient eux-même assemblés leurs tonfas sur mesure. Pour travailler dans cette direction, il faudrait écrire une vraie notice de montage et réaliser des vidéos tutoriels pour la construction des tonfas. Le [wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:light_tonfa) du Carrefour Numérique n'attend que ça.
 
-<img src="/assets/images/tonfaAssemblage/etalage.JPG"/>
+<img src="{{ site.url }}/assets/images/tonfaAssemblage/etalage.JPG"/>
 
 La dernière surprise de 2017 est arrivée quand j'ai voulu fabriquer deux exemplaires neufs. Chacun des tonfas nécessite 32h d'impression 3D. Je ne m'en étais pas rendu compte en travaillant les pièces une par une. C'est vraiment trop long, et faire les deux m'a pris tout l'été.
 
