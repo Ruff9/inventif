@@ -6,7 +6,7 @@ categories: tonfa
 tags: video
 ---
 
-<img src="{{ site.url }}/assets/images/premier_test_video.jpg"/>
+<img src="{{ '/assets/images/premier_test_video.jpg' | absolute_url }}"/>
 
 Nous sommes dans l'agora du Carrefour Numérique, avec McCall et son reflex. Aucune préparation, c'est un pur essai vidéo.
 

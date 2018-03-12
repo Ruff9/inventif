@@ -6,7 +6,7 @@ categories: tonfa
 tags: video
 ---
 
-<img src="{{ site.url }}/assets/images/philarmonie.png"/>
+<img src="{{ '/assets/images/philarmonie.png' | absolute_url }}"/>
 
 Nous sommes au pied de la Philarmonie de Paris, et Lilian veut essayer son nouveau stabilisateur. Je n'ai toujours pas travaillé de mouvements, je bouge toujours au hasard. C'est donc lui qui fait de la magie.
 

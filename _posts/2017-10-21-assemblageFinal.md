@@ -6,14 +6,14 @@ categories: tonfa
 tags: fablab
 ---
 
-<img src="{{ site.url }}/assets/images/tonfaAssemblage/etalage.JPG"/>
+<img src="{{ '/assets/images/tonfaAssemblage/etalage.JPG' | absolute_url }}"/>
 
 C'est enfin arrivé: fin août 2017, le dernier jour de ma deuxième période de résidence au Carrefour Numérique, j'ai assemblé les deux tonfas lumineux sur lequels je travaille depuis deux ans.
 
 <!--more-->
 
-<img src="{{ site.url }}/assets/images/tonfaAssemblage/peinture.jpg"/>
+<img src="{{ '/assets/images/tonfaAssemblage/peinture.jpg' | absolute_url }}"/>
 
-<img src="{{ site.url }}/assets/images/tonfaAssemblage/tonfa.JPG"/>
+<img src="{{ '/assets/images/tonfaAssemblage/tonfa.JPG' | absolute_url }}"/>
 
-<img src="{{ site.url }}/assets/images/tonfaAssemblage/tonfas.JPG"/>
+<img src="{{ '/assets/images/tonfaAssemblage/tonfas.JPG' | absolute_url }}"/>
