@@ -40,6 +40,12 @@ body {
 
 }
 
+.index-more-link {
+  display: inline-block;
+  width: 100%;
+  text-align: right;
+}
+
 #sidebar {
   display: flex;
   flex-direction: column;
