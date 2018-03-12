@@ -10,7 +10,7 @@ title: inventif
 email: your-email@example.com
 description: >
   Expérimentations
-baseurl: "/inventif2"
+baseurl: /inventif2
 url: "http://inventif.fr"
 twitter_username: jekyllrb
 github_username:  jekyll
