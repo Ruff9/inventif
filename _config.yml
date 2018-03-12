@@ -16,15 +16,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 excerpt_separator: <!--more-->
 
+lang: fr
+date_format: "%-d %B %Y"
+
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-paginate
 
 paginate: 5
-
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
