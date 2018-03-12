@@ -136,7 +136,7 @@ body {
     }
   }
 
-  .post-title {
+  .post-title, .page-title {
     text-align: right;
 
     @media (min-width: $large-breakpoint) {
