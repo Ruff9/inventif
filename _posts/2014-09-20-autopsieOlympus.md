@@ -2,7 +2,8 @@
 layout: post
 title:  'Autopsie : appareil photo Olympus C725'
 date:   2014-09-20 20:20:38 +0200
-categories: autopsie electronique
+categories: autopsie
+tags: electronique
 ---
 
 Je débute tout juste en électronique. Le domaine est tellement vaste que je me suis vite retrouvé face à cette question : par où commencer ? J'ai fini par choisir une méthode simple : démonter de vieux appareils pour tenter de comprendre leur fonctionnement et récupérer des pièces.

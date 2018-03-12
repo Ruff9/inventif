@@ -3,7 +3,7 @@ layout: post
 title:  'Premier test vidéo'
 date:   2017-04-06 20:20:20 +0200
 categories: tonfa
-tags: Danse
+tags: video
 ---
 
 <img src="/assets/images/premier_test_video.jpg"/>

@@ -3,6 +3,7 @@ layout: post
 title:  "Emporté par l'inertie"
 date:   2018-03-11 20:20:20 +0200
 categories: tonfa
+tags: retro fablab lightpainting danse
 ---
 
 <img src="/assets/images/retro_tonfa/resultat.JPG"/>

@@ -3,6 +3,7 @@ layout: post
 title:  'Premiers pas avec Ghost'
 date:   2014-12-21 20:20:38 +0200
 categories: javascript
+tags: dev
 ---
 
 L'impression est mitigée. Je pense que j'ai trop espéré, Ghost n'est pas le miracle que j'attendais. Du moins pas encore.

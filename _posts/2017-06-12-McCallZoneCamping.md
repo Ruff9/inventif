@@ -3,6 +3,7 @@ layout: post
 title:  'Zone pique-nique, 3 juin 2017'
 date:   2017-06-12 20:20:20 +0200
 categories: tonfa
+tags: lightpainting
 ---
 
 <img src="/assets/images/McCall_zone_piquenique/DSC_0216.jpg"/>

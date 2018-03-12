@@ -3,6 +3,14 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
+.post-categories-tags {
+  padding-left: 5px;
+}
+
+.post-categories-tags-bullet {
+  margin-right: 5px;
+}
+
 article + *, .post-body ~ section {
   padding-top: $section-spacing;
   border-top: 1px solid $border-color;

@@ -8,8 +8,6 @@
   </span>
   <span class="post-categories">
     {% for category in include.post.categories %}
-      &bull;
-
       {% comment %}
         Check if this category has a corresponding page before decide
         to link to it. This is an O(n^2) operations so consider removing
@@ -24,12 +22,25 @@
       {% endfor %}
 
       {% if category_page %}
-        <a href="{{ site.baseurl }}{{ category_page.url }}">
-          {{ category }}
-        </a>
+        <span class='post-categories-tags'>
+          <span class='post-categories-tags-bullet'>&bull;</span>
+          <a href="{{ site.baseurl }}{{ category_page.url }}">
+            {{ category }}
+          </a>
+        </span>
       {% else %}
-        {{ category }}
+        <span class='post-categories-tags'>
+          <span class='post-categories-tags-bullet'>&bull;</span>
+          {{ category }}
+        </span>
       {% endif %}
+    {% endfor %}
+
+    {% for tag in include.post.tags %}
+      <span class='post-categories-tags'>
+        <span class='post-categories-tags-bullet'>&bull;</span>
+        {{ tag }}
+      </span>
     {% endfor %}
   </span>
 </div>

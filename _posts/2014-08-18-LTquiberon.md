@@ -3,6 +3,7 @@ layout: post
 title:  'Quiberon, 14 juin 2013'
 date:   2014-08-18 20:20:38 +0200
 categories: tonfa
+tags: lightpainting
 ---
 
 C'est la meilleure session de photos réalisée avec le <a href="/posts/light-tonfa-premier-prototype">premier prototype</a>. Dans une petite crique sur la presqu'île de Quiberon, à l'abri du vent.

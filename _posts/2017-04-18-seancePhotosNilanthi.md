@@ -3,6 +3,7 @@ layout: post
 title:  'Studio Nilanthi, 4 avril 2017'
 date:   2017-04-18 20:20:20 +0200
 categories: tonfa
+tags: lightpainting
 ---
 
 <img src="/assets/images/tonfa_nilanthi/DSC00055.JPG"/>

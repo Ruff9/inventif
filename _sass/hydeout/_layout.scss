@@ -173,6 +173,16 @@ body {
     }
   }
 
+  .sidebar-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    @media (min-width: $large-breakpoint) {
+      display: inline-block;
+    }
+  }
+
   // Slightly more bottom padding to compensate for heading not match 100% of
   // line-height on top
   > *:last-child {
