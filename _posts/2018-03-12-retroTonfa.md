@@ -6,7 +6,7 @@ categories: tonfa
 tags: retro fablab lightpainting danse
 ---
 
-<img src="{{ site.url }}/assets/images/retro_tonfa/resultat.JPG"/>
+<img src="{{ '/assets/images/retro_tonfa/resultat.JPG' | absolute_url }}"/>
 
 J'ai toujours du mal à expliquer ce projet. Pour ça il faut une première phrase, et j'ai mis du temps à la trouver. Cette première description a même changé en cours de route. Mes motivations ont changées, j'ai changé, et le projet a évolué pour rester intéressant. C'est surtout une histoire de fablabs, mais l'inspiration est venue d'ailleurs.
 
