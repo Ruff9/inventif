@@ -10,9 +10,9 @@ tags: lightpainting
 
 Première séance photo avec deux tonfas, première séance au Jardin d'Alice. <a href="https://vimeo.com/lilianhardouineau" target="_blank">Lilian</a> est venu m'aider, et nous avions deux objectifs: faire une séance photo et des essais vidéos. Voici une sélection des photos, je ferai un autre post pour la vidéo une fois que je l'aurai édité.
 
-Juste avant de commencer la séance, un petit accident a failli tout foutre en l'air: j'ai cassé un des tonfas en changeant les piles. Le contact ne se faisait plus, il était inutilisable. Heureusement, au Jardin d'Alice, il y a aussi un hackerspace, et nous y avons trouvé Fabien. Avec le sourire, il a trouvé une solution rapide et efficace à mon problème, et nous avons pu reprendre notre soirée. Merci à lui :)
-
 <!--more-->
+
+Juste avant de commencer la séance, un petit accident a failli tout foutre en l'air: j'ai cassé un des tonfas en changeant les piles. Le contact ne se faisait plus, il était inutilisable. Heureusement, au Jardin d'Alice, il y a aussi un hackerspace, et nous y avons trouvé Fabien. Avec le sourire, il a trouvé une solution rapide et efficace à mon problème, et nous avons pu reprendre notre soirée. Merci à lui :)
 
 <img src="{{ '/assets/images/tonfa_jardin_alice/DSC00486.jpeg' | absolute_url }}"/>
 
