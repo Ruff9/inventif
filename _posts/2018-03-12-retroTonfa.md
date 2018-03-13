@@ -125,7 +125,7 @@ Cette vidéo m'a laissé frustré, parce que mon pote qui tient la caméra bouge
 Ces réfexions se ressentent dans l'essai suivant. Je bouge plus, ça commence à ressembler à de la danse. C'est toujours de l'impro et je suis encore loin d'une vidéo chorégraphiée et construite, mais l'utilisation de l'obscurité me permet de mieux expliquer mes objectifs pour la scénographie.
 
 <div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pTmGH78RpVk?rel=0&amp;showinfo=0?ecver=1" frameborder="0"allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pTmGH78RpVk?rel=0&amp;showinfo=0?ecver=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Ce vidéos me sont très utiles pour la communication autour de ce projet, et pour le développer, j'ai besoin de communiquer. L'objectif d'un projet open source, c'est que d'autres personnes se l'approprient. Si personne ne s'y intéresse, c'est juste du folklore de fablab. Du point de vue de l'open-source, un projet avec un seul contributeur est un échec, une inutilité.
