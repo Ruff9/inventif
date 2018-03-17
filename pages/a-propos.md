@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  'A propos'
+title:  'À propos'
 permalink: apropos.html
 sidebar_link: true
 ---
@@ -12,6 +12,8 @@ Pour entrer en contact, vous pouvez utilisez mon profil <a href="https://fr.link
 Mouvement contemporain
 
 Air Ivre
+
+UT7
 
 Carrefour numérique
 

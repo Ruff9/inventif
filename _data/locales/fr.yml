@@ -1,3 +1,8 @@
+newer: Plus récent
+older: Plus ancien
+comments: Commentaires
+read_more: Lire la suite
+
 abbreviated_weekday:
 - dim
 - lun
@@ -40,9 +45,6 @@ full_month:
 - octobre
 - novembre
 - décembre
-
-newer: Plus récent
-comments: Commentaires
 
 # untested
 
