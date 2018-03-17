@@ -67,7 +67,6 @@ body {
   @media (min-width: $large-breakpoint) {
     width: $sidebar-width;
     text-align: left;
-
     > *:last-child {
       margin-bottom: 0;
     }
@@ -113,7 +112,19 @@ body {
   }
 }
 
-// Container is flexbox as well -- we want content div to stretch and fill
+.page-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.post-title {
+  text-align: right;
+
+  @media (min-width: $large-breakpoint) {
+    text-align: left;
+  }
+}
+
 .container {
   flex: 1 1 auto;
   display: flex;
@@ -122,41 +133,53 @@ body {
   > .content {
     flex-grow: 1;
   }
+
+  > header {
+    background: transparent;
+    margin: ($heading-spacing - $section-spacing)
+            $section-spacing
+            $section-spacing;
+
+    h1, h2 {
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    @media (min-width: $large-breakpoint) {
+      color: inherit;
+      margin: 0;
+      h1, h2 {
+        color: inherit;
+
+        &:last-child {
+          margin-bottom: $heading-spacing;
+        }
+      }
+    }
+  }
+
+  @media (min-width: $large-breakpoint) {
+    background: $body-bg;
+    color: $body-color;
+    padding: $section-spacing * 2;
+    height: 100vh;
+
+    > * {
+      padding: 0;
+    }
+  }
+
 }
 
 .content {
   background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
-}
 
-
-/* -----------------------------------------------------------
-  Mobile view
------------------------------------------------------------ */
-
-
-// Make header elements blend into sidebar / background
-.container > header {
-  background: transparent;
-  margin: ($heading-spacing - $section-spacing)
-          $section-spacing
-          $section-spacing;
-
-  h1, h2 {
-    &:last-child {
-      margin-bottom: 0;
-    }
+  @media (min-width: $large-breakpoint) {
+    padding: 0;
   }
-
-  .post-title, .page-title {
-    text-align: right;
-
-    @media (min-width: $large-breakpoint) {
-      text-align: left;
-    }
-  }
-
 }
 
 
@@ -224,40 +247,6 @@ body {
 
     > *:last-child {
       margin-bottom: 0;
-    }
-  }
-}
-
-
-/* -----------------------------------------------------------
-  Tablet / Desktop view
------------------------------------------------------------ */
-
-@media (min-width: $large-breakpoint) {
-
-  .index #sidebar { margin-bottom: 0; }
-
-  // Make entire container background white to contrast against sidebar
-  .container {
-    background: $body-bg;
-    color: $body-color;
-    padding: $section-spacing * 2;
-    height: 100vh;
-
-    > header {
-      color: inherit;
-      margin: 0;
-      h1, h2 {
-        color: inherit;
-
-        &:last-child {
-          margin-bottom: $heading-spacing;
-        }
-      }
-    }
-
-    > * {
-      padding: 0;
     }
   }
 }
