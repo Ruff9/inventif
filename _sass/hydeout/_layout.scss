@@ -103,6 +103,14 @@ body {
 
 .sidebar-footer {
   margin-top: auto;
+
+  .page-link {
+    display: block;
+
+    @media (min-width: $large-breakpoint) {
+      margin-top: 10px;
+    }
+  }
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill

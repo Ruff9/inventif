@@ -1,0 +1,32 @@
+.contact-form-container {
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+
+  @media (min-width: $large-breakpoint) {
+    width: 60%;
+    margin-top: 50px;
+  }
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-form-mail {
+  margin-bottom: 20px;
+}
+
+.contact-form-message {
+  margin-bottom: 20px;
+  height: 200px;
+}
+
+.contact-form-submit {
+  width: 100px;
+  margin: auto;
+  height: 40px;
+  background-color: #ddd;
+  color: $gray-5;
+}
