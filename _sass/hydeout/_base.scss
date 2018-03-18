@@ -79,16 +79,5 @@ tbody tr:nth-child(odd) th {
 }
 
 button, input[type="submit"] {
-  cursor: pointer;
-  background-color: #ddd;
-  border: 1px solid $border-color;
-  color: $gray-5;
-  transition: color 0.6s ease-in-out,
-              border-color 0.6s ease-in-out,
-              background 0.6s ease-in-out;
-
-  &:hover {
-    border-color: $link-color;
-    box-shadow: $default-box-shadow;
-  }
+  @include button();
 }

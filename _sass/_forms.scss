@@ -24,9 +24,5 @@
 }
 
 .contact-form-submit {
-  width: 100px;
-  margin: auto;
-  height: 40px;
-  background-color: #ddd;
-  color: $gray-5;
+  @include button();
 }
