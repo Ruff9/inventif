@@ -122,6 +122,11 @@ h2.post-title, h2.page-title {
   }
 }
 
+.post-footnotes {
+  font-size: 0.8em;
+  padding-left: 20px;
+}
+
 .comments {
   @media (min-width: $large-breakpoint) {
     margin-bottom: 50px;

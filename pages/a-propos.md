@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  'À propos'
-permalink: apropos.html
+permalink: apropos
 sidebar_link: true
 ---
 

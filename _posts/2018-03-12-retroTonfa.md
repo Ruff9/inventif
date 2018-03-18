@@ -2,6 +2,7 @@
 layout: post
 title:  "Emporté par l'inertie"
 date:   2018-03-11 20:20:20 +0200
+permalink: retro_tonfa
 categories: tonfa
 tags: retro fablab lightpainting danse
 ---
@@ -161,20 +162,23 @@ Ce projet est redevenu intermittent depuis quelques mois. Je n'ai pas pris de va
 Je n'ai pas encore envie d'arrêter.
 
 <hr/>
-
+{:.post-footnotes}
 <sup>1</sup> Merci à Quentin pour les photos, à Jason et à Alexandre pour le soutien technique :)
 
+{:.post-footnotes}
 <sup>2</sup> Merci à Thierry, Mathieu, Rachid, Olivier, Thierry, Hélène, David, Isabelle, Mélissa, David, Fabrice et particulièrement à Yves pour l'initiation à l'impression 3D :)
 
+{:.post-footnotes}
 <sup>3</sup> Merci à Fabien du hackerspace pour avoir sauvé une séance photo en bricolant avec le sourire :)
 
-<hr/>
-
+{:.post-footnotes}
 Un remerciement spécifique pour [Lilian Hardouineau](https://vimeo.com/lilianhardouineau), qui a pris toutes les vidéos et plusieurs séances photos. Ce projet ne serait pas le même sans lui, merci !
 
-<hr/>
+{:.post-footnotes}
 Note 1: N'hésitez pas à passer du temps dans des fablabs ou des hackerspaces, les gens sont adorables !
 
+{:.post-footnotes}
 Note 2: La documentation c'est la vie, ils vous en parlerons tous. Apparement la plupart des gens n'aiment pas en écrire, mais l'intérêt de ce projet réside beaucoup dans sa documentation. Je l'ai faite aussi épisodiquement que le reste, mais ça m'a permis d'avoir toute la matière pour ce post.
 
+{:.post-footnotes}
 Note 3: Je suis toujours en recherche de lieux pour répéter et prendre des photos :)
