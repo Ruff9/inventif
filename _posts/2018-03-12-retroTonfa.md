@@ -6,7 +6,7 @@ categories: tonfa
 tags: retro fablab lightpainting danse
 ---
 
-{% include image.html name="retro_tonfa/resultat.JPG" %}
+{% include image.html name="LTquiberon/quib4.JPG" %}
 
 J'ai toujours du mal à expliquer ce projet. Pour ça il faut une première phrase, et j'ai mis du temps à la trouver. Cette première description a même changé en cours de route. Mes motivations ont changées, j'ai changé, et le projet a évolué pour rester intéressant. C'est surtout une histoire de fablabs, mais l'inspiration est venue d'ailleurs.
 
@@ -120,7 +120,7 @@ Il y a aussi la mise en scène. Choisir les moments qu'on éclaire, montrer ses 
 
 Et toujours la persistence rétinienne. C'est une réflexion sur deux niveaux, le corps en mouvement et le trait lumineux. Les chorégraphies devront tenir compte des deux niveaux de lecture. C'est la direction de ce projet aujourd'hui, un mouvement qui passe du ruban aux ailes de lumières.
 
-Nous avons donc commencé à faire des essais vidéos. Dans un salon, dans un parc, toujours dans l'improvisation.
+Nous avons donc commencé à faire des essais vidéos. Rien de construit ou de préparé: l'objectif c'est d'abord d'avoir une idée de ce que ça rend en vidéo. Un test technique, et donc des Ce sont donc des mouvements au hasardOn revient donc aux Dans un salon, dans un parc, toujours dans l'improvisation.
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2jIeeYb-4-Y?rel=0&amp;showinfo=0?ecver=1" frameborder="0" allowfullscreen></iframe>
@@ -170,7 +170,7 @@ Je n'ai pas encore envie d'arrêter.
 
 <hr/>
 
-Un remerciement spécifique pour Lilian Hardouineau, qui a pris toutes les vidéos et plusieurs séances photos. Ce projet ne serait pas le même sans lui, merci !
+Un remerciement spécifique pour [Lilian Hardouineau](https://vimeo.com/lilianhardouineau), qui a pris toutes les vidéos et plusieurs séances photos. Ce projet ne serait pas le même sans lui, merci !
 
 <hr/>
 Note 1: N'hésitez pas à passer du temps dans des fablabs ou des hackerspaces, les gens sont adorables !
