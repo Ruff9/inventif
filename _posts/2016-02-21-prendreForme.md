@@ -6,4 +6,4 @@ categories: tonfa
 tags: fablab
 ---
 
-<img src="{{ '/assets/images/v1enCours.jpg' | absolute_url }}"/>
+{% include image.html name="v1enCours.jpg" %}

@@ -14,8 +14,6 @@ description: >
 baseurl: /inventif2
 url: "https://ruff9.github.io"
 
-twitter_username: jekyllrb
-github_username:  ruff9
 github_page: https://github.com/Ruff9
 
 disqus:

@@ -8,21 +8,21 @@ tags: lightpainting
 
 C'est la meilleure session de photos réalisée avec le <a href="/posts/light-tonfa-premier-prototype">premier prototype</a>. Dans une petite crique sur la presqu'île de Quiberon, à l'abri du vent.
 
-<img src="{{ '/assets/images/LTquiberon/quib4.JPG' | absolute_url }}"/><!--more-->
+{% include image.html name="LTquiberon/quib4.JPG" %}
 
-<img src="{{ '/assets/images/LTquiberon/quib1.JPG' | absolute_url }}"/>
+{% include image.html name="LTquiberon/quib1.JPG" %}
 
-<img src="{{ '/assets/images/LTquiberon/quib2.JPG' | absolute_url }}"/>
+{% include image.html name="LTquiberon/quib2.JPG" %}
 
-<img src="{{ '/assets/images/LTquiberon/quib3.JPG' | absolute_url }}"/>
+{% include image.html name="LTquiberon/quib3.JPG" %}
 
-<img src="{{ '/assets/images/LTquiberon/quib5.JPG' | absolute_url }}"/>
+{% include image.html name="LTquiberon/quib5.JPG" %}
 
-<img src="{{ '/assets/images/LTquiberon/quib6.JPG' | absolute_url }}"/>
+{% include image.html name="LTquiberon/quib6.JPG" %}
 
-<img src="{{ '/assets/images/LTquiberon/quibEnd.JPG' | absolute_url }}"/>
+{% include image.html name="LTquiberon/quibEnd.JPG" %}
 
-<img src="{{ '/assets/images/LTquiberon/quibLast.JPG' | absolute_url }}"/>
+{% include image.html name="LTquiberon/quibLast.JPG" %}
 
 Cette dernière image m'a prouvé que j'avançait dans la bonne direction. L'outil a du potentiel, ça vaut le coup de continuer.
 

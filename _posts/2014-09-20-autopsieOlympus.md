@@ -6,7 +6,7 @@ categories: autopsie
 tags: electronique
 ---
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus1.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus1.jpg" %}
 
 Je débute tout juste en électronique. Le domaine est tellement vaste que je me suis vite retrouvé face à cette question : par où commencer ? J'ai fini par choisir une méthode simple : démonter de vieux appareils pour tenter de comprendre leur fonctionnement et récupérer des pièces.
 
@@ -14,22 +14,22 @@ Nos habitudes de consommation produisent des tonnes de machines obsolètes; dans
 
 <!--more-->
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus2.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus2.jpg" %}
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus3.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus3.jpg" %}
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus4.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus4.jpg" %}
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus5.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus5.jpg" %}
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus6.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus6.jpg" %}
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus7.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus7.jpg" %}
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus8.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus8.jpg" %}
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus9.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus9.jpg" %}
 
-<img src="{{ '/assets/images/autopsieOlympus/Olympus10.jpg' | absolute_url }}"/>
+{% include image.html name="autopsieOlympus/Olympus10.jpg" %}
 
 C'était vraiment fun. Teasing : j'ai deux appareils en attente, une machine à écrire et une télévision à tube cathodique :)

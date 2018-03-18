@@ -1,0 +1,6 @@
+{% capture imagePath %}/assets/images/posts/{{ include.name }}{% endcapture %}
+
+<figure class='post-illustration'>
+  <img src="{{ imagePath | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>
