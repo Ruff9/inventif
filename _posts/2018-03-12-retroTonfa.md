@@ -11,7 +11,7 @@ tags: retro fablab lightpainting danse
 
 J'ai toujours du mal à expliquer ce projet. Pour ça il faut une première phrase, et j'ai mis du temps à la trouver. Cette première description a même changé en cours de route. Mes motivations ont changées, j'ai changé, et le projet a évolué pour rester intéressant.
 
-Je n'ai jamais pris le temps de tout expliquer, c'est une longue histoire. C'est le bon moment pour entrer dans les détails, L'action se déroule surtout dans des fablabs, mais l'inspiration est venue d'ailleurs.
+Je n'ai jamais pris le temps de tout expliquer, c'est une longue histoire. Il est plus que temps que je rentre dans les détails. L'action se déroule surtout dans des fablabs, mais l'inspiration est venue d'ailleurs.
 
 <!--more-->
 

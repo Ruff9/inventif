@@ -55,16 +55,31 @@ article + *, .post-body ~ section {
 }
 
 // Blog post or page title
+
 .page-title,
 .post-title,
 .post-title a {
   color: $heading-color;
 }
+
 .page-title,
 .post-title {
   width: 100%;
   max-width: 1100px;
-  margin: 0 auto;
+}
+
+.page-title {
+  text-align: center;
+  margin: 0 auto 30px;
+}
+
+.post-title {
+  text-align: right;
+  margin: 0 auto 20px;
+
+  @media (min-width: $large-breakpoint) {
+    text-align: left;
+  }
 }
 
 // h1-size h2

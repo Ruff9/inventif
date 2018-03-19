@@ -112,19 +112,6 @@ body {
   }
 }
 
-.page-title {
-  text-align: center;
-  margin-bottom: 30px;
-}
-
-.post-title {
-  text-align: right;
-
-  @media (min-width: $large-breakpoint) {
-    text-align: left;
-  }
-}
-
 .home .post-title {
   margin-bottom: 20px;
 }
@@ -144,22 +131,10 @@ body {
             $section-spacing
             $section-spacing;
 
-    h1, h2 {
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
-
     @media (min-width: $large-breakpoint) {
       color: inherit;
       margin: 0;
-      h1, h2 {
-        color: inherit;
-
-        &:last-child {
-          margin-bottom: $heading-spacing;
-        }
-      }
+      h1, h2 { color: inherit; }
     }
   }
 
