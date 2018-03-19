@@ -122,13 +122,13 @@ Il y a aussi la mise en scène. Choisir les moments qu'on éclaire, montrer ses 
 
 Et toujours la persistence rétinienne. C'est une réflexion sur deux niveaux, le corps en mouvement et le trait lumineux. Les chorégraphies devront tenir compte des deux niveaux de lecture. C'est la direction de ce projet aujourd'hui, un mouvement qui passe du ruban aux ailes de lumières.
 
-Nous avons donc commencé à faire des essais vidéos. Rien de construit ou de préparé: l'objectif c'est d'abord d'avoir une idée de ce que ça rend en vidéo. Un test technique, et donc des Ce sont donc des mouvements au hasardOn revient donc aux Dans un salon, dans un parc, toujours dans l'improvisation.
+Pour évaluer le potentiel de l'outil, il y a une information qui manque à ce moment là: le rendu vidéo. Avec [Lilian Hardouineau](https://vimeo.com/lilianhardouineau) nous avons donc commencé à faire des essais, rien de construit ou de préparé. De l'improvisation, qui a permis de prendre conscience de la difficulté de la pratique.
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2jIeeYb-4-Y?rel=0&amp;showinfo=0?ecver=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Cette vidéo m'a laissé frustré, parce que mon pote qui tient la caméra bouge plus que moi. Je ne danse pas du tout, je jongle. C'est à ce moment là que j'ai mesuré la quantité de travail requise pour inventer une nouvelle pratique de danse, avec un nouveau vocabulaire à chercher. Il faut que je me détache de l'influence des arts martiaux pour libérer mes mouvements.
+Cette vidéo m'a laissé frustré, parce que la caméra bouge plus que moi. Je ne danse pas du tout, je jongle. C'est à ce moment là que j'ai mesuré la quantité de travail requise pour inventer une nouvelle pratique de danse, avec un nouveau vocabulaire à chercher. Il faut que je me détache de l'influence des arts martiaux pour libérer mes mouvements.
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pTmGH78RpVk?rel=0&amp;showinfo=0?ecver=1" frameborder="0" allowfullscreen></iframe>
