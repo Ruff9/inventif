@@ -10,6 +10,8 @@ tags: lightpainting
 
 C'est la meilleure session de photos réalisée avec le <a href="/posts/light-tonfa-premier-prototype">premier prototype</a>. Dans une petite crique sur la presqu'île de Quiberon, à l'abri du vent.
 
+<!--more-->
+
 {% include image.html name="LTquiberon/quib1.JPG" %}
 
 {% include image.html name="LTquiberon/quib2.JPG" %}

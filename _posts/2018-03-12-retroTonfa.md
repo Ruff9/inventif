@@ -11,13 +11,13 @@ tags: retro fablab lightpainting danse
 
 J'ai toujours du mal à expliquer ce projet. Pour ça il faut une première phrase, et j'ai mis du temps à la trouver. Cette première description a même changé en cours de route. Mes motivations ont changées, j'ai changé, et le projet a évolué pour rester intéressant.
 
-Je n'ai jamais pris le temps de tout expliquer. Aujourd'hui c'est le moment de rentrer dans les détails, j'ai déjà trop promis de tout écrire. C'est une longue histoire; l'action se déroule surtout dans des fablabs, mais l'inspiration est venue d'ailleurs.
+Je n'ai jamais pris le temps de tout expliquer. Aujourd'hui c'est le moment de rentrer dans les détails, j'ai déjà trop promis de tout écrire. C'est une longue histoire. L'action se déroule surtout dans des fablabs, mais l'inspiration est venue d'ailleurs.
 
 <!--more-->
 
 En février 2011, j'ai assisté à une réunion de jongleurs de feu, sur le parvis du palais de Tokyo. Beaucoup de bolas, des épées enflammées et quelques expériences. J'ai passé quelques minutes à fixer un homme qui avait monté des lumières clignotantes aux extrémités de ses nunchakus. Je m'en suis lassé très vite. Il devait garder une vitesse constante pour que la chaîne reste tendue, ce qui limitait ses mouvements et les formes de lumière possibles.
 
-En regardant ces nunchakus clignotants, je me dis que cela fonctionnerait bien mieux avec des tonfas. J'avais pratiqué le Viet Vo Dao, je savais ce que c'était et vaguement comment ça se manipule.
+En regardant ces nunchakus clignotants, je me dis que cela fonctionnerait beaucoup mieux avec des tonfas. J'avais pratiqué le Viet Vo Dao, je savais ce que c'était et vaguement comment ça se manipule.
 
 {% include image.html name="retro_tonfa/tonfa_bois.JPG" %}
 
@@ -35,7 +35,7 @@ Ce soir là une amie m'a dit que je devrais m'intéresser aux mouvements de mon 
 
 J'ai cherché comment fabriquer un premier protoype. La solution la plus simple: ajouter une poignée à mon bâton lumineux d'aéroport. Comme je ne savais rien faire et que je n'avais aucun matériel, j'ai cherché un fablab. Je m'intéressais à ce milieu depuis longtemps, et maintenant je savais quoi y faire.
 
-J'ai trouvé le [Artlab](https://www.digitalarti.com/fr/artlab/)<sup>1</sup>. Un lieu de prototypage pour oeuvre d'arts numériques. Je me suis présenté avec mon idée de tonfa lumineux et ils m'ont laissé travailler chez eux. Quelques après-midis de bricolage plus tard, j'avais un protoype dans les mains.
+J'ai trouvé le [Artlab](https://www.digitalarti.com/fr/artlab/)<sup>1</sup>. Un lieu de prototypage pour oeuvres d'arts numériques. Je me suis présenté avec mon idée de tonfa lumineux et ils m'ont laissé travailler chez eux. Quelques après-midis de bricolage plus tard, j'avais un protoype dans les mains.
 
 {% include image.html name="postLT1erProto/LTpremierProto1.jpg" %}
 <span class='photo-legend'>[Post de blog](http://www.inventif.fr/posts/light-tonfa-premier-prototype)</span>
@@ -47,7 +47,7 @@ Dans cette période, quand on me demande sur quoi je travaille, j'explique que j
 
 {% include image.html name="retro_tonfa/cata.JPG" %}
 
-On peut envisager le tonfa comme une troisième partie du bras, avec les mains qui servent d'articulation pour un membre beaucoup plus grand. On ajoute environ 40cm à la longueur du bras, ce qui permet de couvrir un volume respectable. Mais ça limite les possibilités pour trouver un lieu adapté. 4 mètres sous plafond et dans une relative obscurité, ce n'est pas courant à Paris. Beaucoup plus ailleurs.
+On peut envisager le tonfa comme une troisième partie du bras, avec les mains qui servent d'articulation pour un membre beaucoup plus grand. On ajoute environ 40cm à la longueur du bras, ce qui permet de couvrir un volume respectable. Mais ça limite les possibilités pour trouver un lieu adapté. 4 mètres sous plafond et dans une relative obscurité, ce n'est pas courant à Paris.
 
 Ce qui a marqué la fin de cette période, c'est la photo suivante, prise à l'été 2013 dans une petite crique sur la presqu'île de Quiberon.
 
@@ -70,7 +70,7 @@ J'ai pu tout apprendre sur place. Dans ce genre d'endroit il y a toujours quelqu
 
 Pour la conception 3D, j'avais quelques vagues souvenirs de cours de CAO, des connaissances inutilisées depuis plus de 10 ans. Le logiciel que j'ai choisi, OpenScad, a été une bonne surprise. Il est libre, gratuit, adapté à mes besoins et facile à prendre en main pour un développeur.
 
-Ce code juste ci-dessus, c'est un bout de fonction utilisée plusieurs fois dans la pièce modélisée au dessus. Tout est disponible sous licence [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/fr/). C'est un projet libre: les fichiers de conception et les rendus 3D sont téléchargeables sur la [page Github](https://github.com/Ruff9/Light) du projet.
+Ce code plus bas, c'est un bout de fonction utilisée plusieurs fois dans la pièce modélisée au dessus. Tout est disponible sous licence [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/fr/). C'est un projet libre: les fichiers de conception et les rendus 3D sont téléchargeables sur la [page Github](https://github.com/Ruff9/Light) du projet.
 
 {% include image.html name="retro_tonfa/openscad_retro.png" %}
 
@@ -144,7 +144,7 @@ La partie de ce projet qui se passait dans des fablabs est terminée. Il y aura 
 
 L'objectif d'un projet open source, c'est que d'autres personnes se l'approprient. Dans cette culture, un projet avec un seul contributeur est un échec, une inutilité. Je pense qu'il est possible que d'autres personnes s'intéressent à tout ça. Ces tonfas peuvent être utilisés comme des bolas enflammés, avec quelques avantages. Plus de possibilités, pas de produits toxiques. Une puissance lumineuse correcte et des photos très facilement spectaculaires. Ça pourrait intéresser des danseur.se.s, des jongleur.se.s, des praticien.ne.s d'arts martiaux. Toute personne qui a déjà joué avec un ruban de gymnastique comprend très bien l'intérêt. L'idée est arrivée dans une réunion de jongleurs, le résultat aurait sa place dans ce genre d'évènement.
 
-Je rêve de partager des vidéos réalisées par des inconnu.e.s qui auraient eux-même assemblés leurs tonfas sur mesure. C'est déjà possible, les fichiers sont en ligne, mais ce n'est pas encore confortable. Je n'ai pas encore vraiment écrit de notice de montage, sans même parler de vidéos tutoriels. Le [wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:light_tonfa) du Carrefour Numérique n'attend que ça. Si jamais, toi qui me lis, tu as envie d'avoir tes propres tonfas lumineux, il faut que tu saches que c'est possible. Il suffit de m'en parler, où à n'importe qui du Carrefour Numérique.
+Je rêve de partager des vidéos réalisées par des inconnu.e.s qui auraient eux-même assemblés leurs tonfas sur mesure. C'est déjà possible, les fichiers sont en ligne, mais ce n'est pas encore confortable. Je n'ai pas encore écrit de notice de montage, sans même parler de vidéos tutoriels. Le [wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:light_tonfa) du Carrefour Numérique n'attend que ça. Si jamais, toi qui me lis, tu as envie d'avoir tes propres tonfas lumineux, il faut que tu saches que c'est possible. Il suffit de m'en parler, où à n'importe qui du Carrefour Numérique.
 
 {% include image.html name="tonfaAssemblage/etalage.JPG" %}
 
@@ -176,12 +176,16 @@ Je n'ai pas encore envie d'arrêter.
 
 {:.post-footnotes}
 Un remerciement spécifique pour [Lilian Hardouineau](https://vimeo.com/lilianhardouineau), qui a pris toutes les vidéos et plusieurs séances photos. Ce projet ne serait pas le même sans lui, merci !
+<br/>
+<br/>
+<br/>
+<br/>
 
 {:.post-footnotes}
 Note 1: N'hésitez pas à passer du temps dans des fablabs ou des hackerspaces, les gens sont adorables !
 
 {:.post-footnotes}
-Note 2: La documentation c'est la vie, ils vous en parlerons tous. Apparement la plupart des gens n'aiment pas en écrire, mais l'intérêt de ce projet réside beaucoup dans sa documentation. Je l'ai faite aussi épisodiquement que le reste, mais ça m'a permis d'avoir toute la matière pour ce post.
+Note 2: La documentation c'est la vie, ils vous en parlerons tous. Beaucoup de gens s'en foutent, mais dans le cas de ce projet, la documentation, c'est l'oeuvre. Vous venez de lire l'histoire d'un effort de documentation continu, et c'est vraiment ça qui a permis à ce projet de durer aussi longtemps. Publier un post de blog de temps en temps, c'est une petite réussite, et il est possible d'organiser un circuit récompense/efforts pour se pousser en avant. Avec de la documentation :)
 
 {:.post-footnotes}
 Note 3: Je suis toujours en recherche de lieux pour répéter et prendre des photos :)
