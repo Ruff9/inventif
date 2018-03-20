@@ -17,7 +17,7 @@ Je n'ai jamais pris le temps de tout expliquer, c'est une longue histoire. Il es
 
 En février 2011, j'ai assisté à une réunion de jongleurs de feu, sur le parvis du palais de Tokyo. Beaucoup de bolas, des épées enflammées et quelques expériences. J'ai passé quelques minutes à fixer un homme qui avait monté des lumières clignotantes aux extrémités de ses nunchakus. Je m'en suis lassé très vite. Il devait garder une vitesse constante pour que la chaîne reste tendue, ce qui limitait ses mouvements et les formes de lumière possibles.
 
-En regardant cet homme et ses nunchakus clignotants, je me dis que cela fonctionnerait bien mieux avec des tonfas. J'avais pratiqué le Viet Vo Dao, je savais ce que c'était et vaguement comment ça se manipule.
+En regardant ces nunchakus clignotants, je me dis que cela fonctionnerait bien mieux avec des tonfas. J'avais pratiqué le Viet Vo Dao, je savais ce que c'était et vaguement comment ça se manipule.
 
 {% include image.html name="retro_tonfa/tonfa_bois.JPG" %}
 
@@ -31,19 +31,19 @@ Ces idées sont restées là quelques temps. Un an plus tard, j'ai acheté un to
 
 {% include image.html name="postLT1erProto/schema1.jpg" %}
 
-Ce soir là une amie m'a dit que je devrais m'intéresser aux mouvements de mon corps. Que je m'éclairais, que déplacer un bâton lumineux autour de moi me mettait dans la lumière. A ce moment là je pense plutôt aux trainées lumineuses des armes dans Soulcalibur 2, et aux bras/tonfas de Gally dans Gunnm.
+Ce soir là une amie m'a dit que je devrais m'intéresser aux mouvements de mon corps. Que je m'éclairais, que déplacer un bâton lumineux autour de moi me mettait dans la lumière. À ce moment là je pense plutôt aux trainées lumineuses des armes dans Soulcalibur 2, et aux bras/tonfas de Gally dans Gunnm.
 
 J'ai cherché comment fabriquer un premier protoype. La solution la plus simple: ajouter une poignée à mon bâton lumineux d'aéroport. Comme je ne savais rien faire et que je n'avais aucun matériel, j'ai cherché un fablab. Je m'intéressais à ce milieu depuis longtemps, et maintenant je savais quoi y faire.
 
 J'ai trouvé le [Artlab](https://www.digitalarti.com/fr/artlab/)<sup>1</sup>. Un lieu de prototypage pour oeuvre d'arts numériques. Je me suis présenté avec mon idée de tonfa lumineux et ils m'ont laissé travailler chez eux. Quelques après-midis de bricolage plus tard, j'avais un protoype dans les mains.
 
 {% include image.html name="postLT1erProto/LTpremierProto1.jpg" %}
-
+<span class='photo-legend'>[Post de blog](http://www.inventif.fr/posts/light-tonfa-premier-prototype)</span>
 <!-- caption=[Post de blog](http://www.inventif.fr/posts/light-tonfa-premier-prototype) -->
 
 C'est très grossier, et pas vraiment fiable. Un outil de signalisation d'aéroport, trois morceaux de tuyau de plomberie, quelques fils et un bouton au bout de la poignée. Avec des vis, des soudures et du scotch.
 
-Dans cette période, quand on me demande sur quoi je travaille, j'explique que je construis un outil pour le light painting. La photo est une utilisation naturelle pour des tubes lumineux. Le dégradé de lumière dans créé des effets de volumes, ce qui donne une impression de sculpture lumineuse, avec une certaine rondeur. Un pieds, un temps de pose entre 1 et 2 secondes, quelques tests, et c'est vite spectaculaire. On peut créer des rendus tellement nets qu'ils semblent générés numériquement.
+Dans cette période, quand on me demande sur quoi je travaille, j'explique que je construis un outil pour le light painting. La photo est une utilisation naturelle pour des tubes lumineux. Le dégradé de lumière créé des effets de volumes, ce qui donne une impression de sculpture lumineuse, avec une certaine rondeur. Un pieds, un temps de pose entre 1 et 2 secondes, quelques tests, et c'est vite spectaculaire. On peut créer des rendus tellement nets qu'ils semblent générés numériquement.
 
 {% include image.html name="retro_tonfa/cata.JPG" %}
 
@@ -70,7 +70,7 @@ J'ai pu tout apprendre sur place. Dans ce genre d'endroit il y a toujours quelqu
 
 Pour la conception 3D, j'avais quelques vagues souvenirs de cours de CAO, des connaissances inutilisées depuis plus de 10 ans. Le logiciel que j'ai choisi, OpenScad, a été une bonne surprise. Il est libre, gratuit, adapté à mes besoins et facile à prendre en main pour un développeur.
 
-Ce code juste ci-dessus, c'est bout de fonction utilisée plusieurs fois dans la pièce modélisée au dessus. Tous les fichiers 3D sont disponibles sous licence [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/fr/). C'est un projet libre: les fichiers de conception et les rendus 3D sont disponibles sur la [page Github](https://github.com/Ruff9/Light) du projet.
+Ce code juste ci-dessus, c'est un bout de fonction utilisée plusieurs fois dans la pièce modélisée au dessus. Tout est disponible sous licence [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/fr/). C'est un projet libre: les fichiers de conception et les rendus 3D sont téléchargeables sur la [page Github](https://github.com/Ruff9/Light) du projet.
 
 {% include image.html name="retro_tonfa/openscad_retro.png" %}
 
@@ -88,7 +88,7 @@ Du cahier des charges de départ, certains principes sont restés. Pour être tr
 
 J'ai fait des compromis sur quasiment tout le reste. L'appareil fonctionne à piles, et non avec une batterie Li-ion. J'ai longtemps voulu avoir deux modes d'utilisation. J'ai essayé de construire moi-même la source lumineuse, au final j'ai utilisé des spots Leds prévus pour l'ameublement.
 
-J'ai essayé d'être agile. Comme dans mon travail, j'ai constamment redéfini les objectifs en fonction de la complexité pour arriver quelque part. J'ai beaucoup râlé à chaque renoncement, mais ça a finit par se faire. Je n'ai jamais réalisé que ça allait me prendre autant de temps. Au final, entre des samedi après-midi et deux résidences, cela m'aura pris deux ans.
+J'ai essayé d'être agile. Comme dans mon travail, j'ai constamment redéfini les objectifs en fonction de la complexité pour arriver quelque part. J'ai beaucoup râlé à chaque renoncement, mais ça a finit par se faire. À aucun moment je n'ai réalisé que ça allait me prendre autant de temps. Au final, entre des samedi après-midi et deux résidences, cela m'aura pris deux ans.
 
 {% include image.html name="residence/produit_final.jpg" %}
 
@@ -97,7 +97,7 @@ En mars 2017, j'ai été en résidence trois semaines au fablab, et il fallait q
 {% include image.html name="residence/agora1.jpg" %}
 <span class='photo-legend'>[Compte-rendu résidence](http://www.inventif.fr/posts/en-rsidence)</span>
 
-Le light painting m'intéressait de moins en moins. Mais ces images permettent de reproduire l'effet de la persistence rétinienne. Quand on regarde ces tonfas en mouvement, les trainées de lumières créent des rubans lumineux, c'est assez scotchant. Dans la pratique cela entraîne une concentration sur le trait au détriment du corps. Sur beaucoup des premières photos, on voit que mes pieds ne bougent pas.
+Le light painting n'a jamais vraiment été un but en soi, mais ces images permettent de reproduire l'effet de la persistence rétinienne. Quand on regarde ces tonfas en mouvement, les trainées de lumières créent des rubans lumineux, c'est assez scotchant. Dans la pratique cela entraîne une concentration sur le trait au détriment du corps. Sur beaucoup des premières photos, on voit que mes pieds ne bougent pas.
 
 {% include image.html name="McCall_zone_piquenique/DSC_0216.jpg" %}
 <span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/zone-pique-nique-3-juin-2017)</span>
@@ -128,23 +128,23 @@ Pour évaluer le potentiel de l'outil, il y a une information qui manque à ce m
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2jIeeYb-4-Y?rel=0&amp;showinfo=0?ecver=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Cette vidéo m'a laissé frustré, parce que la caméra bouge plus que moi. Je ne danse pas du tout, je jongle. C'est à ce moment là que j'ai mesuré la quantité de travail requise pour inventer une nouvelle pratique de danse, avec un nouveau vocabulaire à chercher. Il faut que je me détache de l'influence des arts martiaux pour libérer mes mouvements.
+Cette vidéo m'a laissé frustré, parce que la caméra bouge plus que moi. Je ne danse pas du tout, je jongle. C'est à ce moment là que j'ai mesuré la quantité de travail requise pour inventer une nouvelle pratique de danse, avec un nouveau vocabulaire à chercher. Je dois me détacher de l'influence des arts martiaux pour libérer mes mouvements.
+
+Ces réflexions se ressentent dans l'essai suivant. Je bouge plus, ça commence à ressembler à de la danse. C'est toujours de l'impro et je suis encore loin d'une vidéo chorégraphiée et construite, mais les moyens sont là.
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pTmGH78RpVk?rel=0&amp;showinfo=0?ecver=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Ces réflexions se ressentent dans l'essai suivant. Je bouge plus, ça commence à ressembler à de la danse. C'est toujours de l'impro et je suis encore loin d'une vidéo chorégraphiée et construite, mais les moyens sont là.
-
 Et voilà. Dans un certain périmètre, ce projet est terminé. J'ai construit l'objet que je voulais depuis des années, je possède deux jouets uniques et conçus sur-mesure. J'ai appris beaucoup, je dispose de nouveaux moyens techniques et j'ai fait de belles rencontres. J'ai déjà été plus loin que je n'aurais cru. Je n'ai pas trouvé de nom plus funky que 'tonfas' pour cet objet, mais à vrai dire, j'ai arrété de chercher depuis longtemps.
-
-{% include image.html name="retro_tonfa/resultat1.JPG" %}
 
 La partie de ce projet qui se passait dans des fablabs est terminée. Il y aura bien d'autres versions, beaucoup d'idées n'ont pas été exploitées et de nouvelles arrivent de temps en temps<sup>3</sup>. Mais pour l'instant la priorité naturelle est d'utiliser ces objets. Et d'essayer que d'autres les utilisent.
 
-L'objectif d'un projet open source, c'est que d'autres personnes se l'approprient. Dans cette culture, un projet avec un seul contributeur est un échec, une inutilité. Je pense qu'il est possible que d'autres personnes s'intéressent à ces tonfas. Ils peuvent être utilisés comme des bolas enflammés, avec quelques avantages. Plus de possibilités, pas de produits toxiques. Une puissance lumineuse correcte et des photos très facilement spectaculaires. Ca pourrait intéresser des danseur.se.s, des jongleur.se.s, des praticien.ne.s d'arts martiaux. Toute personne qui a déjà joué avec un ruban de gymnastique comprend très bien l'intérêt. L'idée est arrivée dans une réunion de jongleurs, le résultat aurait sa place dans ce genre d'évènement.
+{% include image.html name="retro_tonfa/resultat1.JPG" %}
 
-Je rêve de partager des vidéos réalisées par des inconnu.e.s qui auraient eux-même assemblés leurs tonfas sur mesure. C'est déjà possible, les fichiers sont en ligne, mais ce n'est pas encore confortable. Je n'ai pas encore vraiment écrit de notice de montage, sans même parler de vidéos tutoriels. Le [wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:light_tonfa) du Carrefour Numérique n'attend que ça. Si jamais, toi qui me lit, tu as envie d'avoir tes propres tonfas lumineux, il faut que tu saches que c'est possible. Il suffit de m'en parler, où à n'importe qui du Carrefour Numérique.
+L'objectif d'un projet open source, c'est que d'autres personnes se l'approprient. Dans cette culture, un projet avec un seul contributeur est un échec, une inutilité. Je pense qu'il est possible que d'autres personnes s'intéressent à tout ça. Ces tonfas peuvent être utilisés comme des bolas enflammés, avec quelques avantages. Plus de possibilités, pas de produits toxiques. Une puissance lumineuse correcte et des photos très facilement spectaculaires. Ça pourrait intéresser des danseur.se.s, des jongleur.se.s, des praticien.ne.s d'arts martiaux. Toute personne qui a déjà joué avec un ruban de gymnastique comprend très bien l'intérêt. L'idée est arrivée dans une réunion de jongleurs, le résultat aurait sa place dans ce genre d'évènement.
+
+Je rêve de partager des vidéos réalisées par des inconnu.e.s qui auraient eux-même assemblés leurs tonfas sur mesure. C'est déjà possible, les fichiers sont en ligne, mais ce n'est pas encore confortable. Je n'ai pas encore vraiment écrit de notice de montage, sans même parler de vidéos tutoriels. Le [wiki](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=projets:light_tonfa) du Carrefour Numérique n'attend que ça. Si jamais, toi qui me lis, tu as envie d'avoir tes propres tonfas lumineux, il faut que tu saches que c'est possible. Il suffit de m'en parler, où à n'importe qui du Carrefour Numérique.
 
 {% include image.html name="tonfaAssemblage/etalage.JPG" %}
 
@@ -152,7 +152,7 @@ La dernière surprise de 2017 est arrivée quand j'ai voulu fabriquer deux exemp
 
 C'est le principal frein à l'accueil d'autres personnes dans le projet. 64 heures d'impression, sans compter l'assemblage et tous les apprentissages nécessaires, c'est beaucoup demander. Durant toute cette période je suis resté concentré sur l'idée que les pièces devaient être bon marché, je n'avais pas pensé à l'investissement en temps.
 
-Donner envie à d'autres, c'est certainement possible, il y a des actions possibles. Travailler la pratique de danse, produire des vidéos, écrire des tutoriels, filmer des tutoriels et des exercices de danse. Communiquer sur tout ça. Ce texte est un premier pas, mais je ne sais pas si je veux investir beaucoup de temps dans la communication.
+Donner envie à d'autres, c'est certainement possible, il y a des actions à mener. Travailler la pratique de danse, produire des vidéos, écrire des tutoriels, filmer des tutoriels et des exercices de danse. Communiquer sur tout ça. Ce texte est un premier pas, mais je ne sais pas si je veux investir beaucoup de temps dans la communication. On n'est plus dans les années 2000, et les idées qui explosent sur internet sans stratégie de communication ça n'existe plus, aujourd'hui il faut faire des efforts.
 
 J'ai commencé la recherche sur la danse dans une salle de répétition du [Jardin d'Alice](https://www.lejardindalice.org/)<sup>4</sup>, à Montreuil. Je ne sais pas du tout jusqu'où cela va me mener, certainement au tournage de quelques vidéos supplémentaires.
 
@@ -163,13 +163,13 @@ Je n'ai pas encore envie d'arrêter.
 {:.pre-footnotes}
 <hr/>
 {:.post-footnotes}
-<sup>1</sup> Merci à Quentin pour les photos, à Jason et à Alexandre pour le soutien technique :)
+<sup>1</sup>  Merci à Quentin pour les photos, à Jason et à Alexandre pour le soutien technique :)
 
 {:.post-footnotes}
-<sup>2</sup> Merci à Thierry, Mathieu, Rachid, Olivier, Thierry, Hélène, David, Isabelle, Mélissa, David, Fabrice et particulièrement à Yves pour l'initiation à l'impression 3D :)
+<sup>2</sup>  Merci à Thierry, Mathieu, Rachid, Olivier, Thierry, Hélène, David, Isabelle, Mélissa, David, Fabrice et particulièrement à Yves pour l'initiation à l'impression 3D :)
 
 {:.post-footnotes}
-<sup>3</sup> La dernière en date, apportée par une amie dans un café: "Et si ce n'était pas une poignée mais un gant? Après tout tu ne le laches jamais?"
+<sup>3</sup>  La dernière en date, apportée par une amie dans un café: "Et si ce n'était pas une poignée mais un gant? Après tout tu ne le laches jamais?"
 
 {:.post-footnotes}
 <sup>4</sup> Merci à Fabien du hackerspace pour avoir sauvé une séance photo en bricolant avec le sourire :)
