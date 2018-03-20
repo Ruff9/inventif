@@ -88,9 +88,9 @@ Du cahier des charges de départ, certains principes sont restés. Pour être tr
 
 J'ai fait des compromis sur quasiment tout le reste. L'appareil fonctionne à piles, et non avec une batterie Li-ion. J'ai longtemps voulu avoir deux modes d'utilisation. J'ai essayé de construire moi-même la source lumineuse, au final j'ai utilisé des spots Leds prévus pour l'ameublement.
 
-J'ai essayé d'être agile. Comme dans mon travail, j'ai constamment redéfini les objectifs en fonction de la complexité pour arriver quelque part. J'ai beaucoup râlé à chaque renoncement, mais ça a finit par se faire. À aucun moment je n'ai réalisé que ça allait me prendre autant de temps. Au final, entre des samedi après-midi et deux résidences, cela m'aura pris deux ans.
-
 {% include image.html name="residence/produit_final.jpg" %}
+
+J'ai essayé d'être agile. Comme dans mon travail, j'ai constamment redéfini les objectifs en fonction de la complexité pour arriver quelque part. J'ai beaucoup râlé à chaque renoncement, mais ça a finit par se faire. À aucun moment je n'ai réalisé que ça allait me prendre autant de temps. Au final, entre des samedi après-midi et deux résidences, cela m'aura pris deux ans.
 
 En mars 2017, j'ai été en résidence trois semaines au fablab, et il fallait que ça se termine. J'ai pu régler les derniers problèmes de conception, et sortir un nouveau prototype complêtement fonctionnel. On a pu recommencer à prendre des photos.
 
