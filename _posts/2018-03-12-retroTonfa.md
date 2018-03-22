@@ -37,9 +37,7 @@ J'ai cherché comment fabriquer un premier protoype. La solution la plus simple:
 
 J'ai trouvé le [Artlab](https://www.digitalarti.com/fr/artlab/)<sup>1</sup>. Un lieu de prototypage pour oeuvres d'arts numériques. Je me suis présenté avec mon idée de tonfa lumineux et ils m'ont laissé travailler chez eux. Quelques après-midis de bricolage plus tard, j'avais un protoype dans les mains.
 
-{% include image.html name="postLT1erProto/LTpremierProto1.jpg" %}
-<span class='photo-legend'>[Post de blog](http://www.inventif.fr/posts/light-tonfa-premier-prototype)</span>
-<!-- caption=[Post de blog](http://www.inventif.fr/posts/light-tonfa-premier-prototype) -->
+{% include image.html name="postLT1erProto/LTpremierProto1.jpg" legend-link-target='premier_proto' legend-text='Post de blog' %}
 
 C'est très grossier, et pas vraiment fiable. Un outil de signalisation d'aéroport, trois morceaux de tuyau de plomberie, quelques fils et un bouton au bout de la poignée. Avec des vis, des soudures et du scotch.
 
@@ -51,8 +49,7 @@ On peut envisager le tonfa comme une troisième partie du bras, avec les mains q
 
 Ce qui a marqué la fin de cette période, c'est la photo suivante, prise à l'été 2013 dans une petite crique sur la presqu'île de Quiberon.
 
-{% include image.html name="LTquiberon/quibLast.JPG" %}
-<span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/quiberon-14-juin-2013)</span>
+{% include image.html name="LTquiberon/quibLast.JPG" legend-text='Séance photo' legend-link-target='quiberon' %}
 
 Je l'ai regardé pendant des heures. Les volumes de cette abstraction lumineuse m'ont captivés, cette photo m'a donné envie de continuer.
 
@@ -62,7 +59,7 @@ J'ai décidé de reconstruire un tonfa avec des tuyaux de plomberie et des pièc
 
 {% include image.html name="residence/fablab.jpg" %}
 
-Le lieu où c'est arrivé, c'est le [Carrefour Numérique<sup>2</sup>](http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/). Fin juin 2015, j'y ai réalisé ma [première impression en 3D](http://www.inventif.fr/posts/premire-impression-en-3d). J'ai mis du temps à trouver cet endroit, mais je m'y suis rapidement senti très à l'aise. Tout ce dont j'avais besoin dans une seule pièce: du matériel, une communauté, une cafetière.
+Le lieu où c'est arrivé, c'est le [Carrefour Numérique<sup>2</sup>](http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/). Fin juin 2015, j'y ai réalisé ma [première impression en 3D]({{ 'premiere_impression' | relative_url }}). J'ai mis du temps à trouver cet endroit, mais je m'y suis rapidement senti très à l'aise. Tout ce dont j'avais besoin dans une seule pièce: du matériel, une communauté, une cafetière.
 
 J'ai pu tout apprendre sur place. Dans ce genre d'endroit il y a toujours quelqu'un qui sait comment faire. Avec le temps, ça a été mon tour et j'ai fini par expliquer l'impression 3D à de nouveaux arrivants. L'esprit du lieu est comme ça.
 
@@ -94,20 +91,17 @@ J'ai essayé d'être agile. Comme dans mon travail, j'ai constamment redéfini l
 
 En mars 2017, j'ai été en résidence trois semaines au fablab, et il fallait que ça se termine. J'ai pu régler les derniers problèmes de conception, et sortir un nouveau prototype complêtement fonctionnel. On a pu recommencer à prendre des photos.
 
-{% include image.html name="residence/agora1.jpg" %}
-<span class='photo-legend'>[Compte-rendu résidence](http://www.inventif.fr/posts/en-rsidence)</span>
+{% include image.html name="residence/agora1.jpg" legend-text='Compte-rendu résidence' legend-link-target='residence' %}
 
 Le light painting n'a jamais vraiment été un but en soi, mais ces images permettent de reproduire l'effet de la persistence rétinienne. Quand on regarde ces tonfas en mouvement, les trainées de lumières créent des rubans lumineux, c'est assez scotchant. Dans la pratique cela entraîne une concentration sur le trait au détriment du corps. Sur beaucoup des premières photos, on voit que mes pieds ne bougent pas.
 
-{% include image.html name="McCall_zone_piquenique/DSC_0216.jpg" %}
-<span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/zone-pique-nique-3-juin-2017)</span>
+{% include image.html name="McCall_zone_piquenique/DSC_0216.jpg" legend-text='Séance photo' legend-link-target='piquenique' %}
 
 Ce qui est ressorti de cette séance, c'est l'image du corps fantômatique. En modifiant sa vitesse de déplacement et en réfléchissant à sa position par rapport à la lumière, on peut utiliser le corps dans une composition de light-painting.
 
 Et le corps, dans cette période, c'est devenu un sujet. Je parlais de ce projet à une amie, de mon intérêt pour le mouvement entre les deux lumières, et elle m'a parlé de son école de danse et a dit la phrase: "Viens, il y a un cours d'essai."
 
-{% include image.html name="tonfa_nilanthi/DSC00175.JPG" %}
-<span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/studio-nilanthi-4-avril-2017)</span>
+{% include image.html name="tonfa_nilanthi/DSC00175.JPG" legend-text='Séance photo' legend-link-target='nilanthi' %}
 
 Depuis le premier cours que j'ai pris en septembre 2014, la danse contemporaine a dévoré mon emploi du temps. J'ai accroché très vite, et je danse toutes les semaines dans deux merveilleuses associations: [Mouvement contemporain](http://mouvementcontemporain.com/) et [l'Air Ivre](http://air-ivre.fr/).
 
@@ -115,8 +109,7 @@ Cette pratique a confirmé ce que je sentais depuis longtemps et j'ai changé la
 
 Si ça m'intéresse, c'est d'abord pour le poids. Chaque tonfa pèse 650 grammes, et c'est suffisant pour disposer d'une inertie différente. En étant plus lourd, on peux prendre plus d'élan, et imaginer des mouvements qu'on ne pourrait pas faire sans cette inertie. Modifier le poids, c'est modifier le corps qui danse, ce qui ouvre beaucoup de possibilités. Avec plus d'élan, on peut sauter plus haut.
 
-{% include image.html name="tonfa_jardin_alice/DSC00575.jpeg" %}
-<span class='photo-legend'>[Séance photo](http://www.inventif.fr/posts/jardin-dalice-6-fvrier-2018)</span>
+{% include image.html name="tonfa_jardin_alice/DSC00575.jpeg" legend-text='Séance photo' legend-link-target='arrivee_alice' %}
 
 Il y a aussi la mise en scène. Choisir les moments qu'on éclaire, montrer ses parties de mouvement préférées. Découper le mouvement peut fonctionner naturellement avec le popping, mais on peut aller plus loin, par exemple en apportant des décalages de vitesse entre les moments éclairés et les autres. On peut créer des surprises et des suspensions. Il devrait être possible de manipuler la perception du temps du public. Un ami qui me filmait m'a dit qu'il avait l'impression de voir du montage dans mon impro.
 

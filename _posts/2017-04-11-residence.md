@@ -2,6 +2,7 @@
 layout: post
 title:  'En résidence'
 date:   2017-04-11 20:20:20 +0200
+permalink: residence
 categories: tonfa
 tags: fablab retro
 ---

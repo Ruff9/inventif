@@ -2,6 +2,7 @@
 layout: post
 title:  "Jardin d'Alice, 6 février 2018"
 date:   2018-02-10 20:20:20 +0200
+permalink: arrivee_alice
 categories: tonfa
 tags: lightpainting
 ---
