@@ -4,10 +4,11 @@ title: Tonfa
 category: tonfa
 ---
 
-<div class='category-tonfa-header'>
-  {% include image.html name="retro_tonfa/resultat1.JPG" %}
-</div>
+{% capture imagePath %}/assets/images/posts/retro_tonfa/resultat1.JPG{% endcapture %}
+
+<img src="{{ imagePath | absolute_url }}" alt="Photo tonfa" />
 
 <h1 class="category-page-title">{{ page.title }}</h1>
 
-<p class='category-presentation'>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+{:.category-presentation}
+Outil de scénographie pour la danse, pinceau pour le light-painting, matraque lumineuse. Un projet au long cours qui rend bien en photo, intégralement expliqué dans le post [Emporté par l'inertie]({{ 'retro_tonfa' | relative_url }}).

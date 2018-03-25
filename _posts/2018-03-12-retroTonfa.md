@@ -6,7 +6,6 @@ permalink: retro_tonfa
 cover: LTquiberon/quib4.JPG
 categories: tonfa
 tags: retro fablab lightpainting danse
-
 ---
 
 {% include image.html name="LTquiberon/quib4.JPG" %}

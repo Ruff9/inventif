@@ -3,7 +3,7 @@ layout: post
 title:  'Quiberon, 14 juin 2013'
 date:   2014-08-18 20:20:38 +0200
 permalink: quiberon
-cover: LTquiberon/quib4.JPG
+cover: LTquiberon/quibLast.JPG
 categories: tonfa
 tags: lightpainting
 ---

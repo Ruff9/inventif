@@ -11,14 +11,14 @@ layout: default
 
   {% for post in site.categories[category] %}
     {% capture imagePath %}/assets/images/posts/{{ post.cover }}{% endcapture %}
-    <li class='category-post-item'>
-      <img src="{{ imagePath | absolute_url }}" />
-      <h3>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h3>
-      <small>{% include translated_date.html date=post.date format=site.date_format lang='fr' %}</small>
-    </li>
+    <a href="{{ site.baseurl }}{{ post.url }}" class='category-post-link'>
+      <li class='category-post-item'>
+        <div class='category-post-cover' style='background-image:url({{ imagePath | absolute_url }});'></div>
+        <h3 class='category-post-title'>
+            {{ post.title }}
+        </h3>
+        <small>{% include translated_date.html date=post.date format=site.date_format lang='fr' %}</small>
+      </li>
+    </a>
   {% endfor %}
 </ul>
