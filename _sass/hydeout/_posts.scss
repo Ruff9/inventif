@@ -59,7 +59,7 @@ article + *, .post-body ~ section {
 .page-title,
 .post-title,
 .post-title a {
-  color: $heading-color;
+  color: $dark-gray;
 }
 
 .page-title,
@@ -91,7 +91,7 @@ h2.post-title, h2.page-title {
 .post-meta {
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: $body-muted;
+  color: $dark-gray;
 }
 
 .post-tags a {
@@ -109,32 +109,6 @@ h2.post-title, h2.page-title {
 
 .posts-by-tag h2 {
   text-transform: capitalize;
-}
-
-.posts-list {
-  padding-left: 0;
-  list-style: none;
-
-  h3 {
-    margin-top: 0;
-  }
-
-  li {
-    small {
-      font-size: 75%;
-      color: #999;
-      white-space: nowrap;
-    }
-
-    a:hover {
-      color: $link-color;
-      text-decoration: none;
-
-      small {
-        color: inherit;
-      }
-    }
-  }
 }
 
 .pre-footnotes {

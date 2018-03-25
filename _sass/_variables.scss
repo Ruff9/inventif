@@ -1,8 +1,15 @@
 // Custom
-$orange-title: OrangeRed;
+
+$primary-color: #dd0a39;
+$secondary-color: #7f696c;
+
+$dark-gray: #525555;
+$title-color: $dark-gray;
+$font-color: #11122E;
+
+$sidebar-bg-color: #f0f0f0;
 
 // Hyde theming
-$sidebar-bg-color: #515151 !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 
@@ -25,11 +32,11 @@ $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxy
 $root-font-size: 1rem !default;
 $root-line-height: 1.5 !default;
 
-$body-color: $gray-5 !default;
+$body-color: $font-color !default;
 $body-muted: $gray-4 !default;
 $body-bg: #fff !default;
-$link-color: $blue !default;
-$heading-color: $gray-6 !default;
+$link-color: $primary-color !default;
+$heading-color: $title-color !default;
 
 $border-color: $gray-2 !default;
 $border-radius: 300px !default;

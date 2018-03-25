@@ -1,21 +1,24 @@
 ---
-layout: page
+layout: default
 ---
 
 {% unless page.content == '' %}
   {{ content }}
 {% endunless %}
 
-<ul class="posts-list">
+<ul class="category-posts-list">
   {% assign category = page.category | default: page.title %}
+
   {% for post in site.categories[category] %}
-    <li>
+    {% capture imagePath %}/assets/images/posts/{{ post.cover }}{% endcapture %}
+    <li class='category-post-item'>
+      <img src="{{ imagePath | absolute_url }}" />
       <h3>
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
-          <small>{% include translated_date.html date=post.date format=site.date_format lang='fr' %}</small>
         </a>
       </h3>
+      <small>{% include translated_date.html date=post.date format=site.date_format lang='fr' %}</small>
     </li>
   {% endfor %}
 </ul>

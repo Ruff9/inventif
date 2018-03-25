@@ -3,8 +3,10 @@ layout: post
 title:  "Emporté par l'inertie"
 date:   2018-03-11 20:20:20 +0200
 permalink: retro_tonfa
+cover: LTquiberon/quib4.JPG
 categories: tonfa
 tags: retro fablab lightpainting danse
+
 ---
 
 {% include image.html name="LTquiberon/quib4.JPG" %}

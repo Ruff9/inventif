@@ -3,6 +3,7 @@ layout: post
 title:  'Premier prototype'
 date:   2014-08-05 20:20:38 +0200
 permalink: premier_proto
+cover: postLT1erProto/LTpremierProto1.jpg
 categories: tonfa
 tags: fablab electronique
 ---

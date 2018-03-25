@@ -3,6 +3,7 @@ layout: post
 title:  'Première impression en 3D'
 date:   2015-07-11 20:20:38 +0200
 permalink: premiere_impression
+cover: 1ereImpression/1e_impression_3.jpg
 categories: tonfa
 tags: fablab 3D
 ---

@@ -1,0 +1,18 @@
+.category-page-title {
+  text-align: left;
+  max-width: 850px;
+  width: 100%;
+  margin: auto;
+}
+
+.category-posts-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.category-post-item {
+  width: 30%;
+  margin-bottom: 20px;
+}
