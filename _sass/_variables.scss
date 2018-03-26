@@ -4,10 +4,11 @@ $primary-color: #dd0a39;
 $secondary-color: #7f696c;
 
 $dark-gray: #525555;
+$light-gray: #f0f0f0;
 $title-color: $dark-gray;
 $font-color: #11122E;
 
-$sidebar-bg-color: #f0f0f0;
+$sidebar-bg-color: $light-gray;
 
 // Hyde theming
 $sidebar-sticky: true !default;
@@ -46,7 +47,8 @@ $heading-spacing: 0.5rem !default;
 $section-spacing: 2rem !default;
 $sidebar-width: 250px;
 
-$large-breakpoint: 49rem !default;
+$large-breakpoint: 80rem !default;
+$medium-breakpoint: 49rem !default;
 $large-font-size: 1.25rem !default;
 
 $box-shadow-size: 1px !default;

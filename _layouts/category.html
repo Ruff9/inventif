@@ -6,19 +6,19 @@ layout: default
   {{ content }}
 {% endunless %}
 
-<ul class="category-posts-list">
+<section class="category-posts-list">
   {% assign category = page.category | default: page.title %}
 
   {% for post in site.categories[category] %}
     {% capture imagePath %}/assets/images/posts/{{ post.cover }}{% endcapture %}
     <a href="{{ site.baseurl }}{{ post.url }}" class='category-post-link'>
-      <li class='category-post-item'>
+      <div class='category-post-item'>
         <div class='category-post-cover' style='background-image:url({{ imagePath | absolute_url }});'></div>
         <h3 class='category-post-title'>
             {{ post.title }}
         </h3>
-        <small>{% include translated_date.html date=post.date format=site.date_format lang='fr' %}</small>
-      </li>
+        <div class='category-post-date'>{% include translated_date.html date=post.date format=site.date_format lang='fr' %}</div>
+      </div>
     </a>
   {% endfor %}
-</ul>
+</section>
