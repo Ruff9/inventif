@@ -16,11 +16,18 @@
 
 .contact-form-mail {
   margin-bottom: 20px;
+  border-radius: 0;
+  border: 1px solid $gray-3;
+  padding: 12px;
+  font-size: 14px;
 }
 
 .contact-form-message {
   margin-bottom: 20px;
-  height: 200px;
+  height: 150px;
+  padding: 12px;
+  font-size: 14px;
+  border: 1px solid $gray-3;
 }
 
 .contact-form-submit {
