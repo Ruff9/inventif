@@ -70,7 +70,11 @@ article + *, .post-body ~ section {
 
 .page-title {
   text-align: center;
-  margin: 0 auto 30px;
+  margin: 0 auto;
+
+  @media (min-width: $medium-breakpoint) {
+    margin: 40px auto;
+  }
 }
 
 .post-title {

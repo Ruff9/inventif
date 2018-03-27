@@ -10,7 +10,7 @@ tags: fablab retro
 
 {% include image.html name="residence/fablab.jpg" %}
 
-Le 11 juillet 2015, j'ai publié ce post: [Première impression en 3D](http://www.inventif.fr/posts/premire-impression-en-3d). Depuis 2 ans, je vais toujours régulièrement dans ce fablab pour continuer ce même projet. C'est vraiment trop long et ces derniers temps ça devenait frustrant. Le deuxième semestre 2016 a été particulièrement déçevant, avec une série de galères techniques qui m'ont fait manquer tous mes objectifs. Il fallait que ça avance, voire que ça se termine.
+Le 11 juillet 2015, j'ai publié ce post: [Première impression en 3D]({{ 'premiere_impression' | relative_url }}). Depuis 2 ans, je vais toujours régulièrement dans ce fablab pour continuer ce même projet. C'est vraiment trop long et ces derniers temps ça devenait frustrant. Le deuxième semestre 2016 a été particulièrement déçevant, avec une série de galères techniques qui m'ont fait manquer tous mes objectifs. Il fallait que ça avance, voire que ça se termine.
 
 J'ai démissionné début janvier 2017, et j'ai pu garder trois semaines entre mes deux postes pour terminer ce projet. Mes amis du Carrefour Numérique m'ont proposé d'être en résidence dans le fablab, j'ai donc pu avancer beaucoup plus efficacement qu'avant. Entre le 6 et le 25 mars, mon projet n'était plus un hobby du samedi après-midi mais une occupation à plein temps.
 <!--more-->
