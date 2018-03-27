@@ -2,7 +2,7 @@
   text-align: left;
   max-width: 850px;
   width: 80%;
-  margin: 0 auto 40px;
+  margin: 0 auto 20px;
 
   @media (min-width: $medium-breakpoint) {
     width: 100%;
@@ -14,6 +14,7 @@
   width: 80%;
 
   @media (min-width: $medium-breakpoint) {
+    margin-bottom: 60px;
     width: 100%;
   }
 }

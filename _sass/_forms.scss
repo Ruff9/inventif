@@ -19,15 +19,23 @@
   border-radius: 0;
   border: 1px solid $gray-3;
   padding: 12px;
-  font-size: 14px;
+
+  &::placeholder {
+    font-size: 14px;
+    font-family: $root-font-family;
+  }
 }
 
 .contact-form-message {
   margin-bottom: 20px;
   height: 150px;
   padding: 12px;
-  font-size: 14px;
   border: 1px solid $gray-3;
+
+  &::placeholder {
+    font-size: 14px;
+    font-family: $root-font-family;
+  }
 }
 
 .contact-form-submit {
