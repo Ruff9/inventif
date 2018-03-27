@@ -168,9 +168,10 @@ Je n'ai pas encore envie d'arrêter.
 {:.post-footnotes}
 <sup>4</sup> Merci à Fabien du hackerspace pour avoir sauvé une séance photo en bricolant avec le sourire :)
 
+<br/>
+
 {:.post-footnotes}
 Un remerciement spécifique pour [Lilian Hardouineau](https://vimeo.com/lilianhardouineau), qui a pris toutes les vidéos et plusieurs séances photos. Ce projet ne serait pas le même sans lui, merci !
-<br/>
 <br/>
 <br/>
 <br/>
@@ -182,4 +183,7 @@ Note 1: N'hésitez pas à passer du temps dans des fablabs ou des hackerspaces, 
 Note 2: La documentation c'est la vie, ils vous en parlerons tous. Beaucoup de gens s'en foutent, mais dans le cas de ce projet, la documentation, c'est l'oeuvre. Vous venez de lire l'histoire d'un effort de documentation continu, et c'est vraiment ça qui a permis à ce projet de durer aussi longtemps. Publier un post de blog de temps en temps, c'est une petite réussite, et il est possible d'organiser un circuit récompense/efforts pour se pousser en avant. Avec de la documentation :)
 
 {:.post-footnotes}
-Note 3: Je suis toujours en recherche de lieux pour répéter et prendre des photos :)
+Note 3: Jamais je n'ai vraiment pensé à l'aspect politique de ce projet. Plusieurs personnes m'ont fait remarquer que je détournais une matraque de police pour faire de la danse, ce qui n'est pas neutre. J'imagine que si ça ne m'est pas venu à l'esprit, c'est qu'en 2011 nous vivions beaucoup moins dans un état policier qu'en 2018.
+
+{:.post-footnotes}
+Note 4: Je suis toujours en recherche de lieux pour répéter et prendre des photos :)

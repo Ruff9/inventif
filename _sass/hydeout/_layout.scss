@@ -258,6 +258,7 @@ body {
 
 #sidebar nav {
   display: flex;
+  flex-wrap: inherit;
 }
 
 #sidebar-nav-links {

@@ -15,7 +15,7 @@ Le 11 juillet 2015, j'ai publié ce post: [Première impression en 3D]({{ 'premi
 J'ai démissionné début janvier 2017, et j'ai pu garder trois semaines entre mes deux postes pour terminer ce projet. Mes amis du Carrefour Numérique m'ont proposé d'être en résidence dans le fablab, j'ai donc pu avancer beaucoup plus efficacement qu'avant. Entre le 6 et le 25 mars, mon projet n'était plus un hobby du samedi après-midi mais une occupation à plein temps.
 <!--more-->
 
-La première semaine, j'ai travaillé sur un sujet fondamental: la puissance lumineuse. J'avais cru <a href="http://www.inventif.fr/posts/lumire-" target="_blank">régler ce problème</a> quelques semaines plus tôt. Mais mon système à base d'ampoule de lampe torche n'était pas assez puissant, l'objectif restant de danser avec deux tonfas comme seul éclairage.
+La première semaine, j'ai travaillé sur un sujet fondamental: la puissance lumineuse. J'avais cru [régler ce problème]({{ 'lumiere' | relative_url }}) quelques semaines plus tôt. Mais mon système à base d'ampoule de lampe torche n'était pas assez puissant, l'objectif restant de danser avec deux tonfas comme seul éclairage.
 
 Je commence donc ma résidence par un blocage. Ce que je fabrique n'est pas très différent d'une lampe, son premier rôle est donc d'éclairer. Après plusieurs tatonnements, j'ai fini par trouver ce qu'il me fallait: un spot d'ameublement.
 
