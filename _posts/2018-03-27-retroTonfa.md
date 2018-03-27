@@ -10,13 +10,13 @@ tags: retro fablab lightpainting danse
 
 {% include image.html name="LTquiberon/quib4.JPG" %}
 
-J'ai toujours du mal à expliquer ce projet. Pour ça il faut une première phrase, et j'ai mis du temps à la trouver. Cette première description a même changé en cours de route. Mes motivations ont changées, j'ai changé, et le projet a évolué pour rester intéressant.
+J'ai toujours du mal à expliquer ce projet. Pour ça il faut une première phrase, et j'ai mis du temps à la trouver. Cette première description a même changé en cours de route. Mes motivations ont changées, j'ai changé, et le projet a évolué.
 
 Je n'ai jamais pris le temps de tout expliquer. Aujourd'hui c'est le moment de rentrer dans les détails, j'ai déjà trop promis de tout écrire. C'est une longue histoire. L'action se déroule surtout dans des fablabs, mais l'inspiration est venue d'ailleurs.
 
 <!--more-->
 
-En février 2011, j'ai assisté à une réunion de jongleurs de feu, sur le parvis du palais de Tokyo. Beaucoup de bolas, des épées enflammées et quelques expériences. J'ai passé quelques minutes à fixer un homme qui avait monté des lumières clignotantes aux extrémités de ses nunchakus. Je m'en suis lassé très vite. Il devait garder une vitesse constante pour que la chaîne reste tendue, ce qui limitait ses mouvements et les formes de lumière possibles.
+En février 2011, j'ai assisté à une réunion de jongleurs de feu, sur le parvis du palais de Tokyo. Beaucoup de bolas, des épées enflammées et quelques expériences. J'ai passé quelques minutes à fixer un homme qui avait monté des lumières clignotantes aux extrémités de ses nunchakus. Original mais vite lassant : il devait garder une vitesse constante pour que la chaîne reste tendue, ce qui limitait ses mouvements et les formes de lumière possibles.
 
 En regardant ces nunchakus clignotants, je me dis que cela fonctionnerait beaucoup mieux avec des tonfas. J'avais pratiqué le Viet Vo Dao, je savais ce que c'était et vaguement comment ça se manipule.
 
@@ -54,7 +54,7 @@ Ce qui a marqué la fin de cette période, c'est la photo suivante, prise à l'�
 
 Je l'ai regardé pendant des heures. Les volumes de cette abstraction lumineuse m'ont captivés, cette photo m'a donné envie de continuer.
 
-En 2014, ce projet est resté épisodique, avec quelque séances photos freinées par des problèmes d'instabilité du prototype. L'ampoule à incandescence de l'outil de base supportait mal les chocs, j'ai dû en casser deux.
+En 2014, ce projet est resté épisodique, avec quelques séances photos freinées par des problèmes d'instabilité du prototype. L'ampoule à incandescence de l'outil de base supportait mal les chocs, j'ai dû en casser deux.
 
 J'ai décidé de reconstruire un tonfa avec des tuyaux de plomberie et des pièces imprimées en 3D.
 
