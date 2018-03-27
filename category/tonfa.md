@@ -4,7 +4,7 @@ title: Tonfa
 category: tonfa
 ---
 
-{% include image.html name="category_tonfa_cover.JPG" alt="Photo tonfa"%}
+{% include category-cover.html name="category_tonfa_cover.JPG" alt="Photo tonfa"%}
 
 <h1 class="category-page-title">{{ page.title }}</h1>
 
