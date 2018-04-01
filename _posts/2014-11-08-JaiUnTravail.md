@@ -2,6 +2,7 @@
 layout: post
 title:  'I got a job now'
 date:   2016-11-08 20:20:20 +0200
+permalink: a_job
 categories: texte
 ---
 

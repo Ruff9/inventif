@@ -2,6 +2,7 @@
 layout: post
 title:  'Philarmonie et stabilisateur'
 date:   2017-06-19 20:20:20 +0200
+permalink: philarmonie
 cover: philarmonie.png
 categories: tonfa
 tags: video

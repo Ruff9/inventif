@@ -2,6 +2,7 @@
 layout: post
 title:  'Autopsie : appareil photo Olympus C725'
 date:   2014-09-20 20:20:38 +0200
+permalink: autopsie_olympus
 categories: autopsie
 tags: electronique
 ---

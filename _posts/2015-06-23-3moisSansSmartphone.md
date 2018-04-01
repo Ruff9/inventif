@@ -2,6 +2,7 @@
 layout: post
 title:  'Trois mois sans smartphone'
 date:   2015-06-23 20:20:20 +0200
+permalink: trois_mois_sans_smartphone
 cover: nonSmartphone.jpg
 categories: texte
 ---

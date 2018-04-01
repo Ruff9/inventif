@@ -2,6 +2,7 @@
 layout: post
 title:  'Premier test vidéo'
 date:   2017-04-06 20:20:20 +0200
+permalink: premier_test_video
 cover: premier_test_video.jpg
 categories: tonfa
 tags: video

@@ -2,6 +2,7 @@
 layout: post
 title:  'Enfin remplumé'
 date:   2016-06-12 20:20:20 +0200
+permalink: remplumage
 categories: texte
 ---
 

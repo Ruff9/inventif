@@ -2,6 +2,7 @@
 layout: post
 title:  'Premiers pas avec Ghost'
 date:   2014-12-21 20:20:38 +0200
+permalink: ghost
 categories: javascript
 tags: dev
 ---
