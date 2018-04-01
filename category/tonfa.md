@@ -2,6 +2,7 @@
 layout: category
 title: Tonfa
 category: tonfa
+permalink: tonfa
 ---
 
 {% include category-cover.html name="category_tonfa_cover.JPG" alt="Photo tonfa"%}

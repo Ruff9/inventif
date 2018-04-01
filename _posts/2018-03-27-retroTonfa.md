@@ -144,7 +144,7 @@ La dernière surprise de 2017 est arrivée quand j'ai voulu fabriquer deux exemp
 
 C'est le principal frein à l'accueil d'autres personnes dans le projet. 64 heures d'impression, sans compter l'assemblage et tous les apprentissages nécessaires, c'est beaucoup demander. Durant toute cette période je suis resté concentré sur l'idée que les pièces devaient être bon marché, je n'avais pas pensé à l'investissement en temps.
 
-Donner envie à d'autres, c'est certainement possible, il y a des actions à mener. Travailler la pratique de danse, produire des vidéos, écrire des tutoriels, filmer des tutoriels et des exercices de danse. Communiquer sur tout ça. Ce texte est un premier pas, mais je ne sais pas si je veux investir beaucoup de temps dans la communication. On n'est plus dans les années 2000, et les idées qui explosent sur internet sans stratégie de communication ça n'existe plus, aujourd'hui il faut faire des efforts.
+Donner envie à d'autres, c'est certainement possible, il y a des actions à mener. Travailler la pratique de danse, produire des vidéos, écrire des tutoriels, filmer des tutoriels et des exercices de danse. Communiquer sur tout ça. Ce texte est un premier pas, mais je ne sais pas si je veux investir beaucoup de temps dans la communication. On n'est plus dans les années 2000, et les idées qui explosent sur internet sans stratégie de communication ça n'existe plus.
 
 J'ai commencé la recherche sur la danse dans une salle de répétition du [Jardin d'Alice](https://www.lejardindalice.org/)<sup>4</sup>, à Montreuil. Je ne sais pas du tout jusqu'où cela va me mener, certainement au tournage de quelques vidéos supplémentaires.
 
