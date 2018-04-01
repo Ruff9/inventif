@@ -78,8 +78,6 @@ Une fois à l'aise avec le processus, on passe facilement d'un dessin sur une fe
 
 La conception a été plus compliquée que la technique. Je n'aurais pas cru: Il s'agit de créer une lampe en forme de matraque, rien à voir avec de la technologie de pointe. Quand on pense à ce qu'on peut construire aujourd'hui dans un fablab, mon objectif de départ à l'air assez raisonnable.
 
-En septembre 2016, un animateur du fablab évalue le temps restant à 10h de travail. J'ai fini dix mois plus tard.
-
 {% include image.html name="6moisDeFablab/6m_couv.jpg" %}
 
 Du cahier des charges de départ, certains principes sont restés. Pour être transportable l'objet doit être démontable.La lumière doit être assez puissante pour suffire à m'éclairer dans l'obscurité. Ces tonfas doivent pouvoir être la seule source lumineuse.
@@ -88,7 +86,7 @@ J'ai fait des compromis sur quasiment tout le reste. L'appareil fonctionne à pi
 
 {% include image.html name="residence/produit_final.jpg" %}
 
-J'ai essayé d'être agile. Comme dans mon travail, j'ai constamment redéfini les objectifs en fonction de la complexité pour arriver quelque part. J'ai beaucoup râlé à chaque renoncement, mais ça a finit par se faire. À aucun moment je n'ai réalisé que ça allait me prendre autant de temps. Au final, entre des samedi après-midi et deux résidences, cela m'aura pris deux ans.
+J'ai essayé d'être agile. Comme dans mon travail, j'ai constamment redéfini les objectifs en fonction de la complexité pour arriver quelque part. J'ai beaucoup râlé à chaque renoncement, mais ça a finit par se faire. À aucun moment je n'ai réalisé que ça allait me prendre autant de temps. En décembre 2015, un animateur du fablab a évalué le temps restant à 10h de travail. J'ai fini un an et demi plus tard.
 
 En mars 2017, j'ai été en résidence trois semaines au fablab, et il fallait que ça se termine. J'ai pu régler les derniers problèmes de conception, et sortir un nouveau prototype complêtement fonctionnel. On a pu recommencer à prendre des photos.
 

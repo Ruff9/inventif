@@ -36,7 +36,6 @@
           modalWindow.classList ? modalWindow.classList.remove('open') : modalWindow.className = modalWindow.className.replace(new RegExp('(^|\\b)' + 'open'.split(' ').join('|') + '(\\b|$)', 'gi'), ' ');
         }
       }
-
   }
 
   /* Handling domready event IE9+ */
