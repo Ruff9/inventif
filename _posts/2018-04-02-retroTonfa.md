@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emporté par l'inertie"
-date:   2018-03-27 20:20:20 +0200
+date:   2018-04-02 20:20:20 +0200
 permalink: retro_tonfa
 cover: LTquiberon/quib4.JPG
 categories: tonfa
@@ -12,7 +12,7 @@ tags: retro fablab lightpainting danse
 
 J'ai toujours du mal à expliquer ce projet. Pour ça il faut une première phrase, et j'ai mis du temps à la trouver. Cette première description a même changé en cours de route. Mes motivations ont changées, j'ai changé, et le projet a évolué.
 
-Je n'ai jamais pris le temps de tout expliquer. Aujourd'hui c'est le moment de rentrer dans les détails, j'ai déjà trop promis de tout écrire. C'est une longue histoire. L'action se déroule surtout dans des fablabs, mais l'inspiration est venue d'ailleurs.
+Je n'ai jamais pris le temps de tout expliquer. Aujourd'hui c'est le moment, j'ai déjà trop promis de tout écrire. L'action se déroule surtout dans des fablabs, mais l'inspiration est venue d'ailleurs.
 
 <!--more-->
 
@@ -80,7 +80,7 @@ La conception a été plus compliquée que la technique. Je n'aurais pas cru: Il
 
 {% include image.html name="6moisDeFablab/6m_couv.jpg" %}
 
-Du cahier des charges de départ, certains principes sont restés. Pour être transportable l'objet doit être démontable.La lumière doit être assez puissante pour suffire à m'éclairer dans l'obscurité. Ces tonfas doivent pouvoir être la seule source lumineuse.
+Du cahier des charges de départ, certains principes sont restés. Pour être transportable l'objet doit être démontable. La lumière doit être assez puissante pour suffire à m'éclairer dans l'obscurité. Ces tonfas doivent pouvoir être la seule source lumineuse.
 
 J'ai fait des compromis sur quasiment tout le reste. L'appareil fonctionne à piles, et non avec une batterie Li-ion. J'ai longtemps voulu avoir deux modes d'utilisation. J'ai essayé de construire moi-même la source lumineuse, au final j'ai utilisé des spots Leds prévus pour l'ameublement.
 
@@ -144,9 +144,9 @@ La dernière surprise de 2017 est arrivée quand j'ai voulu fabriquer deux exemp
 
 C'est le principal frein à l'accueil d'autres personnes dans le projet. 64 heures d'impression, sans compter l'assemblage et tous les apprentissages nécessaires, c'est beaucoup demander. Durant toute cette période je suis resté concentré sur l'idée que les pièces devaient être bon marché, je n'avais pas pensé à l'investissement en temps.
 
-Donner envie à d'autres, c'est certainement possible, il y a des actions à mener. Travailler la pratique de danse, produire des vidéos, écrire des tutoriels, filmer des tutoriels et des exercices de danse. Communiquer sur tout ça. Ce texte est un premier pas, mais je ne sais pas si je veux investir beaucoup de temps dans la communication. On n'est plus dans les années 2000, et les idées qui explosent sur internet sans stratégie de communication ça n'existe plus.
+Donner envie à d'autres, c'est certainement possible, il y a des actions à mener. Travailler la pratique de danse, produire des vidéos, écrire des tutoriels, filmer des tutoriels et des exercices de danse. Communiquer sur tout ça. Ce texte est un premier pas, mais je ne sais pas si je veux investir beaucoup de temps dans la communication. On n'est plus dans les années 2000, et les idées qui se développent sur internet sans stratégie ça n'existe plus.
 
-J'ai commencé la recherche sur la danse dans une salle de répétition du [Jardin d'Alice](https://www.lejardindalice.org/)<sup>4</sup>, à Montreuil. Je ne sais pas du tout jusqu'où cela va me mener, certainement au tournage de quelques vidéos supplémentaires.
+J'ai commencé la recherche sur la danse dans une salle de répétition du [Jardin d'Alice](https://www.lejardindalice.org/)<sup>4</sup>, à Montreuil. Je ne sais pas jusqu'où cela va me mener, certainement au tournage de quelques vidéos supplémentaires.
 
 Ce projet est redevenu intermittent depuis quelques mois. Je n'ai pas pris de vacances en 2017 et j'ai vraiment envie de le faire en 2018. Je partirais certainement avec les tonfas dans mon sac et il est possible que je demande à certains d'entre vous de prendre des photos ou des vidéos.
 

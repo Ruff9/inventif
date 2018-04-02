@@ -1,3 +1,5 @@
-# Inventif 2
+# Inventif
 
-en cours
+Site personnel réalisé avec Jekyll et en reprenant le thème [Hydeout](https://github.com/fongandrew/hydeout).
+
+[inventif.fr](http://www.inventif.fr/)
