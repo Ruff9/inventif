@@ -1,5 +1,9 @@
 // Custom
 
+:root {
+  --primary-color: #dd0a39;
+}
+
 $primary-color: #dd0a39;
 // $primary-color: #FD3000;
 $secondary-color: #7f696c;
@@ -37,7 +41,6 @@ $root-line-height: 1.5 !default;
 $body-color: $font-color !default;
 $body-muted: $gray-4 !default;
 $body-bg: #fff !default;
-$link-color: $primary-color !default;
 $heading-color: $title-color !default;
 
 $border-color: $gray-2 !default;

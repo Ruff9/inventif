@@ -87,7 +87,7 @@ body {
   font-family: 'lobster', sans-serif;
   font-weight: normal;
   font-size: $large-font-size;
-  color:$primary-color;
+  color:var(--primary-color);
   margin-top: 0;
   margin-bottom: $heading-spacing;
 
@@ -179,7 +179,7 @@ body {
   .site-title {
     position: absolute;
     font-size: 3rem;
-    color: $primary-color;
+    color: var(--primary-color);
 
     @media (min-width: $medium-breakpoint) {
       position: relative;

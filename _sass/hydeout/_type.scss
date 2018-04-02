@@ -131,5 +131,5 @@ a svg, .icon svg {
   height: 1em;
   width: auto;
 }
-a svg { fill: $link-color; }
+a svg { fill: var(--primary-color); }
 .icon { vertical-align: middle; }
