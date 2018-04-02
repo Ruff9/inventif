@@ -202,14 +202,14 @@ body {
   .sidebar-footer {
     display: flex;
     flex-direction: column;
-    align-items: right;
+    text-align: right;
     width: 100%;
     padding-right: 15px;
 
     @media (min-width: $medium-breakpoint) {
       display: inline-block;
       flex-direction: row;
-      align-items: center;
+      text-align: left;
       padding-right: 0;
     }
   }
