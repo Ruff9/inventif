@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emporté par l'inertie"
-date:   2018-04-02 20:20:20 +0200
+date:   2018-04-02 10:20:20 +0200
 permalink: retro_tonfa
 cover: LTquiberon/quib4.JPG
 categories: tonfa
