@@ -51,6 +51,7 @@ body {
   flex-direction: column;
   flex: 0 0 auto;
   padding: $section-spacing;
+  padding-bottom: 1rem;
 
   header ~ *, header ~ nav, p.lead {
     display: none;
