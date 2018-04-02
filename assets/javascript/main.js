@@ -22,7 +22,6 @@ function randomColor() {
     '#D86090',
     '#828EEC',
     '#F9A602',
-    '#253CEC',
     '#21C41D'
   ];
 
