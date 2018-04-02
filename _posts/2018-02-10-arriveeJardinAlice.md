@@ -18,8 +18,6 @@ Juste avant de commencer la séance, un petit accident a failli tout foutre en l
 
 {% include image.html name="tonfa_jardin_alice/DSC00486.jpeg" %}
 
-{% include image.html name="tonfa_jardin_alice/DSC00496.jpeg" %}
-
 {% include image.html name="tonfa_jardin_alice/DSC00506.jpeg" %}
 
 {% include image.html name="tonfa_jardin_alice/DSC00515.jpeg" %}
