@@ -22,7 +22,7 @@ function randomColor() {
     '#D86090',
     '#828EEC',
     '#F9A602',
-    '#21C41D'
+    '#3CB371'
   ];
 
   var randomColor = colorList[Math.floor(Math.random() * colorList.length)];
