@@ -1,4 +1,4 @@
-.contact-modal-title {
+.contact-modal-title, .newsletter-modal-title {
   font-size: 1.5em;
   margin-bottom: 25px;
 }
@@ -63,7 +63,6 @@
     z-index: 22;
     width: 90%;
     max-width: 700px;
-    height: 450px;
     top: 50%;
     transform: translateY(-50%);
     margin: 0 auto;
@@ -71,4 +70,12 @@
     background-color: #fff;
     text-align: center;
   }
+}
+
+.contact-modal-container {
+  height: 450px;
+}
+
+.newsletter-modal-container {
+  height: 350px;
 }

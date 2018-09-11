@@ -9,12 +9,12 @@
   }
 }
 
-.contact-form {
+.contact-form, .newletter-form {
   display: flex;
   flex-direction: column;
 }
 
-.contact-form-mail {
+.contact-form-mail, .newsletter-form-mail {
   margin-bottom: 20px;
   border-radius: 0;
   border: 1px solid $gray-3;
@@ -24,6 +24,12 @@
     font-size: 14px;
     font-family: $root-font-family;
   }
+}
+
+.newsletter-form-mail {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 420px;
 }
 
 .contact-form-message {
@@ -38,7 +44,7 @@
   }
 }
 
-.contact-form-submit {
+.contact-form-submit, .newsletter-form-submit {
   @include button();
   font-size: 0.9em;
   margin-top: 15px;

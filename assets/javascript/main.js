@@ -33,7 +33,6 @@ function randomColor() {
 function openModal() {
   var modalTrigger = document.getElementsByClassName('jsModalTrigger');
 
-  /* Set onclick event handler for all trigger elements */
   for(var i = 0; i < modalTrigger.length; i++) {
     modalTrigger[i].onclick = function() {
       var target = this.getAttribute('href').substr(1);
@@ -48,7 +47,6 @@ function closeModal(){
   var closeButton = document.getElementsByClassName('jsModalClose');
   var closeOverlay = document.getElementsByClassName('jsOverlay');
 
-  /* Set onclick event handler for close buttons */
   for(var i = 0; i < closeButton.length; i++) {
     closeButton[i].onclick = function() {
       var modalWindow = this.parentNode.parentNode;
@@ -57,7 +55,6 @@ function closeModal(){
     }
   }
 
-  /* Set onclick event handler for modal overlay */
   for(var i = 0; i < closeOverlay.length; i++) {
     closeOverlay[i].onclick = function() {
       var modalWindow = this.parentNode;
