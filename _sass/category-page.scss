@@ -11,6 +11,7 @@
 
 .category-page-container {
   background: $body-bg;
+  padding-top: 30px;
 }
 
 .category-presentation {
@@ -94,6 +95,6 @@
   margin: 0 auto 25px;
 
   @media (min-width: $medium-breakpoint) {
-    margin: 30px auto 50px;
+    margin: 0 auto 50px;
   }
 }
