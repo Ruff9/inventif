@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Scripter le déploiement d'un blog Jekyll sur OVH"
+title:  "Déployer un blog Jekyll sur OVH"
 date:   2018-09-07 10:20:20 +0200
 permalink: deploy-jekyll-ovh
+cover: jekyllOnOVH/jekyll.jpg
 categories: dev
 tags: jekyll shell ops
 ---

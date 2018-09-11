@@ -3,8 +3,9 @@ layout: post
 title:  "La nature d'Expression Libre"
 date:   2014-08-07 20:20:38 +0200
 permalink: expression_libre
-categories: expressionlibre
-tags: dev
+cover: EL_wtf/bob.png
+categories: dev
+tags: js
 ---
 
 {% include image.html name="EL_wtf/bob.png" %}
