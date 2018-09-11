@@ -3,6 +3,11 @@
 // Inline and block-level code snippets. Includes tweaks to syntax highlighted
 // snippets from Pygments/Rouge and Gist embeds.
 
+.highlight {
+  max-width: 600px;
+  margin: auto;
+}
+
 code,
 pre {
   font-family: $code-font-family;

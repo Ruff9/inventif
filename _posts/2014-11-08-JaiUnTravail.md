@@ -4,6 +4,7 @@ title:  'I got a job now'
 date:   2016-11-08 20:20:20 +0200
 permalink: a_job
 categories: texte
+tags: meta
 ---
 
 Depuis mi-septembre, je travaille à plein-temps. Je suis développeur web, c'est une très bonne nouvelle, c'est intéressant, etc... Ce qui me laisse beaucoup moins de temps pour mes projets perso, dont ce site.
