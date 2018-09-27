@@ -2,7 +2,7 @@
 layout: post
 title:  "Déployer un blog Jekyll sur OVH"
 date:   2018-09-07 10:20:20 +0200
-permalink: deploy-jekyll-ovh
+permalink: jekyll-ovh
 cover: jekyllOnOVH/jekyll.jpg
 categories: dev
 tags: jekyll shell ops
@@ -66,6 +66,6 @@ La ligne suivante, `ls -R` est un hack qui évite que les fichiers dans les sous
 
 La fonction principale est `mirror`, elle reproduit l'état d'un dossier local vers un dossier distant, c'est à dire `/www` sur mon hébergement OVH. L'option `reverse` permet que le transfert se déroule dans ce sens là, `mirror` ayant été conçue pour sauvegarder des fichiers distants localement.
 
-Et voilà. Après avoir rendu exécutables les deux scripts (`chmod +x chemin/du/fichier`), je peux déployer mon blog avec la commande `bin/deploy`. Le gain de productivité est minime, mais réel.
+Et voilà. Après avoir rendu exécutables les deux scripts (`chmod +x chemin/du/fichier`), je peux déployer mon blog avec la commande `bin/deploy`.
 
-Utiliser dans mes projets persos les même principes que dans ma vie professionnelle permet de réduire la charge de travail de ces projets. C'est déjà assez difficile d'écrire régulièrement des posts de blog après le boulot, autant le faire efficacement.
+Le gain de productivité est minime, mais j'ai ce que je voulais.
