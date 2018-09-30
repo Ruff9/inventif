@@ -10,7 +10,7 @@ tags: jekyll shell ops
 
 {% include image.html name="jekyllOnOVH/jekyll.jpg" %}
 
-J'ai un deuxième blog, et pour plusieurs raisons j'ai envie qu'il reste privé. Je n'ai donc pas hébergé son code sur Github mais sur Bitbucket. Ce qui pose immédiatement un problème: je ne peux pas utiliser Github pages, le service le plus efficace pour mettre en ligne un blog Jekyll.
+J'ai un deuxième blog, et j'ai envie qu'il reste privé. Je n'ai donc pas hébergé son code sur Github mais sur Bitbucket. Ce qui pose immédiatement un problème: je ne peux pas utiliser Github pages, le service le plus efficace pour mettre en ligne un blog Jekyll.
 
 Je me suis souvenu qu'OVH fourni un serveur minimal gratuitement avec ses noms de domaines. Exactement ce qu'il me faut, mon site statique n'a pas besoin de beaucoup d'espace. Et 8,40 euros par an, domaine compris, c'est un budget acceptable.
 
@@ -34,15 +34,15 @@ Cet outil m'a permis d'écrire mon fichier `bin/deploy`:
 
 . ./.env
 
-local_path=/home/remy/apps/monblog/_site
+local_path=/home/remy/apps/lectures/_site
 
 jekyll build
 
 lftp ftp://$user:$pwd@$host -e "
   ls -R ;
-  mirror --delete \
-  --verbose \
-  --reverse $local_path /www ;
+  mirror --reverse $local_path /www \
+         --delete \
+         --verbose ;
   quit"
 ```
 
@@ -67,5 +67,3 @@ La ligne suivante, `ls -R` est un hack qui évite que les fichiers dans les sous
 La fonction principale est `mirror`, elle reproduit l'état d'un dossier local vers un dossier distant, c'est à dire `/www` sur mon hébergement OVH. L'option `reverse` permet que le transfert se déroule dans ce sens là, `mirror` ayant été conçue pour sauvegarder des fichiers distants localement.
 
 Et voilà. Après avoir rendu exécutables les deux scripts (`chmod +x chemin/du/fichier`), je peux déployer mon blog avec la commande `bin/deploy`.
-
-Le gain de productivité est minime, mais j'ai ce que je voulais.
