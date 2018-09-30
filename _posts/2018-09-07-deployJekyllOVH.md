@@ -66,4 +66,8 @@ La ligne suivante, `ls -R` est un hack qui évite que les fichiers dans les sous
 
 La fonction principale est `mirror`, elle reproduit l'état d'un dossier local vers un dossier distant, c'est à dire `/www` sur mon hébergement OVH. L'option `reverse` permet que le transfert se déroule dans ce sens là, `mirror` ayant été conçue pour sauvegarder des fichiers distants localement.
 
-Et voilà. Après avoir rendu exécutables les deux scripts (`chmod +x chemin/du/fichier`), je peux déployer mon blog avec la commande `bin/deploy`.
+Et voilà. Après avoir rendu exécutables les deux scripts (`chmod +x chemin/du/fichier`), je peux déployer mon blog avec la commande `bin/deploy`. Je suis content de retrouver mes standards habituels, et je pense que lftp va me permettre de ne plus jamais utiliser Filezilla.
+
+*Update 30/09/2018*
+
+Ce post a donné lieu à mon premier talk pour [Paris.rb](https://rubyparis.org/). La présentation est déployée [ici](https://ruff9.github.io/pres_Jekyll_OVH/).
