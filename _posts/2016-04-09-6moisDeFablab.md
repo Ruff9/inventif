@@ -4,8 +4,8 @@ title:  'Six mois de fablab'
 date:   2016-09-04 20:20:20 +0200
 permalink: six_mois
 cover: 6moisDeFablab/6m_couv.jpg
-categories: tonfa
-tags: fablab
+categories: tonfa fablab
+tags:
 ---
 
 {% include image.html name="6moisDeFablab/6m_couv.jpg" %}

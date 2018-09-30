@@ -4,8 +4,8 @@ title:  "Emporté par l'inertie"
 date:   2018-04-02 10:20:20 +0200
 permalink: retro_tonfa
 cover: LTquiberon/quib4.JPG
-categories: tonfa
-tags: retro fablab lightpainting danse
+categories: tonfa fablab
+tags: retro lightpainting danse
 ---
 
 {% include image.html name="LTquiberon/quib4.JPG" %}

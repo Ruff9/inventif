@@ -4,8 +4,8 @@ title:  'En résidence'
 date:   2017-04-11 20:20:20 +0200
 permalink: residence
 cover: residence/fablab.jpg
-categories: tonfa
-tags: fablab retro
+categories: tonfa fablab
+tags: retro
 ---
 
 {% include image.html name="residence/fablab.jpg" %}

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tonfa
+title: ''
 category: tonfa
 permalink: tonfa
 ---
