@@ -32,6 +32,8 @@ Cet outil m'a permis d'écrire mon fichier `bin/deploy`:
 ```shell
 #!/bin/sh
 
+set -e
+
 . ./.env
 
 local_path=/home/remy/apps/lectures/_site
@@ -69,5 +71,7 @@ La fonction principale est `mirror`, elle reproduit l'état d'un dossier local v
 Et voilà. Après avoir rendu exécutables les deux scripts (`chmod +x chemin/du/fichier`), je peux déployer mon blog avec la commande `bin/deploy`. Je suis content de retrouver mes standards habituels, et je pense que lftp va me permettre de ne plus jamais utiliser Filezilla.
 
 *Update 30/09/2018*
+
+On m'a fait remarquer que mon script n'utilisait pas ftps, n'était donc pas sécurisé et exposait mes identifiants à une attaque man-in-the-middle. Il est totalement possible de paramétrer lftp pour utiliser le protocole ftps, comme décrit dans ce [post de blog](https://www.tutodidacte.com/connexion-ftps-avec-lftp).
 
 Ce post a donné lieu à mon premier talk pour [Paris.rb](https://rubyparis.org/). La présentation est déployée [ici](https://ruff9.github.io/pres_Jekyll_OVH/).
