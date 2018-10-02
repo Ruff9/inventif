@@ -36,13 +36,13 @@ set -e
 
 . ./.env
 
-local_path=/home/remy/apps/lectures/_site
+local_path=/home/user/repo/_site
 
 jekyll build
 
 lftp ftp://$user:$pwd@$host -e "
-  ls -R ;
   mirror --reverse $local_path /www \
+         --scan-all-first
          --delete \
          --verbose ;
   quit"
@@ -66,7 +66,7 @@ La commande `lftp` elle-même comprend plusieurs parties. D'abord on se connecte
 
 La ligne suivante, `ls -R` est un hack qui évite que les fichiers dans les sous-dossiers soient ignorés. Je ne sais pas pourquoi, sur ce coup là, [merci Stackoverflow](https://serverfault.com/questions/742459/lftp-reverse-mirror-silently-skips-files-in-subfolders).
 
-La fonction principale est `mirror`, elle reproduit l'état d'un dossier local vers un dossier distant, c'est à dire `/www` sur mon hébergement OVH. L'option `reverse` permet que le transfert se déroule dans ce sens là, `mirror` ayant été conçue pour sauvegarder des fichiers distants localement.
+La fonction principale est `mirror`, elle reproduit l'état d'un dossier local vers un dossier distant, c'est à dire `/www` sur mon hébergement OVH. L'option `reverse` permet que le transfert se déroule dans ce sens là, `mirror` ayant été conçue pour sauvegarder des fichiers distants localement. `--scan-all-first` permet de s'assurer que tous les fichiers soient transférés quelque soit la profondeur de l'arborescence, et `--delete` permet de gérer le suppressions de fichiers.
 
 Et voilà. Après avoir rendu exécutables les deux scripts (`chmod +x chemin/du/fichier`), je peux déployer mon blog avec la commande `bin/deploy`. Je suis content de retrouver mes standards habituels, et je pense que lftp va me permettre de ne plus jamais utiliser Filezilla.
 
