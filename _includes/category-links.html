@@ -1,12 +1,8 @@
-{% comment %}
-  Dynamically generate list of links to all category pages
-{% endcomment %}
-{% assign pages_list = site.pages %}
-{% for node in pages_list %}
-  {% if node.title != null %}
-    {% if node.layout == "category" %}
-      <a class="category-link {% if page.url == node.url %} active{% endif %}"
-          href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-    {% endif %}
-  {% endif %}
-{% endfor %}
+<a class="category-link {% if page.url == '/fablab' %} active{% endif %}"
+   href="{{ site.baseurl }}/fablab">Fablab</a>
+
+<a class="category-link {% if page.url == '/dev' %} active{% endif %}"
+   href="{{ site.baseurl }}/dev">Dev</a>
+
+<a class="category-link {% if page.url == '/tonfa' %} active{% endif %}"
+   href="{{ site.baseurl }}/tonfa">Tonfa</a>

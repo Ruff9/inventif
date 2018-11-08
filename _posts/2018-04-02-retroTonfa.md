@@ -125,7 +125,7 @@ Cette vidéo m'a laissé frustré, parce que la caméra bouge plus que moi. Je n
 Ces réflexions se ressentent dans l'essai suivant. Je bouge plus, ça commence à ressembler à de la danse. C'est toujours de l'impro et je suis encore loin d'une vidéo chorégraphiée et construite, mais les moyens sont là.
 
 <div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pTmGH78RpVk?rel=0&amp;showinfo=0?ecver=1" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1Mh2wPo0G7c?rel=0&amp;showinfo=0?ecver=1&modestbranding=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Et voilà. Dans un certain périmètre, ce projet est terminé. J'ai construit l'objet que je voulais depuis des années, je possède deux jouets uniques et conçus sur-mesure. J'ai appris beaucoup, je dispose de nouveaux moyens techniques et j'ai fait de belles rencontres. J'ai déjà été plus loin que je n'aurais cru. Je n'ai pas trouvé de nom plus funky que 'tonfas' pour cet objet, mais à vrai dire, j'ai arrété de chercher depuis longtemps.
