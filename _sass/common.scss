@@ -1,0 +1,12 @@
+.github-render {
+  margin: auto;
+  display: block;
+  width: 100%;
+  height: 300px;
+  border: none;
+
+  @media (min-width: $medium-breakpoint) {
+    max-width: 800px;
+    height: 400px;
+  }
+}
