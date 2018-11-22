@@ -10,7 +10,7 @@ tags: talk
 
 {% include image.html name="conf_tonfa/cover_conf_tonfa.png" %}
 
-Le 10 novembre dernier j'ai donné une conférence/talk<sup>1</sup> sur mon projet de tonfa lumineux, au <a href="http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/" target='_blank'>Carrefour Numérique</a>.
+Le 10 novembre dernier j'ai donné une conférence/talk<sup>1</sup> sur mon projet de tonfa lumineux, au <a href="http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/" target='_blank'>Carrefour Numérique</a>. Ils ont un format d'évènement intitulé 'La parole aux makers', et ils m'ont proposé d'intervenir dans ce cadre.
 
 Ça s'est très bien passé, la présentation a duré une heure et on m'a posé beaucoup de questions. Je suis ravi :) J'ai surtout parlé d'apprentissage de la conception en 3D et de l'impression 3D, et pour illustrer ça j'ai expliqué tout le projet<sup>2</sup>.
 <!--more-->
