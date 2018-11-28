@@ -1,8 +1,3 @@
-// Posts and pages
-//
-// Each post is wrapped in `.post` and is used on default and post layouts. Each
-// page is wrapped in `.page` and is only used on the page layout.
-
 .post-categories-tags {
   padding-left: 5px;
 }
@@ -54,8 +49,6 @@ article + *, .post-body ~ section {
   }
 }
 
-// Blog post or page title
-
 .page-title,
 .post-title,
 .post-title a {
@@ -78,16 +71,7 @@ article + *, .post-body ~ section {
 }
 
 .post-title {
-  text-align: right;
-  margin: 20px auto 0;
-
-  @media (min-width: $medium-breakpoint) {
-    margin: 0 auto 20px;
-    text-align: left;
-  }
-}
-
-.index .post-title {
+  text-align: left;
   margin: 0 auto 20px;
 }
 
@@ -100,7 +84,6 @@ h2.post-title, h2.page-title {
   }
 }
 
-// Meta data line below post title
 .post-meta {
   margin-top: -.5rem;
   margin-bottom: 1rem;

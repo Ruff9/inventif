@@ -1,0 +1,31 @@
+.pagination {
+  margin-bottom: $section-spacing;
+  color: $gray-3;
+  text-align: center;
+
+  > a {
+    @include button();
+  }
+}
+
+* + .pagination {
+  margin-top: $section-spacing;
+}
+
+@media (min-width: $medium-breakpoint) {
+  .pagination > a {
+    box-shadow: none;
+
+    &:hover { box-shadow: $default-box-shadow; }
+  }
+
+  .content .pagination:first-child {
+    margin-top: 0;
+
+    + * {
+      padding-top: $section-spacing;
+      border-top: 1px solid $border-color;
+      margin-top: $section-spacing;
+    }
+  }
+}
