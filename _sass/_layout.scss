@@ -6,6 +6,7 @@ body {
   flex-direction: column;
   min-width: 100vw;
   min-height: 100vh;
+  overflow-x: hidden;
 
   @media (min-width: $medium-breakpoint) {
     flex-direction: row;
@@ -40,9 +41,7 @@ body {
 
   > header {
     background: transparent;
-    margin: ($heading-spacing - $section-spacing)
-            $section-spacing
-            $section-spacing;
+    margin: $section-spacing;
 
     @media (min-width: $medium-breakpoint) {
       margin: 0;

@@ -1,16 +1,29 @@
 <div id="sidebar">
-  <header>
+  <header class='sidebar-header'>
     <h1 class="site-title">
       <a href="{{ site.baseurl }}/">
         {{ site.title }}
       </a>
     </h1>
+
+    {% include mobile-menu.html %}
   </header>
 
-  {% include sidebar-nav-links.html %}
+  <nav id="sidebar-nav-links">
+    <a class="category-link {% if page.url == '/fablab' %} active{% endif %}"
+       href="{{ site.baseurl }}/fablab">Fablab</a>
+
+    <a class="category-link {% if page.url == '/dev' %} active{% endif %}"
+       href="{{ site.baseurl }}/dev">Dev</a>
+
+    <a class="category-link {% if page.url == '/tonfa' %} active{% endif %}"
+       href="{{ site.baseurl }}/tonfa">Tonfa</a>
+  </nav>
 
   <div class='sidebar-footer'>
-    {% include page-links.html %}
+    <a class="page-link {% if page.url == '/about %} active{% endif %}"
+          href="{{ site.baseurl }}/about">À propos</a>
+
     <a href="#newsletterModal" class="jsModalTrigger sidebar-modal-trigger">Newsletter</a>
     <a href="#contactModal" class="jsModalTrigger sidebar-modal-trigger">Contact</a>
     {% include sidebar-icon-links.html %}

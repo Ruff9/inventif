@@ -4,10 +4,6 @@
   flex: 0 0 auto;
   padding: 1rem 1.5rem;
 
-  header ~ *, header ~ nav, p.lead {
-    display: none;
-  }
-
   .category-link, .page-link {
     color: $dark-gray;
 
@@ -31,24 +27,17 @@
     > *:last-child {
       margin-bottom: 0;
     }
-
-    p.lead, header ~ * {
-      display: block;
-    }
-
-    header ~ nav {
-      display: flex;
-    }
   }
 }
 
-.sidebar-footer {
+.sidebar-header {
   display: flex;
-  flex-direction: column;
-  text-align: right;
-  width: 100%;
-  padding-right: 15px;
-  margin-top: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sidebar-footer {
+  display: none;
 
   .page-link {
     display: block;
@@ -59,10 +48,11 @@
   }
 
   @media (min-width: $medium-breakpoint) {
-    display: inline-block;
-    flex-direction: row;
+    display: flex;
+    flex-direction: column;
     text-align: left;
-    padding-right: 0;
+    margin-top: auto;
+    width: 100%;
   }
 }
 
@@ -86,30 +76,29 @@
   }
 }
 
-#sidebar nav {
-  display: flex;
-  flex-wrap: inherit;
-}
-
 #sidebar-nav-links {
-  flex-flow: column nowrap;
+  display: none;
+
+  @media (min-width: $medium-breakpoint) {
+    line-height: 1.75;
+    display: flex;
+    flex-flow: column nowrap;
+  }
 }
 
 #sidebar-icon-links {
   width: 100%;
-  max-width: 100%;
+  display: flex;
+  flex-wrap: inherit;
   flex-flow: row wrap;
-  justify-content: space-around;
+  justify-content: space-between;
   margin-top: 1rem;
 
   @media (min-width: $medium-breakpoint) {
     margin-left: -0.25em;
+    line-height: 1.75;
+    justify-content: space-around;
   }
-}
-
-#sidebar nav > * {
-  display: block;
-  line-height: 1.75;
 }
 
 #sidebar nav > .icon {

@@ -11,7 +11,10 @@
 
 .category-page-container {
   background: $body-bg;
-  padding-top: 30px;
+
+  @media (min-width: $medium-breakpoint) {
+    padding-top: 30px;
+  }
 }
 
 .category-presentation {
@@ -51,11 +54,11 @@
 
 .category-post-item {
   margin-bottom: 10px;
-  border-bottom: 3px solid $gray-2;
   padding-bottom: 20px;
 
   @media (min-width: $medium-breakpoint) {
     margin-bottom: 20px;
+    border-bottom: 3px solid $gray-2;
   }
 }
 

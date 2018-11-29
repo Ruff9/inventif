@@ -1,0 +1,29 @@
+<nav role="navigation">
+  <div id="menuToggle">
+    <input type="checkbox" />
+
+    <span class='burger-piece'></span>
+    <span class='burger-piece'></span>
+    <span class='burger-piece'></span>
+
+    <ul id="menu">
+      <a class="category-link {% if page.url == '/fablab' %} active{% endif %}"
+       href="{{ site.baseurl }}/fablab"><li>Fablab</li></a>
+
+      <a class="category-link {% if page.url == '/dev' %} active{% endif %}"
+         href="{{ site.baseurl }}/dev"><li>Dev</li></a>
+
+      <a class="category-link {% if page.url == '/tonfa' %} active{% endif %}"
+       href="{{ site.baseurl }}/tonfa"><li>Tonfa</li></a></br>
+
+      <a class="page-link {% if page.url == '/about %} active{% endif %}"
+          href="{{ site.baseurl }}/about"><li>À propos</li></a>
+
+      <a href="#newsletterModal" class="jsModalTrigger sidebar-modal-trigger"><li>Newsletter</li></a>
+
+      <a href="#contactModal" class="jsModalTrigger sidebar-modal-trigger"><li>Contact</li></a></br>
+
+      {% include sidebar-icon-links.html %}
+    </ul>
+  </div>
+</nav>
