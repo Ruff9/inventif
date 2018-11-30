@@ -2,7 +2,11 @@
   display: flex;
   flex-direction: column;
   flex: 0 0 auto;
-  padding: 1rem 1.5rem;
+  padding: 0.5rem 1.25rem;
+  background-color: $sidebar-bg-color;
+
+  position: fixed;
+  width: 100%;
 
   .category-link, .page-link {
     color: $dark-gray;
@@ -20,6 +24,7 @@
     width: $sidebar-width;
     padding: $section-spacing;
     padding-bottom: 1rem;
+    position: initial;
 
     text-align: left;
     flex-direction: column;

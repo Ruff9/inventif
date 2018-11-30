@@ -9,7 +9,6 @@
 #menuToggle {
   display: block;
   position: relative;
-  padding-right: 10px;
 
   z-index: 1;
 
@@ -86,7 +85,6 @@
   height: 100vh;
   margin: 0 0 0 -50px;
   padding: 50px;
-  padding-top: 70px;
 
   background: $sidebar-bg-color;
   list-style-type: none;

@@ -1,6 +1,5 @@
 body {
   color: $gray-5;
-  background-color: $sidebar-bg-color;
 
   display: flex;
   flex-direction: column;
@@ -34,6 +33,7 @@ body {
   display: flex;
   flex-direction: column;
   background: $body-bg;
+  margin-top: 64px;
 
   > .content {
     flex-grow: 1;
@@ -51,6 +51,7 @@ body {
   @media (min-width: $medium-breakpoint) {
     color: $body-color;
     padding: 2rem 4rem;
+    margin-top: 0;
     height: 100vh;
   }
 }
