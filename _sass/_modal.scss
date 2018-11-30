@@ -76,5 +76,9 @@
 }
 
 .newsletter-modal-container {
-  height: 350px;
+  height: 310px;
+
+  @media (min-width: $medium-breakpoint) {
+    height: 350px;
+  }
 }

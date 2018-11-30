@@ -7,6 +7,9 @@
     <span class='burger-piece'></span>
 
     <ul id="menu">
+      <a class="category-link {% if page.url == '/' %} active{% endif %}"
+       href="{{ site.baseurl }}"><li>Accueil</li></a></br>
+
       <a class="category-link {% if page.url == '/fablab' %} active{% endif %}"
        href="{{ site.baseurl }}/fablab"><li>Fablab</li></a>
 
@@ -16,7 +19,7 @@
       <a class="category-link {% if page.url == '/tonfa' %} active{% endif %}"
        href="{{ site.baseurl }}/tonfa"><li>Tonfa</li></a></br>
 
-      <a class="page-link {% if page.url == '/about %} active{% endif %}"
+      <a class="page-link {% if page.url == '/about' %} active{% endif %}"
           href="{{ site.baseurl }}/about"><li>À propos</li></a>
 
       <a href="#newsletterModal" class="jsModalTrigger sidebar-modal-trigger"><li>Newsletter</li></a>
