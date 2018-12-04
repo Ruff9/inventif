@@ -1,18 +1,22 @@
 var stars = [];
+var warpStart = 60;
+var warpEnd = 240;
+var time = 0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
   for (i = 0; i < 1000; i++) {
     stars[i] = {
-      posX: Math.random() * width - width/2,
-      posY: Math.random() * height - height/2,
+      posX1: Math.random() * width - width/2,
+      posY1: Math.random() * height - height/2,
       size: map(Math.random(), 0, 1, 1, 3)
     }
 
-    stars[i].originX = stars[i].posX;
-    stars[i].originY = stars[i].posY;
+    stars[i].posX2 = stars[i].posX1;
+    stars[i].posY2 = stars[i].posY1;
   };
+
 }
 
 function draw() {
@@ -20,23 +24,52 @@ function draw() {
 
   fill(255);
   stroke(255);
-  // noStroke();
 
   translate(width/2, height/2);
+  // translate(mouseX, mouseY);
 
-  var speed = map(mouseX, 0, width, 1, 1.1);
+  var initialSpeed = 1.001;
+  var speed1 = 1.04;
+  var speed2 = 1.05;
 
   stars.forEach(function(star) {
-    // ellipse(star[0], star[1], star[2], star[2]);
     strokeWeight(star.size);
-    line(star.posX, star.posY, speed*star.posX, speed*star.posY);
+    line(star.posX1, star.posY1, star.posX2, star.posY2);
 
-    star.posX = speed*star.posX;
-    star.posY = speed*star.posY;
+    if (time < warpStart) {
+      star.posX1 = initialSpeed*star.posX1;
+      star.posY1 = initialSpeed*star.posY1;
+      star.posX2 = initialSpeed*star.posX2;
+      star.posY2 = initialSpeed*star.posY2;
+    } else if (time > warpEnd) {
+      if (Math.abs(star.posX1) < Math.abs(star.posX2)) {
+        star.posX1 = speed1*star.posX1;
+      } else {
+        star.posX1 = initialSpeed*star.posX2;
+      }
 
-    if (Math.abs(star.posX) > width/2 || Math.abs(star.posY) > height/2) {
-      star.posX = (Math.random() * width - width/2)/4;
-      star.posY = (Math.random() * height - height/2)/4;
+      if (Math.abs(star.posY1) < Math.abs(star.posY2)) {
+        star.posY1 = speed1*star.posY1;
+      } else {
+        star.posY1 = initialSpeed*star.posY2;
+      }
+
+      star.posX2 = initialSpeed*star.posX2;
+      star.posY2 = initialSpeed*star.posY2;
+    } else {
+      star.posX1 = speed1*star.posX1;
+      star.posY1 = speed1*star.posY1;
+      star.posX2 = speed2*star.posX2;
+      star.posY2 = speed2*star.posY2;
+    }
+
+    if (Math.abs(star.posX1) > width/2 || Math.abs(star.posY1) > height/2) {
+      star.posX1 = (Math.random() * width - width/2)/2;
+      star.posY1 = (Math.random() * height - height/2)/2;
+      star.posX2 = star.posX1;
+      star.posY2 = star.posY1;
     }
   });
+
+  time++;
 }
