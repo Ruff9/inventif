@@ -1,12 +1,11 @@
 function setup() {
-  createCanvas(640, 480);
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
-  if (mouseIsPressed) {
-    fill(0);
-  } else {
-    fill(255);
-  }
-  ellipse(mouseX, mouseY, 80, 80);
+  var c = color(255, 204, Math.random() * 255);
+
+  fill(c);
+
+  ellipse(Math.random() * width, Math.random() * height, 80, 80);
 }
