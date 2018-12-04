@@ -30,7 +30,7 @@ function draw() {
 
   var initialSpeed = 1.001;
   var speed1 = 1.04;
-  var speed2 = 1.05;
+  var speed2 = 1.06;
 
   stars.forEach(function(star) {
     strokeWeight(star.size);
