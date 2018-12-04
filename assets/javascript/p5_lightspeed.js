@@ -28,7 +28,7 @@ function draw() {
   translate(width/2, height/2);
   // translate(mouseX, mouseY);
 
-  var initialSpeed = 1.001;
+  var initialSpeed = 1.0005;
   var speed1 = 1.04;
   var speed2 = 1.06;
 
@@ -72,4 +72,6 @@ function draw() {
   });
 
   time++;
+
+  if (time == 500) { time = 0; }
 }
