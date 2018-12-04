@@ -56,19 +56,27 @@ function draw() {
 
       star.posX2 = initialSpeed*star.posX2;
       star.posY2 = initialSpeed*star.posY2;
+
+      if (Math.abs(star.posX1) > width/2 || Math.abs(star.posY1) > height/2) {
+        star.posX1 = (Math.random() * width - width/2);
+        star.posY1 = (Math.random() * height - height/2);
+        star.posX2 = star.posX1;
+        star.posY2 = star.posY1;
+      }
     } else {
       star.posX1 = speed1*star.posX1;
       star.posY1 = speed1*star.posY1;
       star.posX2 = speed2*star.posX2;
       star.posY2 = speed2*star.posY2;
+
+      if (Math.abs(star.posX1) > width/2 || Math.abs(star.posY1) > height/2) {
+        star.posX1 = (Math.random() * width - width/2)/2;
+        star.posY1 = (Math.random() * height - height/2)/2;
+        star.posX2 = star.posX1;
+        star.posY2 = star.posY1;
+      }
     }
 
-    if (Math.abs(star.posX1) > width/2 || Math.abs(star.posY1) > height/2) {
-      star.posX1 = (Math.random() * width - width/2)/2;
-      star.posY1 = (Math.random() * height - height/2)/2;
-      star.posX2 = star.posX1;
-      star.posY2 = star.posY1;
-    }
   });
 
   time++;
