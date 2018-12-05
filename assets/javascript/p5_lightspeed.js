@@ -73,13 +73,13 @@ function accelerating(star) {
 
 function slowing(star) {
   if (Math.abs(star.posX1) < Math.abs(star.posX2)) {
-    star.posX1 = speed1*star.posX1;
+    star.posX1 = speed2*star.posX1;
   } else {
     star.posX1 = initialSpeed*star.posX2;
   }
 
   if (Math.abs(star.posY1) < Math.abs(star.posY2)) {
-    star.posY1 = speed1*star.posY1;
+    star.posY1 = speed2*star.posY1;
   } else {
     star.posY1 = initialSpeed*star.posY2;
   }
