@@ -21,7 +21,6 @@ function setup() {
     stars[i].posX2 = stars[i].posX1;
     stars[i].posY2 = stars[i].posY1;
   };
-
 }
 
 function draw() {
