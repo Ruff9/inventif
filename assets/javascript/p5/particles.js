@@ -9,7 +9,7 @@ function setup() {
 function draw() {
   background(20);
 
-  if (system.particles.length < 20) {
+  if (system.particles.length < 120) {
     system.addParticle();
   }
 
@@ -17,10 +17,9 @@ function draw() {
 }
 
 var Particle = function(position) {
-  this.acceleration = createVector(0.05, 0.05);
-  this.velocity = createVector(random(-10, 10), random(-10, 10));
+  this.velocity = createVector(5, 5);
   this.position = position.copy();
-  this.lifespan = 100;
+  this.garbage = false;
 };
 
 Particle.prototype.run = function() {
@@ -29,24 +28,42 @@ Particle.prototype.run = function() {
 };
 
 Particle.prototype.move = function(){
-  // if (this.position.x < width/4 && this.position.y < height/4) {
-    this.velocity.add(this.acceleration);
+  if (this.isInLandingArea()) {
     this.position.add(this.velocity);
-    this.lifespan -= 2;
-  // }
-  // console.log(this.position.x);
+  } else {
+    this.garbage = true;
+  }
+
+  if (this.isBouncing()) {
+    newVelocity = createVector(-this.velocity.x + random(-1, 1),
+                               -this.velocity.y + random(-1, 1));
+    this.velocity = newVelocity;
+    this.position.add(this.velocity);
+  }
+
 };
 
 Particle.prototype.display = function() {
-  stroke(200);
   strokeWeight(2);
-  fill(127);
-  ellipse(this.position.x, this.position.y, 20, 20);
+  fill(255);
+  ellipse(this.position.x, this.position.y, 10, 10);
 };
 
-Particle.prototype.isDead = function(){
-  return this.lifespan < 0;
+Particle.prototype.isInLandingArea = function(){
+  origin = system.origin
+
+  var distance = sqrt(sq(this.position.x - origin.x) + sq(this.position.y - origin.y));
+
+  return distance < height/4;
 };
+
+Particle.prototype.isBouncing = function(){
+  origin = system.origin
+
+  var distance = sqrt(sq(this.position.x - origin.x) + sq(this.position.y - origin.y));
+
+  return distance >= height/4;
+}
 
 var ParticleSystem = function(position) {
   this.origin = position.copy();
@@ -61,7 +78,8 @@ ParticleSystem.prototype.run = function() {
   for (var i = this.particles.length-1; i >= 0; i--) {
     var p = this.particles[i];
     p.run();
-    if (p.isDead()) {
+
+    if (p.garbage == true) {
       this.particles.splice(i, 1);
     }
   }
