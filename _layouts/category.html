@@ -12,16 +12,18 @@ layout: default
     {% assign category = page.category | default: page.title %}
 
     {% for post in site.categories[category] %}
-      {% capture imagePath %}/assets/images/posts/{{ post.cover }}{% endcapture %}
-      <a href="{{ site.baseurl }}{{ post.url }}" class='category-post-link'>
-        <div class='category-post-item'>
-          <div class='category-post-cover' style='background-image:url({{ imagePath | absolute_url }});'></div>
-          <h3 class='category-post-title'>
-              {{ post.title }}
-          </h3>
-          <div class='category-post-date'>{% include translated_date.html date=post.date format=site.date_format lang='fr' %}</div>
-        </div>
-      </a>
+      {% if post.draft != true  %}
+        {% capture imagePath %}/assets/images/posts/{{ post.cover }}{% endcapture %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class='category-post-link'>
+          <div class='category-post-item'>
+            <div class='category-post-cover' style='background-image:url({{ imagePath | absolute_url }});'></div>
+            <h3 class='category-post-title'>
+                {{ post.title }}
+            </h3>
+            <div class='category-post-date'>{% include translated_date.html date=post.date format=site.date_format lang='fr' %}</div>
+          </div>
+        </a>
+      {% endif %}
     {% endfor %}
   </section>
 </div>
