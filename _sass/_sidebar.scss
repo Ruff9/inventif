@@ -64,10 +64,14 @@
 #sidebar a {
   svg {
     fill: $gray-5;
+    stroke: $gray-5;
   }
 
   &:hover, &:focus, &.active {
-    svg { fill: $gray-4; }
+    svg {
+      fill: $gray-4;
+      stroke: $gray-4;
+    }
   }
 
   &:hover, &:focus {
@@ -107,7 +111,7 @@
 }
 
 #sidebar nav > .icon {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   display: inline-block;
   margin: 0 0.25em;
 }
