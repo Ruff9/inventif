@@ -18,6 +18,7 @@ draft: true
 
 En mars 2017 j'ai été recruté par Quelleenergie, en tant que développeur Ruby, et on m'a confié le développement d'un nouveau projet. Le CEO de l'époque m'a demandé de le déployer sur Google Cloud Platform (GCP) avec Kubernetes, pour faire une première expérience avant de migrer tous les sites du groupe. J'étais ravi, c'était une occasion parfaite pour découvrir une nouvelle techno.
 
+Au final on a mis en place une infrastructure cohérente, en cherchant à tirer le maximum de nos nouveaux outils.
 <!--more-->
 
 Dans mon boulot précédent, j'ai été en contact avec Docker, et je ne voyais pas l'intérêt. L'intérêt, c'est l'orchestration. C'est la prod.
