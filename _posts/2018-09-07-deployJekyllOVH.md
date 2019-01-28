@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Déployer un blog Jekyll sur OVH"
+title:  "Déployer Jekyll sur OVH"
 date:   2018-09-07 10:20:20 +0200
 permalink: jekyll-ovh
 cover: jekyllOnOVH/jekyll.jpg
