@@ -77,7 +77,7 @@ J'ai réalisé que ce qui m'amusait, c'était de jouer avec l'aléatoire. Ce qu'
 
 Dès le premier test chez UT7, on m'a fait découvrir <a href="https://www.openprocessing.org" target='_blank'>OpenProcessing</a>. C'est un réseau social qui permet de partager des animations et leur code. J'ai créé <a href="https://www.openprocessing.org/user/158204#sketches" target='_blank'>mon compte</a>, et gagné mes premiers likes.
 
-L'animation suivante est une celles qui m'a le plus marquée, au point que l'image de couverture de ce post en est une capture d'écran. Il faut le survoler à la souris en gardant le bouton gauche appuyé pour l'activer, et appuyer sur n'importe quelle touche permet de changer la texture.
+L'animation suivante est une de celles qui m'a le plus marquée, au point que l'image de couverture de ce post en est une capture d'écran. Il faut le survoler à la souris en gardant le bouton gauche appuyé pour l'activer, et appuyer sur n'importe quelle touche permet de changer la texture.
 
 <div class='p5-embed-container'>
   <iframe src="https://www.openprocessing.org/sketch/413567/embed/" height="450" style="width: 100%;"></iframe>
