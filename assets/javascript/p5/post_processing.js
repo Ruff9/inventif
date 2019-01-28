@@ -1,4 +1,11 @@
-var embedSize = { width: 800, height: 450 };
+var coverWidth = document.getElementsByTagName('img')[0].offsetWidth;
+var embedSize;
+
+if(coverWidth <= 800) {
+  embedSize = { width: coverWidth, height: 350 };
+} else {
+  embedSize = { width: 800, height: 450 };
+}
 
 var hyperspeed = function(p) {
   var stars = [];

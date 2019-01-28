@@ -6,7 +6,7 @@ permalink: debuts_processing
 cover: debuts_processing/processing_sample.png
 categories: dev
 tags: processing art
-draft: true
+draft: false
 ---
 
 {% include image.html name="debuts_processing/processing_sample.png" %}
@@ -15,11 +15,6 @@ J'ai enfin essayé le <a href="https://fr.wikipedia.org/wiki/Processing" target=
 
 Lors de mon dernier après-midi de formation chez <a href="https://ut7.fr" target='_blank'>UT7</a>, on m'a laissé le choix du langage, et j'ai demandé à faire du Processing. En binôme avec <a href="https://twitter.com/jonathanperret" target='_blank'>Jonathan Perret</a>, nous avons codé un saut dans l'hyperespace.
 <!--more-->
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.js"></script>
-
-<script type="text/javascript" src="{{ site.baseurl }}/assets/javascript/p5/post_processing.js"></script>
 
 <div id='p5-hyperspeed-container' class='p5-embed-container'></div>
 
@@ -85,7 +80,7 @@ Dès le premier test chez UT7, on m'a fait découvrir <a href="https://www.openp
 L'animation suivante est une celles qui m'a le plus marquée, au point que l'image de couverture de ce post en est une capture d'écran. Il faut le survoler à la souris en gardant le bouton gauche appuyé pour l'activer, et appuyer sur n'importe quelle touche permet de changer la texture.
 
 <div class='p5-embed-container'>
-  <iframe src="https://www.openprocessing.org/sketch/413567/embed/" width="800" height="450"></iframe>
+  <iframe src="https://www.openprocessing.org/sketch/413567/embed/" height="450" style="width: 100%;"></iframe>
 </div>
 
 Je suis encore très loin de ce niveau, mais je prends beaucoup de plaisir à débuter avec cet outil, ce qui rend optimiste. D'ici un an ou deux, tout sera possible.
@@ -96,3 +91,7 @@ J'ai mis en place <a href="https://github.com/Ruff9/p5js_sandbox" target='_blank
 
 Pour quelques heures, coder pour le plaisir.
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.js"></script>
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/javascript/p5/post_processing.js"></script>
