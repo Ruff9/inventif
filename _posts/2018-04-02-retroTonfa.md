@@ -16,7 +16,7 @@ Je n'ai jamais pris le temps de tout expliquer. Aujourd'hui c'est le moment, j'a
 
 <!--more-->
 
-En février 2011, j'ai assisté à une réunion de jongleurs de feu, sur le parvis du palais de Tokyo. Beaucoup de bolas, des épées enflammées et quelques expériences. J'ai passé quelques minutes à fixer un homme qui avait monté des lumières clignotantes aux extrémités de ses nunchakus. Original mais vite lassant : il devait garder une vitesse constante pour que la chaîne reste tendue, ce qui limitait ses mouvements et les formes de lumière possibles.
+En février 2011, j'ai assisté à une réunion de jongleurs de feu, sur le parvis du palais de Tokyo. Beaucoup de bolas, des épées enflammées et quelques expériences. J'ai passé cinq minutes à fixer un homme qui avait monté des lumières clignotantes aux extrémités de ses nunchakus. Original mais vite lassant : il devait garder une vitesse constante pour que la chaîne reste tendue, ce qui limitait ses mouvements et les formes de lumière possibles.
 
 En regardant ces nunchakus clignotants, je me dis que cela fonctionnerait beaucoup mieux avec des tonfas. J'avais pratiqué le Viet Vo Dao, je savais ce que c'était et vaguement comment ça se manipule.
 
