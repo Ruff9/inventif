@@ -37,6 +37,10 @@
   height: 100%;
 }
 
+.video-container-light {
+  text-align: center;
+}
+
 article + *, .post-body ~ section {
   padding-top: $section-spacing;
   border-top: 1px solid $border-color;
@@ -141,4 +145,12 @@ h2.post-title, h2.page-title {
 
 .centered-paragraph {
   text-align: center;
+}
+
+.tweet-container {
+  margin-bottom: 20px;
+}
+
+.tweet-container > *:first-child {
+  margin: auto;
 }
