@@ -147,7 +147,7 @@ Peu de temps après, une employée d'Etam a été mise à pied après avoir refu
   <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Ce matin, des militants de Génération Identitaire ont fixé une banderole sur la devanture du magasin <a href="https://twitter.com/hashtag/Etam?src=hash&amp;ref_src=twsrc%5Etfw">#Etam</a> à <a href="https://twitter.com/hashtag/Montpellier?src=hash&amp;ref_src=twsrc%5Etfw">#Montpellier</a>. <br>La direction ne doit pas se soumettre aux lois islamiques et l’employée mis à pied doit retrouver son poste.<br> <a href="https://twitter.com/hashtag/BoycotEtam?src=hash&amp;ref_src=twsrc%5Etfw">#BoycotEtam</a> <a href="https://t.co/u5383qDT1C">pic.twitter.com/u5383qDT1C</a></p>&mdash; Johan Teissier (@JohanTeissier) <a href="https://twitter.com/JohanTeissier/status/1106838552313294848?ref_src=twsrc%5Etfw">16 mars 2019</a></blockquote>
 </div>
 
-Cette histoire a fait écho à un autre scandale navrant, celui du "hijab de Décathlon", en février. La chaîne de magasin a décidé de mettre en vente un voile adapté à la course à pied, et a dû renoncer suite à des menaces sur ses employés. La domination culturelle de l'extrème droite... 
+Cette histoire a fait écho à un autre scandale navrant, celui du "hijab de Décathlon", en février. La chaîne de magasin a décidé de mettre en vente un voile adapté à la course à pied, et a dû renoncer suite à des menaces sur ses employés.
 
 Si cette affaire a fait autant de bruit, c'est notamment parce que des responsables politiques de premier plan s'en sont mélés, ici Aurore Bergé, porte-parole d'En Marche.
 
