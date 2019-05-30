@@ -16,11 +16,13 @@ Ce robot m'a emmené très loin et je vais tout vous raconter. Il va y avoir des
 
 <!--more-->
 
-Le point de départ, c'est une connaissance qui fait un appel sur Twitter pour trouver quelqu'un capable de développer un bot. Son besoin : un compte qui retweete automatiquement tous les messages contenant un certain hashtag<sup>1</sup>.
+{:#retour-note1}
+Le point de départ, c'est une connaissance qui fait un appel sur Twitter pour trouver quelqu'un capable de développer un bot. Son besoin : un compte qui retweete automatiquement tous les messages contenant un certain hashtag<a href="#note1"><sup>1</sup></a>.
 
 Avant de lui dire que je pouvais le faire, j'ai voulu vérifier que j'en étais capable. Pour faire un test j'ai dû choisir un mot, et c'est tombé sur "pied". Pour le jeu de mots "pied bot". Hum.
 
-Après quelques recherches et un peu de code<sup>2</sup>, j'ai mis en ligne [Pied Bot](https://twitter.com/BotPied), et il a retweeté son premier message, celui-ci:
+{:#retour-note2}
+Après quelques recherches et un peu de code<a href="#note2"><sup>2</sup></a>, j'ai mis en ligne [Pied Bot](https://twitter.com/BotPied), et il a retweeté son premier message, celui-ci:
 
 <div class='tweet-container'>
 	<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">Esta versión Army de Pied Piper debería ser escuchada por los chicos <br>Nosotros devolvemos el amor que ellos nos dan 💞<a href="https://twitter.com/BTS_twt?ref_src=twsrc%5Etfw">@BTS_twt</a> <a href="https://t.co/BXJSRQHFtq">pic.twitter.com/BXJSRQHFtq</a></p>&mdash; Namseok [BOY WITH ME /JESS] (@Hope_World20) <a href="https://twitter.com/Hope_World20/status/1074100982500507648?ref_src=twsrc%5Etfw">December 16, 2018</a></blockquote>
@@ -44,7 +46,8 @@ Récemment j'ai voulu m'éloigner de Facebook. J'ai vite réalisé que j'avais b
 	<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">J ai voulu parler de l acte mais c est pied de la go la même qui me tue. Tchai c est Goliath ou bien <a href="https://t.co/by62vyy0eW">pic.twitter.com/by62vyy0eW</a></p>&mdash; Martialvelique😇😈 (@princemartial) <a href="https://twitter.com/princemartial/status/1109398410942210048?ref_src=twsrc%5Etfw">March 23, 2019</a></blockquote>
 </div>
 
-Trois mois et demi après l'avoir codé, j'étais toujours un follower de Pied Bot. L'envie de raconter tout ça est arrivée et ce post de blog est devenu un projet. J'ai téléchargé l'archive complète du compte, de sa création le 17/12/2018 au 25/03/2019, un total de 10 844 retweets. J'ai sélectionné 492 messages comme matière première pour ce post, et j'ai fini par en utiliser 38<sup>3</sup>.
+{:#retour-note3}
+Trois mois et demi après l'avoir codé, j'étais toujours un follower de Pied Bot. L'envie de raconter tout ça est arrivée et ce post de blog est devenu un projet. J'ai téléchargé l'archive complète du compte, de sa création le 17/12/2018 au 25/03/2019, un total de 10 844 retweets. J'ai sélectionné 492 messages comme matière première pour ce post, et j'ai fini par en utiliser 38<a href="#note3"><sup>3</sup></a>.
 
 Écrire ce texte a été plus compliqué que prévu. La matière première est tellement foisonnante, tellement chaotique, que toute mes tentatives d'organisation ou de classement ont lamentablement échouées. J'ai voulu faire une analyse de contenu un peu rigoureuse, je me suis perdu et j'ai laissé tombé. J'ai été tenté par une analyse statistique, un mini data-mining avec des scripts et l'API de Twitter en support. Pas mieux. 
 
@@ -108,7 +111,8 @@ Un des combats qui m'intéresse est celui contre le sexisme, et via Twitter j'ai
   <blockquote class="twitter-tweet" data-lang="fr"><p lang="fr" dir="ltr">Les hommes de 40 ou 50 ans qui, dans le métro, matent des gamines de 16 ans. Des envies de coup de pied retourné.</p>&mdash; Valerie Rey-Robert (@valerieCG) <a href="https://twitter.com/valerieCG/status/1098868872105594880?ref_src=twsrc%5Etfw">22 février 2019</a></blockquote>
 </div>
 
-L'époque que nous vivons n'arrange rien. Sur la période entre décembre et mars, les gilets jaunes ont secoué le pouvoir en France. La répression a été brutale<sup>4</sup>, la réaction des manifestants également. Explosion de violence dans les rues, avec des forcément des centaines de témoignages sur Twitter.
+{:#retour-note4}
+L'époque que nous vivons n'arrange rien. Sur la période entre décembre et mars, les gilets jaunes ont secoué le pouvoir en France. La répression a été brutale<a href="#note4"><sup>4</sup></a>, la réaction des manifestants également. Explosion de violence dans les rues, avec des forcément des centaines de témoignages sur Twitter.
 
 <div class='tweet-container'>
   <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Antonio Barbetta 40 ans, organisateur de la marche blanche pour les blessés, touché au pied par une grenade Gli-F4 le 24 novembre dénonce la &quot;répression policière abusive &quot; <a href="https://twitter.com/hashtag/GiletsJaunes?src=hash&amp;ref_src=twsrc%5Etfw">#GiletsJaunes</a> <a href="https://t.co/3P9B6EVFdY">pic.twitter.com/3P9B6EVFdY</a></p>&mdash; Elodie Becu (@ElodieBecu) <a href="https://twitter.com/ElodieBecu/status/1091644742100807685?ref_src=twsrc%5Etfw">February 2, 2019</a></blockquote>
@@ -293,7 +297,7 @@ Sur ce, je vais aller m'intéresser à autre chose.
 
 {:.pre-footnotes}
 <hr/>
-{:.post-footnotes}
+{:.post-footnotes#note1}
 <sup>1</sup>  [Ludivine Demol](https://twitter.com/ludivinedefe) est chercheuse en sciences humaines, et pour chercher des références bibliographiques il lui arrive de demander à des collègues sur Twitter. Jeter des bouteilles à la mer, à la longue, c'est frustrant, et pour améliorer ce process elle a pensé à un bot.
 
 {:.post-footnotes}
@@ -303,6 +307,9 @@ Un compte qui retweeterait tous les messages contenant le tag #RBSHS (pour reche
 C'est ce bot que j'ai codé pour elle, il est en ligne sous le nom [RechBiblioSHS](https://twitter.com/RechBiblioSHS).
 
 {:.post-footnotes}
+<a href="#retour-note1">retour</a>
+
+{:.post-footnotes#note2}
 <sup>2</sup>  Techniquement, c'est un projet pour débutant. Coder un bot Twitter est même un classique des initiations à l'informatique. Voici l'intégralité du code de Pied Bot. 
 
 ```ruby
@@ -346,6 +353,9 @@ Ce script est lancé automatiquement toute les 15 minutes. Les doublons sont év
 Tout ça pour ça.
 
 {:.post-footnotes}
+<a href="#retour-note2">retour</a>
+
+{:.post-footnotes#note3}
 <sup>3</sup>  Oui, j'ai du temps à perdre. Je suis un freelance entre deux missions, ce texte est un délire issu d'un cerveau désoeuvré. 
 
 {:.post-footnotes}
@@ -355,7 +365,13 @@ Quand on est un adulte productif et qu'on ne travaille pas, on est censé consac
 Je trouve ça très sain. Si tous les chômeurs consacraient une partie de leur temps à des petits projets ou à des assos, le monde serait meilleur.
 
 {:.post-footnotes}
+<a href="#retour-note3">retour</a>
+
+{:.post-footnotes#note4}
 <sup>4</sup>  J'ai vu tout ça de près, et je l'ai raconté ici : [Ma première émeute]({{ 'emeute' | relative_url }}).
+
+{:.post-footnotes}
+<a href="#retour-note4">retour</a>
 <br/><br/>
 
 {:.post-footnotes}

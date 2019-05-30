@@ -8,6 +8,8 @@
   position: fixed;
   width: 100%;
 
+  z-index: 1;
+
   .category-link, .page-link {
     color: $dark-gray;
 

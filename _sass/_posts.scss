@@ -143,6 +143,7 @@ h2.post-title, h2.page-title {
 
 .tweet-container {
   margin-bottom: 20px;
+  z-index: 0;
 }
 
 .tweet-container > *:first-child {
