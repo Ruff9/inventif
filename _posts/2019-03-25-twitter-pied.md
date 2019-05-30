@@ -6,7 +6,6 @@ permalink: pied
 cover: twitter_pied/pied-banniere.jpg
 categories: texte
 tags: wtf
-draft: true
 ---
 
 {% include image.html name="twitter_pied/pied-banniere.jpg" %}
