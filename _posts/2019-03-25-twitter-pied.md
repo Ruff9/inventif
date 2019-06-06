@@ -30,7 +30,7 @@ Après quelques recherches et un peu de code<a href="#note2"><sup>2</sup></a>, j
 
 C'est un tweet en espagnol qui parle d'un groupe coréen.
 
-Je n'ai pas réalisé immédiatemment. J'ai proposé à mon amie de coder son bot, et quelques heures plus tard il était en ligne. Dans nos échanges, je lui ai dit ceci : "Il va falloir que j'arrête de suivre mon bot sur les pieds, il me spamme." On a bien rigolé. Je ne l'ai pas fait. 
+Je n'ai pas réalisé immédiatement. J'ai proposé à mon amie de coder son bot, et quelques heures plus tard il était en ligne. Dans nos échanges, je lui ai dit ceci : "Il va falloir que j'arrête de suivre mon bot sur les pieds, il me spamme." On a bien rigolé. Je ne l'ai pas fait. 
 
 <div class='tweet-container'>
 	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love traveling new places when even the most common species are new and exciting. This Malaysian Pied-Fantail was STUNNING and knew it. <a href="https://t.co/j6iaQ7h4ek">pic.twitter.com/j6iaQ7h4ek</a></p>&mdash; Doug Hitchcox (@dhitchcox) <a href="https://twitter.com/dhitchcox/status/1092623587444428801?ref_src=twsrc%5Etfw">February 5, 2019</a></blockquote>
