@@ -5,7 +5,7 @@ let j = 0.0;
 
 const baseSize = 35;
 const rayonExt = 11;
-const rayonInt = 7;
+const rayonInt = 5;
 
 const density = 15; // float low density between 0 and 1
 const fadeSpeed = 0.5;
@@ -74,7 +74,7 @@ const Cell = function(position) {
   this.height = round(height/table.rows);
   this.active = false;
   this.live = false;
-  this.speed = floor(random(1, 7));
+  this.speed = floor(random(1, 3));
 };
 
 Cell.prototype.display = function() {
@@ -124,4 +124,12 @@ Cell.prototype.isInActiveArea = function(origin) {
 
 function randomBlueColor() {
   return color(random(0, 220), random(150, 220), 255);
+}
+
+function lightBlue() {
+  return color(173, 216, 230);
+}
+
+function randomGreenColor() {
+  return color(random(150, 220), 255,random(150, 220));
 }
