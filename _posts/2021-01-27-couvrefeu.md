@@ -7,7 +7,7 @@ categories: texte
 draft: false
 ---
 
-L'autre jour je me promenais dans mon quartier, en pensant à faire vite pour rentrer avant le couvre-feu. J'ai réalisé que je n'étais pas vraiment sûr de savoir si il était encore appliqué. Je sais plus si il y a eu des annonces récemment, je n'ai pas vraiment suivi, je sature pas mal.
+Tout à l'heure je me promenais dans mon quartier, en pensant à faire vite pour rentrer avant le couvre-feu. J'ai réalisé que je n'étais pas vraiment sûr de savoir si il était encore appliqué. Je sais plus si il y a eu des annonces récemment, je n'ai pas vraiment suivi, je sature pas mal.
 
 Je suis donc dans la rue, et je me demande si je suis en train de marcher vite pour respecter un couvre-feu imaginaire.
 
