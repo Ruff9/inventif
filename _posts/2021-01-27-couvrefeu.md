@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "Couvre-feu"
-date:   2021-01-27 10:20:20 +0200
+title: "Couvre-feu"
+date: 2021-01-31 10:20:20 +0200
 permalink: couvre-feu
 categories: texte
-draft: true
+draft: false
 ---
 
 L'autre jour je me promenais dans mon quartier, en pensant à faire vite pour rentrer avant le couvre-feu. J'ai réalisé que je n'étais pas vraiment sûr de savoir si il était encore appliqué. Je sais plus si il y a eu des annonces récemment, je n'ai pas vraiment suivi, je sature pas mal.
 
 Je suis donc dans la rue, et je me demande si je suis en train de marcher vite pour respecter un couvre-feu imaginaire.
+
+<!--more-->
 
 L'habitude de se presser à 17h30 est bien ancrée, mais je ne me suis jamais fait au mot "couvre-feu". C'est un terme pour une période de guerre, ou pour une dictature militaire. La dernière fois que j'ai regardé, personne n'essayait de conquérir mon pays.
 
@@ -25,6 +27,6 @@ Je suis enfermé seul depuis plus d'un an. J'ai eu la bonne idée de prendre de 
 
 J'ai besoin de croire qu'on va s'en remettre. Je sais qu'on a la capacité de résilience et le sens du collectif nécessaire, j'espère juste qu'on aura le temps de se reconstruire avant la prochaine catastrophe.
 
-Quand on aura survécu, il faudra se rappeler comment tout ça a été géré. S'habituer, ça permet de faire passer les moments difficiles, mais il ne faudrait pas oublier. Avant le Covid, on vivait déjà dans un pays où il est normal d'avoir peur d'aller manifester, d'avoir peur de la police. Ça ne vient pas de nulle part, les termes militaires et les attestations. Ça n'est pas une surprise. Se remettre de tout ça, ce sera aussi retrouver nos exigences et le courage de se battre.
+Quand on aura survécu, il faudra se rappeler comment tout ça a été géré. S'habituer, ça aide à mieux passer les moments difficiles, mais il ne faudrait pas oublier. Avant le Covid, c'était déjà normal en France d'avoir peur d'aller manifester, d'avoir peur de la police. Ça ne vient pas de nulle part, les termes militaires et les attestations. Ça n'est pas une surprise. Se remettre de tout ça, ce sera aussi retrouver nos exigences et le courage de se battre.
 
-En attendant, on va continuer de survivre.
+En attendant, on va survivre. Reparlons-en l'été prochain sur une plage. 
