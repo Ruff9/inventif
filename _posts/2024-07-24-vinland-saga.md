@@ -46,4 +46,4 @@ Acheter un série de manga, c'est cher et ça prend de la place. Personnellement
 
 -------------
 
-Vinland Saga a été adapté en série animée. Je ne l'ai pas vue, je ne peux pas voua la recommander, mais les critiques sont plutôt bonnes.
+Vinland Saga a été adapté en série animée. Je ne l'ai pas vue, je ne peux pas vous la recommander, mais les critiques sont plutôt bonnes. Sur Sens Critique le manga a une note de 8.1/10, et l'animé 7.9/10.
