@@ -6,7 +6,6 @@ permalink: vinland-saga
 cover: vinland_saga/vinland_cover.png
 categories: texte
 tags: bd
-draft: true
 ---
 
 {% include image.html name="vinland_saga/vinland_cover.png" %}
