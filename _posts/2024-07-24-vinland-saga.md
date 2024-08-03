@@ -30,7 +30,7 @@ Knut et Thorfinn se connaissent et s'entendent bien. Tous les deux en décalage 
 
 {% include image.html name="vinland_saga/thorfinn_happy.png" %}
 
-Pourquoi Vinland Saga m'a autant touché ? C'est un manga grand public avec une histoire assez classique. Concernant le dessin, c'est bien fait mais rien d'exceptionnel. C'est vraiment une série mainstream, qui ne prend pas vraiment de risques. C'est divertissant, rythmé, émouvant quand il faut. Pas de quoi en parler pendant des heures. Je suis surpris d'avoir autant aimé.
+Pourquoi Vinland Saga m'a autant touché ? C'est un manga grand public avec une histoire assez classique. Concernant le dessin, c'est bien fait mais rien d'exceptionnel. L'auteur prend pas vraiment de risque, c'est divertissant, rythmé, émouvant quand il faut. Pas de quoi en parler pendant des heures. Je suis surpris d'avoir autant aimé.
 
 La seule explication que je vois, c'est mon attachement pour les personnages. Tout le récit est centré sur leur évolution, et le parcours de Thorfinn est particulièrement réussi. C'est classique dans ce genre d'histoire de voir le héros grandir. Mais cette fois il devient un adulte sain. Un homme heureux.
 
@@ -38,7 +38,7 @@ Je me suis identifié à Thorfinn. Tel l'adolescent que je ne suis plus depuis t
 
 Changer. Régler ses problèmes. Avoir une vie personnelle cohérente avec ses positions politiques. Vivre une vie plus juste, faire des choix radicaux et s'opposer au status quo. Devenir heureux.
 
-Comme beaucoup d'hommes, j'ai réfléchi à ma masculinité ces dernières années. Thorfinn est arrivé au bon moment pour moi, et c'est devenu un objectif à atteindre. Ce n'est pas un héros violent de plus, utile uniquement parce qu'il sait se battre. Il n'a pas de pouvoir particulier, il n'est même pas riche.
+Comme beaucoup d'hommes, j'ai réfléchi à ma masculinité ces dernières années, et Thorfinn est arrivé au bon moment. Ce n'est pas un héros violent de plus, utile uniquement parce qu'il sait se battre. Il n'a pas de pouvoir particulier, il n'est même pas riche.
 
 C'est un homme qui change. Changeons avec lui.
 
