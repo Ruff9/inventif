@@ -30,7 +30,7 @@ Knut et Thorfinn se connaissent et s'entendent bien. Tous les deux en décalage 
 
 {% include image.html name="vinland_saga/thorfinn_happy.png" %}
 
-Pourquoi Vinland Saga m'a autant touché ? C'est un manga grand public avec une histoire assez classique. Concernant le dessin, c'est bien fait mais rien d'exceptionnel. L'auteur prend pas vraiment de risque, c'est divertissant, rythmé, émouvant quand il faut. Pas de quoi en parler pendant des heures. Je suis surpris d'avoir autant aimé.
+Pourquoi Vinland Saga m'a autant touché ? C'est un manga grand public avec une histoire assez classique. Concernant le dessin, c'est bien fait mais rien d'exceptionnel. L'auteur ne prend pas vraiment de risque, c'est divertissant, rythmé, émouvant quand il faut. Pas de quoi en parler pendant des heures. Et pourtant j'ai beaucoup aimé.
 
 La seule explication que je vois, c'est mon attachement pour les personnages. Tout le récit est centré sur leur évolution, et le parcours de Thorfinn est particulièrement réussi. C'est classique dans ce genre d'histoire de voir le héros grandir. Mais cette fois il devient un adulte sain. Un homme heureux.
 
