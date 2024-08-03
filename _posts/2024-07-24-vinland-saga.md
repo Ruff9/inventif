@@ -28,15 +28,19 @@ Parmi les nombreux personnages secondaires, j'ai un préféré : Knut. Si Thorfi
 
 Knut et Thorfinn se connaissent et s'entendent bien. Tous les deux en décalage avec le modèle viril du viking grand, fort et barbu, ils se comprennent et veulent tous les deux changer les choses. Mais pas de la même façon. Alors que Thorfinn veut aller créer une société idéale, Knut veut faire évoluer les mentalités de l'intérieur. Il est devenu roi, il a des responsabilités et il ne veut pas tout changer trop vite. Thorfinn est révolutionnaire, Knut est réformiste. L'ancien esclave veut tout renverser, le roi veut faire évoluer les choses progressivement.
 
-J'ai beaucoup aimé Vinland Saga. C'est de la fiction grand public, c'est divertissant et rythmé, mais aussi étonnamment profond et émouvant. C'est un manga qui est à l'intersection de deux genres : le shonen, plutot pensé pour les adolescents avec beaucoup d'action, et le seinen, écrit pour un public adulte. Comme dans un shonen, on voit le héros grandir. Mais cette fois il devient un adulte sain. Un homme heureux.
-
 {% include image.html name="vinland_saga/thorfinn_happy.png" %}
 
-C'est un modèle très rare, je n'ai pas d'autre exemple dans une histoire aussi grand public. Thorfinn règle ses problèmes. Il a une position politique radicale, et devient un exemple du changement qu'il veut pour la société.
+Pourquoi Vinland Saga m'a autant touché ? C'est un manga grand public avec une histoire assez classique. Concernant le dessin, c'est bien fait mais rien d'exceptionnel. C'est vraiment une série mainstream, qui ne prend pas vraiment de risques. C'est divertissant, rythmé, émouvant quand il faut. Pas de quoi en parler pendant des heures. Je suis surpris d'avoir autant aimé.
 
-La position de Thorfinn est celle que les hommes devraient avoir au 21e siècle. Changer. Régler nos problèmes. Avoir une vie personnelle cohérente avec nos positions politiques. Vivre une vie plus juste, faire des choix radicaux et nous opposer au status quo. Devenir heureux.
+La seule explication que je vois, c'est mon attachement pour les personnages. Tout le récit est centré sur leur évolution, et le parcours de Thorfinn est particulièrement réussi. C'est classique dans ce genre d'histoire de voir le héros grandir. Mais cette fois il devient un adulte sain. Un homme heureux.
 
-Je vais relire Vinland saga. Vous devriez vous y mettre aussi.
+Je me suis identifié à Thorfinn. Tel l'adolescent que je ne suis plus depuis très longtemps, j'ai lu une histoire et j'ai voulu être comme le héros. Sa position, c'est celle que je veux avoir.
+
+Changer. Régler ses problèmes. Avoir une vie personnelle cohérente avec ses positions politiques. Vivre une vie plus juste, faire des choix radicaux et s'opposer au status quo. Devenir heureux.
+
+Comme beaucoup d'hommes, j'ai réfléchi à ma masculinité ces dernières années. Thorfinn est arrivé au bon moment pour moi, et c'est devenu un objectif à atteindre. Ce n'est un héros violent de plus, utile uniquement parce qu'il sait se battre. Il n'a pas de pouvoir particulier, il n'est même pas riche.
+
+Thorfinn change. Changeons avec lui.
 
 {% include image.html name="vinland_saga/askeladd_back.png" %}
 
@@ -47,3 +51,11 @@ Acheter un série de manga, c'est cher et ça prend de la place. Personnellement
 -------------
 
 Vinland Saga a été adapté en série animée. Je ne l'ai pas vue, je ne peux pas vous la recommander, mais les critiques sont plutôt bonnes. Sur Sens Critique le manga a une note de 8.1/10, et l'animé 7.9/10.
+
+-------------
+
+Il y a un autre personnage dont j'ai envie de vous parler (rapidement), qui s'appelle Thorkell. C'est le modèle de masculinité hégémonique en mode viking : 2m de haut, musclé, barbu, adore se battre, complètement crétin. C'est un des personnages comiques de la série, et il est vraiment réussi. Dans un manga plus traditionnel, Thorkell aurait été le héros. Dans Vinland Saga, c'est le clown de service.
+
+-------------
+
+Si jamais vous êtes un homme qui réfléchi à la masculinité, je vous recommande *La volonté de changer* de bell hooks. C'est vraiment bien, je suis totalement d'accord avec elle, foncez et revenez me donner votre avis !
