@@ -38,9 +38,9 @@ Je me suis identifié à Thorfinn. Tel l'adolescent que je ne suis plus depuis t
 
 Changer. Régler ses problèmes. Avoir une vie personnelle cohérente avec ses positions politiques. Vivre une vie plus juste, faire des choix radicaux et s'opposer au status quo. Devenir heureux.
 
-Comme beaucoup d'hommes, j'ai réfléchi à ma masculinité ces dernières années. Thorfinn est arrivé au bon moment pour moi, et c'est devenu un objectif à atteindre. Ce n'est un héros violent de plus, utile uniquement parce qu'il sait se battre. Il n'a pas de pouvoir particulier, il n'est même pas riche.
+Comme beaucoup d'hommes, j'ai réfléchi à ma masculinité ces dernières années. Thorfinn est arrivé au bon moment pour moi, et c'est devenu un objectif à atteindre. Ce n'est pas un héros violent de plus, utile uniquement parce qu'il sait se battre. Il n'a pas de pouvoir particulier, il n'est même pas riche.
 
-Thorfinn change. Changeons avec lui.
+C'est un homme qui change. Changeons avec lui.
 
 {% include image.html name="vinland_saga/askeladd_back.png" %}
 
