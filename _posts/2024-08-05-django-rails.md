@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django / Rails : Produits similaires, communautés divergentes"
+title: "Django et Rails, deux communautés divergentes"
 date: 2024-08-05 10:20:20 +0200
 permalink: django-rails
 cover: rails_vs_django.png
@@ -12,7 +12,7 @@ tags: django rails backend
 
 Le 17 septembre, j'ai donné un talk dans le cadre du meetup Django Paris. Ce post vient compléter la présentation en donnant toutes les références et tous les liens cités.
 
-. Je met à profit mes dix ans de pratique de Ruby on Rails pour comparer ce framework à Django, qui est à la fois très proche et très différent.
+Dans ce talk j'utilise mon vécu de développeur Ruby on Rails pour comparer ce framework à Django. Ces deux projets ont des périmètres et des résultats très proches, mais des communautés qui fonctionnent très différement.
 
 <!--more-->
 
