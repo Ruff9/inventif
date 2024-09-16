@@ -5,6 +5,7 @@ date: 2021-01-31 10:20:20 +0200
 permalink: couvre-feu
 categories: texte
 draft: true
+hidden: true
 ---
 
 Tout à l'heure je me promenais dans mon quartier, en pensant à faire vite pour rentrer avant le couvre-feu. J'ai réalisé que je n'étais pas vraiment sûr de savoir si il était encore appliqué. Je sais plus si il y a eu des annonces récemment, je n'ai pas vraiment suivi, je sature pas mal.

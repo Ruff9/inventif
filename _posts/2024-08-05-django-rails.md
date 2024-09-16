@@ -117,3 +117,7 @@ Vous pouvez retrouver la présentation [déployée ici](https://ruff9.github.io/
 - Rails Doctrine [rubyonrails.org/doctrine](https://rubyonrails.org/doctrine)
 
 > "Part of the Rails mission is to swing its machete at the thick, and ever growing, jungle of recurring decisions that face developers creating information systems for the web. There are thousands of such decisions that just need to be made once, and if someone else can do it for you, all the better."
+
+---------
+
+Source image de couverture : [django vs ruby on rails](https://ositcom.com/blog/django-vs-ruby-on-rails/)
