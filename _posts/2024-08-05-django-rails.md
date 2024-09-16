@@ -16,7 +16,7 @@ Dans ce talk j'utilise mon vécu de développeur Ruby on Rails pour comparer ce 
 
 <!--more-->
 
-Vous pouvez retrouver la présentation [déployée ici](https://ruff9.github.io/presentation-django-rails/), et son code sur [ce repo Github](https://github.com/Ruff9/presentation-django-rails). Et voici la [page d'accueil du meetup](https://www.meetup.com/fr-FR/django-paris/).
+Vous pouvez retrouver la présentation [déployée ici](https://ruff9.github.io/presentation-django-rails/), et son code sur [ce repo Github](https://github.com/Ruff9/presentation-django-rails). Les infos concernant le meetup sont sur sa [page officielle](https://www.meetup.com/fr-FR/django-paris/).
 
 ## Général
 
@@ -46,7 +46,7 @@ Vous pouvez retrouver la présentation [déployée ici](https://ruff9.github.io/
 
 - Ruby on Rails : the origin story [cult.honeypot.io](https://cult.honeypot.io/reads/ruby-on-rails-the-origin-story/)
 
-- Interview de DHH en 2006 [dev.mysql.com/](https://web.archive.org/web/20130225091835/http://dev.mysql.com/tech-resources/interviews/david-heinemeier-hansson-rails.html)
+- Interview de DHH en 2006 [dev.mysql.com](https://web.archive.org/web/20130225091835/http://dev.mysql.com/tech-resources/interviews/david-heinemeier-hansson-rails.html)
 
 - Equipe core de Rails en 2006 [web.archive.org](https://web.archive.org/web/20060110033032/http://rubyonrails.org/core)
 
