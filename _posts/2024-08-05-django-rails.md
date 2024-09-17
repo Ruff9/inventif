@@ -106,6 +106,10 @@ Vous pouvez retrouver la présentation [déployée ici](https://ruff9.github.io/
 
 ## Conclusion
 
+- Loi de Conway [wikipedia](https://fr.wikipedia.org/wiki/Loi_de_Conway)
+
+> "Toute organisation qui conçoit un système, au sens large, concevra une structure qui sera la copie de la structure de communication de l’organisation."
+
 - DHH : Open source is neither a community nor a democracy [world.hey.com/dhh](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab)
 
 > "Elitism is good, when it comes to open source. You absolutely want projects to be driven by the people who show up to do the work, demonstrate their superior dedication and competence, and are thus responsible for keeping the gift factory churning out new updates, features, and releases. Productive effort is the correct moral basis of power in these projects."
