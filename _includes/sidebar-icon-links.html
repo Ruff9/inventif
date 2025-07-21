@@ -1,13 +1,20 @@
 <nav id="sidebar-icon-links">
+  <a id="mastodon-link"
+     class="icon" title="Profil Mastodon" aria-label="Profil Mastodon"
+     target="_blank"
+     href="{{ site.mastodon_page }}">
+    {% include svg/mastodon.svg %}
+  </a>
+
   <a id="github-link"
-     class="icon" title="Profil Github" aria-label="Profile Github"
+     class="icon" title="Profil Github" aria-label="Profil Github"
      target="_blank"
      href="{{ site.github_page }}">
     {% include svg/github.svg %}
   </a>
 
   <a id="openprocessing-link"
-     class="icon" title="Profil Openprocessing" aria-label="Profile Openprocessing"
+     class="icon" title="Profil Openprocessing" aria-label="Profil Openprocessing"
      target="_blank"
      href="{{ site.open_processing }}">
     {% include svg/open_processing.svg %}
