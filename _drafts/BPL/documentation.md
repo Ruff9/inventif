@@ -1,4 +1,62 @@
 
+Revue de presse 1er mai 2020 à croix de chavaux
+
+- (404) Article de Libération du 1er mai (pas mal car très bref et très factuel): https://www.liberation.fr/direct/element/_113040/
+
+- Article du Parisien du 1er mai (plus problématique mais plus long):http://www.leparisien.fr/seine-saint-denis-93/montreuil-les-policiers-mobilises-pour-la-manif-du-npa-verbalisent-les-militants-autonomes-qui-distribuaient-fruits-et-legumes-01-05-2020-8309253.php
+
+- Article du Monde du 3 mai:https://www.lemonde.fr/politique/article/2020/05/03/distribution-de-masques-et-de-nourriture-aide-aux-devoirs-qui-sont-les-brigades-de-solidarite-populaire_6038511_823448.html
+
+- Article de Reporterre du 7 mai: https://reporterre.net/A-Montreuil-l-autodefense-populaire-contre-le-coronavirus
+
+- Article de Lundimatin du 4 mai : https://lundi.am/le-prefet-veut-il-la-guerre-sociale
+
+----------------------
+
+2020 : le préfet du 93 redtoute des émeutes de la faim
+
+https://www.marianne.net/societe/confinement-le-prefet-de-seine-saint-denis-s-alarme-du-risque-alimentaire-pour-les-plus
+
+https://www.leparisien.fr/seine-saint-denis-93/georges-francois-leclerc-le-prefet-de-droite-qui-a-conquis-les-elus-de-seine-saint-denis-19-07-2021-43MXZAYLEVCYFMUYLPBNSYYHTY.php
+
+----------------------
+
+
+Les tabliers volants
+
+https://www.tabliersvolants.org/
+
+----------------------
+
+La cantine des Pyrénnés
+
+la cantine des pyrénées n'a pas de page web, mais une page facebook....
+
+https://paris-luttes.info/+-la-cantine-des-pyrenees-+
+
+https://aris-luttes.info/la-cantine-des-pyrenees-fete-ses-17398
+
+----------------------
+
+faim en france en 2022
+
+https://www.credoc.fr/publications/en-forte-hausse-la-precarite-alimentaire-sajoute-a-dautres-fragilites
+
+----------------------
+
+confinements covid
+
+https://fr.wikipedia.org/wiki/Confinements_li%C3%A9s_%C3%A0_la_pand%C3%A9mie_de_Covid-19_en_France
+
+----------------------
+
+BSP
+
+https://carrefourretiretaplainte.noblogs.org/
+
+----------------------
+
+
 Rungis
 
 https://www.visiterungis.com/les-fruits-et-legumes/
