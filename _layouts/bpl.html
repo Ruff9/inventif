@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+    <meta name="author" content="Rémy Maucourt">
+    <meta name="description" content="Site personnel de Rémy Maucourt: écriture, code, sculptures lumineuses et expérimentations diverses.">
+
+    <title>À l'opposé du fascisme</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main_bpl.css" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/favicon.png" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+  </head>
+
+  <body>
+    <main class="container">
+      <img src="{{ site.baseurl }}/assets/images/posts/{{ page.cover }}" class="bpl-cover"/>
+      <div class="bpl-content">
+
+        <header>
+          <h1 class="bpl-post-title">{{ page.title }}</h1>
+        </header>
+
+        <div class="bpl-meta-container">
+          <div class="bpl-meta">
+            <div class="bpl-meta-date">
+              Publié : {% include translated_date.html date=page.date format=site.date_format lang=fr %}
+            </div>
+            <div class="bpl-meta-date-updated">
+              Modifié : {% include translated_date.html date=page.date_updated format=site.date_format lang=fr %}
+            </div>
+          </div>
+        </div>
+
+        <div class="bpl-post-body">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

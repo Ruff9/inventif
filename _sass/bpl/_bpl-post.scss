@@ -1,0 +1,46 @@
+.bpl-content {
+  font-family: 'comic_relief', sans-serif;
+
+  // background: $body-bg;
+  // color: $body-color;
+  padding: $section-spacing;
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+
+  @media (min-width: $medium-breakpoint) {
+    padding: 0;
+  }
+}
+
+.bpl-cover {
+  margin: 0;
+  object-fit: cover;
+  width: 100%;
+  height: 300px;
+}
+
+.bpl-post-title {
+  color: $dark-gray;
+  font-size: 3rem;
+  margin-top: 50px;
+
+  @media (min-width: $medium-breakpoint) {
+    margin-top: 80px;
+  }
+}
+
+.bpl-meta-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.bpl-post-body {
+  // p { max-width: none; }
+  // h2 { max-width: none; }
+}
+
+.bpl-meta {
+  max-width: 300px;
+  border: 1px solid blue;
+}
