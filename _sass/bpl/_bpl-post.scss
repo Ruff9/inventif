@@ -1,3 +1,5 @@
+$link-to-note-color: violet;
+
 .bpl-content {
   font-family: 'comic_relief', sans-serif;
 
@@ -43,4 +45,12 @@
 .bpl-meta {
   max-width: 300px;
   border: 1px solid blue;
+}
+
+.bpl-link-to-note {
+  color: $link-to-note-color;
+}
+
+.bpl-back-to-text-link {
+  text-align: right;
 }
