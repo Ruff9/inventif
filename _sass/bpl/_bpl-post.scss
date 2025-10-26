@@ -40,11 +40,21 @@ $link-to-note-color: violet;
 .bpl-post-body {
   // p { max-width: none; }
   // h2 { max-width: none; }
+  blockquote { font-style: italic; }
 }
 
 .bpl-meta {
   max-width: 300px;
   border: 1px solid blue;
+}
+
+
+.bpl-quote-page-number {
+  text-align: right;
+}
+
+.bpl-end-text-line {
+  margin-top: 150px;
 }
 
 .bpl-link-to-note {
