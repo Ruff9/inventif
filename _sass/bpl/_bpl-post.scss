@@ -1,18 +1,30 @@
-$link-to-note-color: violet;
+$link-color: darkblue;
+$link-to-note-color: blue;
+$max-width: 56rem;
 
 .bpl-content {
   font-family: 'comic_relief', sans-serif;
 
-  // background: $body-bg;
-  // color: $body-color;
+  font-size: $root-font-size;
+  line-height: $root-line-height;
+
   padding: $section-spacing;
   width: 100%;
-  max-width: 1000px;
-  margin: auto;
+
+  a, a:visited {
+    color: $link-color;
+    text-decoration: none;
+  }
 
   @media (min-width: $medium-breakpoint) {
+    font-size: $large-font-size;
     padding: 0;
   }
+}
+
+.bpl-post-header {
+  margin: auto;
+  max-width: $max-width;
 }
 
 .bpl-cover {
@@ -24,6 +36,8 @@ $link-to-note-color: violet;
 
 .bpl-post-title {
   color: $dark-gray;
+  border: 1px solid green;
+
   font-size: 3rem;
   margin-top: 50px;
 
@@ -34,13 +48,47 @@ $link-to-note-color: violet;
 
 .bpl-meta-container {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
+}
+
+.bpl-signature {
+  border: 1px solid violet;
+}
+
+.bpl-menu {
+  border: 1px solid orange;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
 }
 
 .bpl-post-body {
-  // p { max-width: none; }
-  // h2 { max-width: none; }
+  h2, h3, p, ol, ul, hr, img, figcaption {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h2, h3, p, ol, ul, hr, figcaption {
+    max-width: $max-width;
+  }
+
   blockquote { font-style: italic; }
+
+  .post-illustration {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 60px;
+
+    img {
+      width: 100%;
+      max-width: 1200px;
+    }
+
+    figcaption {
+      font-style: italic;
+    }
+  }
 }
 
 .bpl-meta {
@@ -59,6 +107,7 @@ $link-to-note-color: violet;
 
 .bpl-link-to-note {
   color: $link-to-note-color;
+  margin-left: 8px;
 }
 
 .bpl-back-to-text-link {

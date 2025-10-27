@@ -22,18 +22,36 @@
       <img src="{{ site.baseurl }}/assets/images/posts/{{ page.cover }}" class="bpl-cover"/>
       <div class="bpl-content">
 
-        <header>
-          <h1 class="bpl-post-title">{{ page.title }}</h1>
-        </header>
+        <div class="bpl-post-header">
+          <header>
+            <h1 class="bpl-post-title">{{ page.title }}</h1>
+          </header>
 
-        <div class="bpl-meta-container">
-          <div class="bpl-meta">
-            <div class="bpl-meta-date">
-              Publié : {% include translated_date.html date=page.date format=site.date_format lang=fr %}
+          <div class="bpl-meta-container">
+            <div class="bpl-signature">
+              <div class="bpl-signature-name">Rémy Maucourt</div>
+              <div class="bpl-signature-site-link">
+                <a href="{{ site.baseurl }}/">Retour à l'accueil</a>
+              </div>
             </div>
-            <div class="bpl-meta-date-updated">
-              Modifié : {% include translated_date.html date=page.date_updated format=site.date_format lang=fr %}
+            <div class="bpl-meta">
+              <div class="bpl-meta-date">
+                Publié : {% include translated_date.html date=page.date format=site.date_format lang=fr %}
+              </div>
+              <div class="bpl-meta-date-updated">
+                Modifié : {% include translated_date.html date=page.date_updated format=site.date_format lang=fr %}
+              </div>
             </div>
+          </div>
+
+          <div class="bpl-menu">
+            <a href="{{ site.baseurl }}/bpl#autonomie-alimentaire">1. Autonomie alimentaire</a>
+            <a href="{{ site.baseurl }}/bpl#reseau">2. Réseau</a>
+            <a href="{{ site.baseurl }}/bpl#radicalite">3. Radicalité</a>
+            <a href="{{ site.baseurl }}/bpl#joie">4. Joie</a>
+            <a href="{{ site.baseurl }}/bpl#perspectives">5. Perspectives</a>
+            <a href="{{ site.baseurl }}/bpl#notes">Notes</a>
+            <a href="{{ site.baseurl }}/bpl#annexes">Annexes</a>
           </div>
         </div>
 
