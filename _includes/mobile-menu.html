@@ -7,21 +7,29 @@
     <span class='burger-piece'></span>
 
     <ul id="menu">
-      <a class="category-link {% if page.url == '/' %} active{% endif %}"
-       href="{{ site.baseurl }}/"><li>Accueil</li></a></br>
+      <a class="category-link {% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">
+        <li>Accueil</li>
+      </a></br>
 
-      <a class="category-link {% if page.url == '/fablab' %} active{% endif %}"
-       href="{{ site.baseurl }}/fablab"><li>Fablab</li></a>
+      <a class="category-link {% if page.url == '/fablab' %} active{% endif %}" href="{{ site.baseurl }}/fablab">
+        <li>Fablab</li>
+      </a>
 
-      <a class="category-link {% if page.url == '/dev' %} active{% endif %}"
-         href="{{ site.baseurl }}/dev"><li>Dev</li></a></br>
+      <a class="category-link {% if page.url == '/dev' %} active{% endif %}" href="{{ site.baseurl }}/dev">
+        <li>Dev</li>
+      </a></br>
 
-      <a href="{{ site.professional_website }}" class="page-link" target="_blank"><li>Site pro</li></a>
+      <a href="{{ site.professional_website }}" class="page-link" target="_blank">
+        <li>Site pro</li>
+      </a>
 
-      <a href="#newsletterModal" class="jsModalTrigger sidebar-modal-trigger"><li>Newsletter</li></a>
+      <a class="page-link {% if page.url == '/about' %} active{% endif %}" href="{{ site.baseurl }}/about">
+        <li>À propos</li>
+      </a>
 
-      <a class="page-link {% if page.url == '/about' %} active{% endif %}"
-          href="{{ site.baseurl }}/about"><li>À propos</li></a>
+      <a class="page-link {% if page.url == '/newsletter' %} active{% endif %}" href="{{ site.baseurl }}/newsletter">
+        <li>Newsletter</li>
+      </a>
 
       {% include sidebar-icon-links.html %}
     </ul>

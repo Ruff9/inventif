@@ -20,9 +20,9 @@
   <div class='sidebar-footer'>
     <a class="page-link {% if page.url == '/about' %} active{% endif %}" href="{{ site.baseurl }}/about">À propos</a>
 
-    <a href="{{ site.professional_website }}" class="page-link" target="_blank">Site pro</a>
+    <a class="page-link {% if page.url == '/newsletter' %} active{% endif %}" href="{{ site.baseurl }}/newsletter">Newsletter</a>
 
-    <a href="#newsletterModal" class="jsModalTrigger sidebar-modal-trigger">Newsletter</a>
+    <a href="{{ site.professional_website }}" class="page-link" target="_blank">Site pro</a>
 
     {% include sidebar-icon-links.html %}
   </div>

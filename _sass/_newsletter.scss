@@ -1,0 +1,45 @@
+.newletter-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.newsletter-form-mail {
+  padding: 12px;
+
+  width: 100%;
+  border-radius: 0;
+  border: 1px solid $gray-3;
+
+  &::placeholder {
+    font-size: 14px;
+    font-family: $root-font-family;
+  }
+}
+
+.newsletter-form-submit {
+  @include button();
+  font-size: 0.9em;
+  margin-top: 15px;
+
+  @media (min-width: $medium-breakpoint) {
+    margin-top: 0;
+  }
+}
+
+.newsletter-field {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: flex-end;
+  max-width: 500px;
+  margin: auto;
+
+  @media (min-width: $medium-breakpoint) {
+    flex-direction: row;
+    align-items: center;
+
+    input {
+      max-width: 350px;
+    }
+  }
+}
