@@ -4,7 +4,7 @@ $hr-color: lightgray;
 $max-width: 56rem;
 
 .bpl-content {
-  font-family: 'comic_relief', sans-serif;
+  font-family: 'Roboto', sans-serif;
 
   font-size: $root-font-size;
   line-height: $root-line-height;
@@ -41,6 +41,7 @@ $max-width: 56rem;
 }
 
 .bpl-post-title {
+  font-family: 'Milk_And_Honey', sans-serif;
   color: $dark-gray;
   border: 1px solid green;
 
@@ -48,6 +49,7 @@ $max-width: 56rem;
   margin-top: 50px;
 
   @media (min-width: $medium-breakpoint) {
+    font-size: 4rem;
     margin-top: 80px;
   }
 }
@@ -113,6 +115,10 @@ $max-width: 56rem;
 .bpl-link-to-note {
   color: $link-to-note-color;
   margin-left: 8px;
+}
+
+.bpl-note-title {
+  margin-top: 40px;
 }
 
 .bpl-back-to-text-link {

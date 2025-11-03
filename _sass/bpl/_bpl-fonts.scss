@@ -1,9 +1,27 @@
 @font-face {
-  font-family: 'comic_relief';
-  src: url('../fonts/bpl/ComicRelief-Regular.woff2') format('woff2'),
-       url('../fonts/bpl/ComicRelief-Regular.woff') format('woff');
+  font-family: "Milk_And_Honey";
+  src: url("../fonts/bpl/Milk-And-Honey.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
 }
 
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/bpl/Roboto-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/bpl/Roboto-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/bpl/Roboto-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
