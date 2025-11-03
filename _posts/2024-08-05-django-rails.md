@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Django et Rails, deux communautés divergentes"
+title: "Django et Rails, deux visions de l'organisation du travail"
 date: 2024-08-05 10:20:20 +0200
 permalink: django-rails
 cover: rails_vs_django.png
@@ -10,9 +10,11 @@ tags: django rails backend
 
 {% include image.html name="rails_vs_django.png" %}
 
-Le 17 septembre, j'ai donné un talk dans le cadre du meetup Django Paris. Ce post vient compléter la présentation en donnant toutes les références et tous les liens cités.
+Les équipes de Ruby on Rails et Django produisent la même chose : un framework pour le développement web, pour coder et déployer rapidement des applications web. Les deux outils sont utilisés depuis 20 ans, sont stables et reconnus.
 
-Dans ce talk j'utilise mon vécu de développeur Ruby on Rails pour comparer ce framework à Django. Ces deux projets ont des périmètres et des résultats très proches, mais des communautés qui fonctionnent très différement.
+Mais les deux groupes ont choisi des modes d'organisation opposés : les développeurs de Rails fonctionnent avec une équipe core fermée et opaque, dirigée par la même personne depuis 20 ans. Chez Django, les membres de l'équipe changent régulièrement, leurs mandats ont une durée, les process de prise de décision sont ouverts et documentés. Une dictature et une démocratie. Deux visions opposée de l'organisation du travail dans un projet logiciel open source.
+
+C'est le sujet d'un talk que j'ai donné le 17 septembre 2024 dans le cadre du meetup Django Paris. Ce post vient compléter la présentation en donnant toutes les références et tous les liens cités.
 
 <!--more-->
 
