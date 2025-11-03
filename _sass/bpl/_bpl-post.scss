@@ -1,5 +1,6 @@
 $link-color: darkblue;
 $link-to-note-color: blue;
+$hr-color: lightgray;
 $max-width: 56rem;
 
 .bpl-content {
@@ -14,6 +15,11 @@ $max-width: 56rem;
   a, a:visited {
     color: $link-color;
     text-decoration: none;
+  }
+
+  hr {
+    color: $hr-color;
+    width: 80%;
   }
 
   @media (min-width: $medium-breakpoint) {
@@ -64,31 +70,13 @@ $max-width: 56rem;
 }
 
 .bpl-post-body {
-  h2, h3, p, ol, ul, hr, img, figcaption {
-    margin-left: auto;
-    margin-right: auto;
-  }
+  margin-left: auto;
+  margin-right: auto;
+  max-width: $max-width;
 
-  h2, h3, p, ol, ul, hr, figcaption {
-    max-width: $max-width;
-  }
-
+  h2 { margin-top: 50px; }
+  h3 { margin-top: 40px; }
   blockquote { font-style: italic; }
-
-  .post-illustration {
-    width: 100%;
-    margin: 0;
-    margin-bottom: 60px;
-
-    img {
-      width: 100%;
-      max-width: 1200px;
-    }
-
-    figcaption {
-      font-style: italic;
-    }
-  }
 }
 
 .bpl-meta {
@@ -96,6 +84,23 @@ $max-width: 56rem;
   border: 1px solid blue;
 }
 
+.bpl-illustration {
+  width: 100%;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+
+  figcaption {
+    font-size: 0.9em;
+    margin-top: 10px;
+    font-style: italic;
+  }
+}
+
+.bpl-illustration-tract {
+  width: 100%;
+  max-width: 430px;
+}
 
 .bpl-quote-page-number {
   text-align: right;
@@ -112,4 +117,39 @@ $max-width: 56rem;
 
 .bpl-back-to-text-link {
   text-align: right;
+}
+
+.bpl-galery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 40px;
+
+  figure {
+    margin: 0;
+    margin-bottom: 30px;
+  }
+
+  figcaption {
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 10px;
+  }
+
+  img, figcaption {
+    width: 100%;
+    max-width: 500px;
+
+    @media (min-width: $medium-breakpoint) {
+      max-width: 400px;
+    }
+  }
+
+  @media (min-width: $medium-breakpoint) {
+    justify-content: space-between;
+  }
+}
+
+.titre-remerciements {
+  text-align: center;
 }
