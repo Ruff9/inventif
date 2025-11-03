@@ -18,22 +18,34 @@
   </head>
 
   <body>
-    <main class="container">
+    <main class="bpl-main-container">
       <img src="{{ site.baseurl }}/assets/images/posts/{{ page.cover }}" class="bpl-cover"/>
       <div class="bpl-content">
 
         <div class="bpl-post-header">
-          <header>
+          <header class="bpl-post-title-container">
             <h1 class="bpl-post-title">{{ page.title }}</h1>
-          </header>
 
-          <div class="bpl-meta-container">
             <div class="bpl-signature">
               <div class="bpl-signature-name">Rémy Maucourt</div>
               <div class="bpl-signature-site-link">
-                <a href="{{ site.baseurl }}/">Retour à l'accueil</a>
+                <a href="{{ site.baseurl }}/">-> Site perso</a>
               </div>
             </div>
+          </header>
+
+          <div class="bpl-menu-container">
+            <div class="bpl-menu">
+              <a href="{{ site.baseurl }}/bpl#autonomie-alimentaire">1. Autonomie alimentaire</a>
+              <a href="{{ site.baseurl }}/bpl#reseau">2. Réseau</a>
+              <a href="{{ site.baseurl }}/bpl#radicalite">3. Radicalité</a>
+              <a href="{{ site.baseurl }}/bpl#joie">4. Joie</a>
+              <a href="{{ site.baseurl }}/bpl#perspectives">5. Perspectives</a>
+              <a href="{{ site.baseurl }}/bpl#notes" class="bpl-menu-notes">Notes</a>
+              <a href="{{ site.baseurl }}/bpl#bibliotheque">Bibliothèque</a>
+              <a href="{{ site.baseurl }}/bpl#annexes">Annexes</a>
+            </div>
+
             <div class="bpl-meta">
               <div class="bpl-meta-date">
                 Publié : {% include translated_date.html date=page.date format=site.date_format lang=fr %}
@@ -42,16 +54,6 @@
                 Modifié : {% include translated_date.html date=page.date_updated format=site.date_format lang=fr %}
               </div>
             </div>
-          </div>
-
-          <div class="bpl-menu">
-            <a href="{{ site.baseurl }}/bpl#autonomie-alimentaire">1. Autonomie alimentaire</a>
-            <a href="{{ site.baseurl }}/bpl#reseau">2. Réseau</a>
-            <a href="{{ site.baseurl }}/bpl#radicalite">3. Radicalité</a>
-            <a href="{{ site.baseurl }}/bpl#joie">4. Joie</a>
-            <a href="{{ site.baseurl }}/bpl#perspectives">5. Perspectives</a>
-            <a href="{{ site.baseurl }}/bpl#notes">Notes</a>
-            <a href="{{ site.baseurl }}/bpl#annexes">Annexes</a>
           </div>
         </div>
 
