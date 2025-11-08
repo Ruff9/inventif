@@ -23,15 +23,8 @@
       <div class="bpl-content">
 
         <div class="bpl-post-header">
-          <header class="bpl-post-title-container">
-            <h1 class="bpl-post-title">{{ page.title }}</h1>
-
-            <div class="bpl-signature">
-              <div class="bpl-signature-name">Rémy Maucourt</div>
-              <div class="bpl-signature-site-link">
-                <a href="{{ site.baseurl }}/">-> Site perso</a>
-              </div>
-            </div>
+          <header class="bpl-main-title-container">
+            <h1 class="bpl-main-title">{{ page.title }}</h1>
           </header>
 
           <div class="bpl-menu-container">
@@ -47,11 +40,28 @@
             </div>
 
             <div class="bpl-meta">
-              <div class="bpl-meta-date">
-                Publié : {% include translated_date.html date=page.date format=site.date_format lang=fr %}
+              <div class="bpl-signature">
+                <div class="bpl-signature-name">Rémy Maucourt</div>
+                <ul class="bpl-signature-links">
+                  <li>
+                    <a href="{{ site.baseurl }}/" target="_blank">Site perso</a>
+                  </li>
+                  <li>
+                    <a href="{{ site.baseurl }}/newsletter" target="_blank">Newsletter</a>
+                  </li>
+                  <li>
+                    <a href="{{ site.mastodon_page }}" target="_blank">Mastodon</a>
+                  </li>
+                </ul>
               </div>
-              <div class="bpl-meta-date-updated">
-                Modifié : {% include translated_date.html date=page.date_updated format=site.date_format lang=fr %}
+
+              <div class="bpl-meta-dates">
+                <div class="bpl-meta-date">
+                  Publié : {% include translated_date.html date=page.date format=site.date_format lang=fr %}
+                </div>
+                <div class="bpl-meta-date-updated">
+                  Modifié : {% include translated_date.html date=page.date_updated format=site.date_format lang=fr %}
+                </div>
               </div>
             </div>
           </div>

@@ -49,11 +49,16 @@ $max-width: 56rem;
   height: 300px;
 }
 
-.bpl-post-title-container {
+.bpl-post-header {
+  margin: auto;
+  max-width: $max-width;
+}
+
+.bpl-main-title-container {
   width: fit-content;
   margin: auto;
   margin-top: 50px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 
   @media (min-width: $medium-breakpoint) {
     margin-top: 80px;
@@ -61,36 +66,22 @@ $max-width: 56rem;
   }
 }
 
-.bpl-post-header {
-  margin: auto;
-  max-width: $max-width;
-}
-
-.bpl-post-title {
+.bpl-main-title {
   font-family: 'Milk_And_Honey', sans-serif;
   color: $main-title-color;
 
   font-size: 3rem;
-  margin-bottom: 0;
+  margin: 0;
 
   @media (min-width: $medium-breakpoint) {
     font-size: 4rem;
   }
 }
 
-.bpl-signature-name {
-  font-style: italic;
-}
-
-.bpl-signature {
-  text-align: right;
-}
-
 .bpl-menu-container {
   border: 1px solid $border-color;
   background-color: white;
   justify-content: space-between;
-  margin-top: 2rem;
   margin-bottom: 4rem;
 
   @media (min-width: $medium-breakpoint) {
@@ -122,12 +113,38 @@ $max-width: 56rem;
 }
 
 .bpl-meta {
-  max-width: 300px;
-  padding: 1.5rem 2rem;
+  width: 100%;
 
   @media (min-width: $medium-breakpoint) {
+    max-width: 300px;
     border-left: 1px solid $border-color;
   }
+}
+
+.bpl-signature-name {
+  font-style: italic;
+}
+
+.bpl-signature {
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid $border-color;
+}
+
+.bpl-signature-links {
+  margin-bottom: 0;
+  margin-top: 0.5rem;
+
+  a, a:visited {
+    color: $font-color;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.bpl-meta-dates {
+  padding: 1.5rem 2rem;
 }
 
 .bpl-post-body {
