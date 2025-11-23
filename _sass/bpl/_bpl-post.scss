@@ -12,6 +12,8 @@ $main-font: 'Luciole';
 // $title-font: 'Milk_And_Honey';
 $title-font: 'SunlightDreams';
 
+$small-breakpoint: 345px;
+
 .bpl-main-container {
   background-color: $background-color;
 }
@@ -25,6 +27,7 @@ $title-font: 'SunlightDreams';
 
   padding: $section-spacing;
   padding-bottom: 50px;
+  padding-top: 50px;
   width: 100%;
 
   a, a:visited {
@@ -43,6 +46,7 @@ $title-font: 'SunlightDreams';
     font-size: $large-font-size;
     padding: 0;
     padding-bottom: 50px;
+    padding-top: 130px;
   }
 }
 
@@ -61,11 +65,9 @@ $title-font: 'SunlightDreams';
 .bpl-main-title-container {
   width: fit-content;
   margin: auto;
-  margin-top: 50px;
   margin-bottom: 40px;
 
   @media (min-width: $medium-breakpoint) {
-    margin-top: 80px;
     margin-bottom: 50px;
   }
 }
@@ -74,11 +76,15 @@ $title-font: 'SunlightDreams';
   font-family: $title-font, sans-serif;
   color: $main-title-color;
 
-  font-size: 3rem;
+  font-size: 2.5rem;
   margin: 0;
 
+  @media (min-width: $small-breakpoint) {
+    font-size: 3rem;
+  }
+
   @media (min-width: $medium-breakpoint) {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 }
 
@@ -186,7 +192,6 @@ $title-font: 'SunlightDreams';
     margin-top: 70px;
   }
 }
-
 
 .bpl-secondary-title {
   margin-top: 50px;
