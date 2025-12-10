@@ -18,6 +18,10 @@ layout: default
       </h2>
       {% include post-meta.html post=post %}
 
+      {% if post.wide_cover %}
+        <img src="{{ site.baseurl }}/assets/images/posts/{{ post.wide_cover }}" />
+      {% endif %}
+
       {% if post.excerpt %}
         {{ post.excerpt }}
       {% else %}
