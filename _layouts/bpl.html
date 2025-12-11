@@ -57,12 +57,10 @@
 
               <div class="bpl-meta-dates">
                 <div class="bpl-meta-date">
-                  Publié : XX/XX/XXXX
-                  <!-- Publié : {% include translated_date.html date=page.date format=site.date_format lang=fr %} -->
+                  Publié : {% include translated_date.html date=page.date format=site.short_date_format lang=fr %}
                 </div>
                 <div class="bpl-meta-date-updated">
-                  Modifié : XX/XX/XXXX
-                  <!-- Modifié : {% include translated_date.html date=page.date_updated format=site.date_format lang=fr %} -->
+                  Modifié : {% include translated_date.html date=page.date_updated format=site.short_date_format lang=fr %}
                 </div>
               </div>
             </div>
