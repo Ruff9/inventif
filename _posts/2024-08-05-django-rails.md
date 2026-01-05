@@ -12,7 +12,7 @@ tags: django rails backend
 
 Les équipes de Ruby on Rails et Django produisent la même chose : un framework pour le développement web, pour coder et déployer rapidement des applications web. Les deux outils sont utilisés depuis 20 ans, sont stables et reconnus.
 
-Mais les deux groupes ont choisi des modes d'organisation opposés : les développeurs de Rails fonctionnent avec une équipe core fermée et opaque, dirigée par la même personne depuis 20 ans. Chez Django, les membres de l'équipe changent régulièrement, leurs mandats ont une durée, les process de prise de décision sont ouverts et documentés. Une dictature et une démocratie. Deux visions opposée de l'organisation du travail dans un projet logiciel open source.
+Mais les deux groupes ont choisi des modes d'organisation opposés : les développeurs de Rails fonctionnent avec une équipe core fermée et opaque, dirigée par la même personne depuis 20 ans. Chez Django, les membres de l'équipe changent régulièrement, leurs mandats ont une durée, les processus de prise de décision sont ouverts et documentés. Une dictature et une démocratie. Deux visions opposée de l'organisation du travail dans un projet logiciel open source.
 
 C'est le sujet d'un talk que j'ai donné le 17 septembre 2024 dans le cadre du meetup Django Paris. Ce post vient compléter la présentation en donnant toutes les références et tous les liens cités.
 
