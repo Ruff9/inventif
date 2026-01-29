@@ -3,66 +3,46 @@ layout: post
 title: "S'entraîner à survivre"
 date: 2026-01-05 10:20:20 +0200
 permalink: survivre
-cover: rails_vs_django.png
+cover: vinland_saga/vinland_cover.png
 categories: texte
-tags: jeu_video
+tags: jeu-video sante-mentale
 draft: true
 ---
 
-En 2020, je n'allais pas bien. Je souffrais d'une dépression sévère, et je commençais tout juste à remonter la pente. Pendant ces années difficiles, je me suis accroché à tout ce que j'ai pu, à tout ce qui pouvait m'aider. 
+{% include image.html name="vinland_saga/vinland_cover.png" %}
 
-Certaines de ces ressources étaient saines, d'autres beaucoup moins. Parmi les plus respectables on trouve la danse, les bandes dessinées et les jeux vidéo. 
+En 2020, je n'allais pas bien. Je souffrais d'une dépression sévère, et je commençais tout juste à remonter la pente. Pour sortir de ma situation, je m'accrochais à tout ce que je pouvais, toutes les ressources étaient bonnes à prendre. De la nourriture, de l'alcool, des bandes dessinées, des jeux vidéo. J'ai notamment passé beaucoup de temps sur The Long Dark, un jeu de survie très dur, très oppressant.
 
-Il y a eu pas mal de choses, la danse et les bandes dessinées par exemple.
-
-Parmi ces ressources, les jeux vidéo ont pris une belle place.
-
-Et au premier plan, des jeux de survie un peu hardcores, et notamment The Long Dark. Ça m'a longtemps étonné : pourquoi, dans les pires moments de ma vie, j'ai passé des journées entières dans un jeu aussi éprouvant, à lutter contre des loups, dans la peur constante ?
+Ça m'a longtemps étonné : pourquoi m'imposer une épreuve supplémentaire ? Dans The Long Dark on lutte seul, dans le grand Nord canadien, en plein hiver. Une catastrophe indéfinie a détruit tous les systèmes électriques, tous les habitants sont partis. On marche dans la neige, on affronte le blizzard, on évite des ours. C'est très calme la plupart du temps, presque méditatif. Et puis tout s'accélère et on se retrouve à courir pour sa vie, poursuivi par une meute de loups. C'est terrifiant. J'ai rarement eu aussi peur en jouant.
 
 <!--more-->
 
-The Long Dark est un jeu très intense. On est seul dans le grand Nord canadien, en plein hiver. Une catastrophe indéfinie a provoqué l'exode de tous les habitants et plus aucun appareil électrique ne fonctionne. On marche dans la neige, on affronte le blizzard, on évite des ours. C'est très calme la plupart du temps, presque méditatif. Et puis tout s'accélère et on se retrouve à courir pour sa vie. C'est terrifiant. J'ai rarement eu aussi peur en jouant.
+Pourtant j'y suis beaucoup retourné, j'ai passé plus de 450 heures dans ce monde froid et hostile. J'ai appris son fonctionnement, ses règles, son rythme. Aujourd'hui j'y suis à l'aise. Avec un peu de recul, je pense que j'avais besoin de ça. Exactement de ça.
 
-Pourtant j'y suis beaucoup retourné. Au moment où j'écris ces lignes, j'ai passé 467 heures dans cet univers. J'ai appris son fonctionnement, ses règles, son rythme. Aujourd'hui je me débrouille bien.
+Je m'intéresse à la fiction et à son utilité depuis plusieurs années. J'ai été très inspiré par la lecture de *Pourquoi la fiction ?* de Jean-Marie Schaeffer, et comme lui, je vois les histoires comme des entraînements émotionnels, des terrains de jeu qui nous permettent d'expérimenter dans un cadre sécurisé. La fiction nous apprend à gérer nos émotions.
 
-Avec un peu de recul, je pense que j'avais besoin de ça. Exactement de ça.
+> Le spectateur “bon public” qui verse des larmes à l’occasion de telle ou telle scène de Titanic ne verse pas des larmes fictionnelles, ni ne les verse fictionnellement : il verse des larmes réelles, les mêmes qu’il verserait peut-être par ailleurs lors d’un enterrement, et il les verse réellement, au sens où il est réellement triste.
 
-Je pense que la fiction nous apprend à gérér nos émotions. J'ai été très inspiré par la lecture de Pourquoi la fiction ? de Jean-Marie Schaeffer, et comme lui, je vois la fiction comme un entraînement émotionnel, un terrain de jeu qui nous permet d'expérimenter dans un cadre sécurisé.
+On ressent "réellement" les émotions transmises par une histoire, notre corps présente les mêmes symptômes. Un enfant à qui on raconte une histoire avec des monstres a vraiment peur. Le but de la démarche, c'est qu'il se serre contre l'adulte présent dans la pièce, qu'on le rassure, et que ça lui apprenne à gérer sa peur.
+
+Le fonctionnement est le même pour les adultes. Les fans de films d'horreur sont de grand.e.s trouillard.e.s qui se soignent. À la longue, on peut finir par aimer certaines émotions transmises, et y revenir juste pour le plaisir. Les personnes qui apprécient les comédies romantiques aiment le sentiment amoureux, certaines fictions leurs permettent de ressentir exactement ce qu'il veulent.
+
+Parmi les différentes formes de fiction, le jeu vidéo est particulièrement impactant, puisque qu'on y incarne un personnage directement. L'identification au protagoniste de l'histoire est plus facile qu'ailleurs. The Long Dark est un jeu à la première personne, un monde qu'on explore soi-même. Tout est fait pour qu'on oublie très vite le personnage principal : ce n'est pas lui qui a survécu des centaines d'heures dans la neige. C'est moi.
+
+Qu'es-ce que je venais chercher ? Le soulagment d'avoir survécu une journée de plus. Ce sentiment de confort qu'on obtient en créant soi-même un espace de sécurité dans une situation hostile. J'ai pu construire des habitudes, et tester une méthode.
+
+Comment réagir quand on est seul dans la neige, qu'on a faim, qu'on perd du sang et qu'on est traqué par une meute de loups ? On s'accroche à du concret. L'idée d'un feu de camp. On avance un pas après l'autre pour se rapprocher de la sécurité, et on ramasse du bois sur le chemin.
+
+Dans le monde réel, j'ai créé puis progressivement étendu ma zone de confort. J'ai suivi une séance de thérapie après l'autre, tout en gérant le quotidien comme je pouvais. Jusqu'à guérir.
+
+Aujourd'hui je vais mieux. Chaque hiver, je retourne quelques soirées dans The Long Dark. Une fois apprivoisé, ce monde terrifiant est devenu rassurant. Je sais que je suis capable de survivre.
+
+
+
 
 https://fr.wikipedia.org/wiki/Jean-Marie_Schaeffer
 
 https://www.seuil.com/ouvrage/pourquoi-la-fiction-jean-marie-schaeffer/9782020347082
 
 https://uneviedelecture.fr/2024/05/13/pourquoi-la-fiction.html
-
-C'est très clair avec l'utilisation des histoires dans l'éducation des enfants. On prépare les enfants à affronter la vie en leur racontant des histoires.
-
-
-Chaque évènement triste de la vie, chaque potentiel traumatisme est l'
-
-# meh contes de fées pas envoe d'aller la dedans, un peu cliché
-
-la pauvreté (le petit poucet), les mariages forcés (la belle et la bête) ou encore les tueurs en série (Hansel et Gretel).
-
-
-Ils se mettent dans la peau des personnages, ont peur, se serrent contre leurs parent. Et ils sont
-
-
-
-Je suis persuadé que c'est aussi le cas avec les adultes. Nous continuons toute notre vie à faire évoluer notre système émotionnel en consommant de la fiction. Les fans de film d'horreur sont de grands peureux qui se soignent.
-
-
-
-Parmi les différents supports pour la fiction, le jeu vidéo tient une place à part, car il permet d'incarner le/la protagoniste plus directement. On s'identifie d'autant plus fortement avec des personnages quand on dirige leurs mouvements. The Long Dark est un jeu à la première personne, il y a bien un personnage principal, mais on ne le voit pas et on l'oublie très vite. Ce n'est pas le héros du jeu qui survit seul aux rigueurs de l'hiver. C'est moi.
-
-
-Comme toutes les oeuvres de fiction, les jeu vidéos tiennent un rôle d'entraînement émotionnel. On essaye des choses dans un cadre safe, dans le confort de son appartement. Au fond je suis un grand trouillard, et je m'habitue à avoir peur avec des jeux d'horreur. Mais celui là va encore plus loin.
-
-(développer le paragrap[he précédent)
-
-Comment réagir quand on est seul dans la neige, qu'on a faim, qu'on perd du sang et qu'on est traqué par une meute de loups ? J'ai vécu ça. Je sais qu'il faut s'accrocher à du concret. L'idée d'un feu de camp. Avancer un pas après l'autre pour se rapprocher de la sécurité. Continuer d'avancer, et ramasser du bois sur le chemin.
-
-Je me suis habitué à survivre. C'est devenu une tache quotidienne. Et dans ce jeu comme dans la vie, on commence par assurer les bases, puis on construit une zone de confort. Pour ensuite l'élargir, la stabiliser.
-
-À un moment, mon corps a décidé de vivre. Alors j'ai dû réapprendre comment on fait, avec très peu d'énergie et très peu de moyens pour changer les choses. J'ai commencé par m'entraîner dans un monde de fiction.
 
