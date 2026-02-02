@@ -19,8 +19,10 @@ En 2020, je n'allais pas bien. Je souffrais d'une dépression sévère, et je co
 
 Pourtant j'y suis beaucoup retourné, j'ai passé plus de 450 heures dans ce monde froid et hostile. J'ai appris son fonctionnement, ses règles, son rythme. Aujourd'hui j'y suis à l'aise. Avec un peu de recul, je pense que j'avais besoin de ça. Exactement de ça.
 
-Je m'intéresse à la fiction et à son utilité depuis plusieurs années. J'ai été très inspiré par la lecture de *Pourquoi la fiction ?* de Jean-Marie Schaeffer, et comme lui, je vois les histoires comme des entraînements émotionnels, des terrains de jeu qui nous permettent d'expérimenter dans un cadre sécurisé. La fiction nous apprend à gérer nos émotions.
+{:#retour-note1}
+Je m'intéresse à la fiction et à son utilité depuis plusieurs années. J'ai été très inspiré par la lecture de *Pourquoi la fiction ?* de Jean-Marie Schaeffer <a href="#note1" class="link-to-note">[1]</a>, et comme lui, je vois les histoires comme des entraînements émotionnels, des terrains de jeu qui nous permettent d'expérimenter dans un cadre sécurisé. La fiction nous apprend à gérer nos émotions.
 
+{:.post-quote}
 > Le spectateur “bon public” qui verse des larmes à l’occasion de telle ou telle scène de Titanic ne verse pas des larmes fictionnelles, ni ne les verse fictionnellement : il verse des larmes réelles, les mêmes qu’il verserait peut-être par ailleurs lors d’un enterrement, et il les verse réellement, au sens où il est réellement triste.
 
 On ressent "réellement" les émotions transmises par une histoire, notre corps présente les mêmes symptômes. Un enfant à qui on raconte une histoire avec des monstres a vraiment peur. Le but de la démarche, c'est qu'il se serre contre l'adulte présent dans la pièce, qu'on le rassure, et que ça lui apprenne à gérer sa peur.
@@ -37,12 +39,19 @@ Dans le monde réel, j'ai créé puis progressivement étendu ma zone de confort
 
 Aujourd'hui je vais mieux. Chaque hiver, je retourne quelques soirées dans The Long Dark. Une fois apprivoisé, ce monde terrifiant est devenu rassurant. Je sais que je suis capable de survivre.
 
+<hr>
 
+Si ce texte vous a intéressé, dites-le moi : je réfléchis à en écrire plusieurs autres sur des sujets similaires. Reconstruire sa confiance en soi et monter en énergie avec Dark Souls, prendre soin de soi et créer des liens avec Stardew Valley.
 
+<hr>
 
-https://fr.wikipedia.org/wiki/Jean-Marie_Schaeffer
+{:#note1}
 
-https://www.seuil.com/ouvrage/pourquoi-la-fiction-jean-marie-schaeffer/9782020347082
+1\. *Pourquoi la fiction ?* est un ouvrage théorique sur la fiction, écrit par un philosophe spécialisé sur l'esthétique et les arts, Jean-Marie Schaeffer.
 
-https://uneviedelecture.fr/2024/05/13/pourquoi-la-fiction.html
+[Page Wikipedia de Jean-Marie Schaeffer](https://fr.wikipedia.org/wiki/Jean-Marie_Schaeffer)
 
+[Notice sur le site de l'éditeur](https://www.seuil.com/ouvrage/pourquoi-la-fiction-jean-marie-schaeffer/9782020347082)
+
+{:.post-back-to-text-link}
+<a href="#retour-note1">Retour au texte ></a>

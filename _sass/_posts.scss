@@ -114,6 +114,16 @@ h2.post-title, h2.page-title {
   text-transform: capitalize;
 }
 
+.post-quote {
+  max-width: 850px;
+  margin: .8rem auto;
+  padding: .5rem 1rem;
+}
+
+.post-back-to-text-link {
+  text-align: right;
+}
+
 .pre-footnotes {
   width: 850px;
   max-width: 100%;
