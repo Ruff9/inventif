@@ -3,13 +3,12 @@ layout: post
 title: "S'entraîner à survivre"
 date: 2026-01-05 10:20:20 +0200
 permalink: survivre
-cover: vinland_saga/vinland_cover.png
+cover: survivre/TLD_cover.png
 categories: texte
-tags: jeu-video sante-mentale
-draft: true
+tags: jeu&nbsp;video sante&nbsp;mentale
 ---
 
-{% include image.html name="vinland_saga/vinland_cover.png" %}
+{% include image.html name="survivre/TLD_cover.png" %}
 
 En 2020, je n'allais pas bien. Je souffrais d'une dépression sévère, et je commençais tout juste à remonter la pente. Pour sortir de ma situation, je m'accrochais à tout ce que je pouvais, toutes les ressources étaient bonnes à prendre. De la nourriture, de l'alcool, des bandes dessinées, des jeux vidéo. J'ai notamment passé beaucoup de temps sur The Long Dark, un jeu de survie très dur, très oppressant.
 
@@ -27,6 +26,8 @@ Je m'intéresse à la fiction et à son utilité depuis plusieurs années. J'ai 
 
 On ressent "réellement" les émotions transmises par une histoire, notre corps présente les mêmes symptômes. Un enfant à qui on raconte une histoire avec des monstres a vraiment peur. Le but de la démarche, c'est qu'il se serre contre l'adulte présent dans la pièce, qu'on le rassure, et que ça lui apprenne à gérer sa peur.
 
+{% include image.html name="survivre/garage_b.png" %}
+
 Le fonctionnement est le même pour les adultes. Les fans de films d'horreur sont de grand.e.s trouillard.e.s qui se soignent. À la longue, on peut finir par aimer certaines émotions transmises, et y revenir juste pour le plaisir. Les personnes qui apprécient les comédies romantiques aiment le sentiment amoureux, certaines fictions leurs permettent de ressentir exactement ce qu'il veulent.
 
 Parmi les différentes formes de fiction, le jeu vidéo est particulièrement impactant, puisque qu'on y incarne un personnage directement. L'identification au protagoniste de l'histoire est plus facile qu'ailleurs. The Long Dark est un jeu à la première personne, un monde qu'on explore soi-même. Tout est fait pour qu'on oublie très vite le personnage principal : ce n'est pas lui qui a survécu des centaines d'heures dans la neige. C'est moi.
@@ -35,23 +36,28 @@ Qu'es-ce que je venais chercher ? Le soulagment d'avoir survécu une journée de
 
 Comment réagir quand on est seul dans la neige, qu'on a faim, qu'on perd du sang et qu'on est traqué par une meute de loups ? On s'accroche à du concret. L'idée d'un feu de camp. On avance un pas après l'autre pour se rapprocher de la sécurité, et on ramasse du bois sur le chemin.
 
+{% include image.html name="survivre/feu_grotte_clair.png" %}
+
 Dans le monde réel, j'ai créé puis progressivement étendu ma zone de confort. J'ai suivi une séance de thérapie après l'autre, tout en gérant le quotidien comme je pouvais. Jusqu'à guérir.
 
 Aujourd'hui je vais mieux. Chaque hiver, je retourne quelques soirées dans The Long Dark. Une fois apprivoisé, ce monde terrifiant est devenu rassurant. Je sais que je suis capable de survivre.
 
+<br/>
+<br/>
+<br/>
 <hr>
 
-Si ce texte vous a intéressé, dites-le moi : je réfléchis à en écrire plusieurs autres sur des sujets similaires. Reconstruire sa confiance en soi et monter en énergie avec Dark Souls, prendre soin de soi et créer des liens avec Stardew Valley.
+Si ce texte vous a intéressé, dites-le moi : je réfléchis à en faire le début d'une série. Parmi les potentiels épisodes suivants : Reconstruire sa confiance et monter en énergie avec Dark Souls, prendre soin de soi et créer des liens avec Stardew Valley.
 
 <hr>
 
 {:#note1}
 
-1\. *Pourquoi la fiction ?* est un ouvrage théorique sur la fiction, écrit par un philosophe spécialisé sur l'esthétique et les arts, Jean-Marie Schaeffer.
+1\. Jean-Marie Schaeffer est un philosophe spécialisé sur l'esthétique et les arts, chercheur au CNRS et directeur d'études à l'EHESS. Il a étudié l'image photographique, le récit ou encore la fiction.
 
 [Page Wikipedia de Jean-Marie Schaeffer](https://fr.wikipedia.org/wiki/Jean-Marie_Schaeffer)
 
-[Notice sur le site de l'éditeur](https://www.seuil.com/ouvrage/pourquoi-la-fiction-jean-marie-schaeffer/9782020347082)
+[Notice de Pourquoi la fiction ? sur le site de l'éditeur](https://www.seuil.com/ouvrage/pourquoi-la-fiction-jean-marie-schaeffer/9782020347082)
 
 {:.post-back-to-text-link}
 <a href="#retour-note1">Retour au texte ></a>
