@@ -28,7 +28,7 @@ On ressent "réellement" les émotions transmises par une histoire, notre corps 
 
 {% include image.html name="survivre/garage_b.png" %}
 
-Le fonctionnement est le même pour les adultes. Les fans de films d'horreur sont de grand.e.s trouillard.e.s qui se soignent. À la longue, on peut finir par aimer certaines émotions transmises, et y revenir juste pour le plaisir. Les personnes qui apprécient les comédies romantiques aiment le sentiment amoureux, certaines fictions leurs permettent de ressentir exactement ce qu'il veulent.
+Le fonctionnement est le même pour les adultes. Les fans de films d'horreur sont de grand.e.s trouillard.e.s qui se soignent. À la longue, on peut finir par aimer certaines émotions transmises, et y revenir juste pour le plaisir. Les personnes qui apprécient les comédies romantiques aiment le sentiment amoureux, certaines fictions leurs permettent de ressentir exactement ce qu'elles veulent.
 
 Parmi les différentes formes de fiction, le jeu vidéo est particulièrement impactant, puisque qu'on y incarne un personnage directement. L'identification au protagoniste de l'histoire est plus facile qu'ailleurs. The Long Dark est un jeu à la première personne, un monde qu'on explore soi-même. Tout est fait pour qu'on oublie très vite le personnage principal : ce n'est pas lui qui a survécu des centaines d'heures dans la neige. C'est moi.
 
